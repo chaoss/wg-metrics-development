@@ -28,13 +28,13 @@ We're just getting started!
 - [Dawn Foster](https://github.com/geekygirldawn)
 - [Georg J.P. Link](https://github.com/GeorgLink)
 - [Sean P. Goggins](https://github.com/sgoggins)
+
 **Core Contributors**
 
 - [Brian Proffitt](https://github.com/bproffitt)
 - [Daniel Izquierdo Cortazar](https://github.com/dicortazar)
 - [John Mertic](https://github.com/jmertic)
 - [Matt Germonprez](https://github.com/germonprez)
-- [Sean P. Goggins](https://github.com/sgoggins)
 - [Tobie Langel](https://github.com/tobie)
 
 
