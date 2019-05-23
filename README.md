@@ -27,7 +27,7 @@ We're just getting started!
 
 - [Dawn Foster](https://github.com/geekygirldawn)
 - [Georg J.P. Link](https://github.com/GeorgLink)
-
+- [Sean P. Goggins](https://github.com/sgoggins)
 **Core Contributors**
 
 - [Brian Proffitt](https://github.com/bproffitt)
@@ -40,7 +40,7 @@ We're just getting started!
 
 The criteria for becoming a core contributor is to participate at least once
 per month over a period of 3 months.  Participation could include providing
-feedback in the weekly D&I meetings, providing feedback on docs, or making
+feedback in the weekly meetings, providing feedback on docs, or making
 other contributions on GitHub (commits / issues).  People not participating
 over a 3 month period may be removed as core contributors.
 
