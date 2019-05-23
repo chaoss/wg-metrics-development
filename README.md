@@ -35,7 +35,6 @@ We're just getting started!
 - [Daniel Izquierdo Cortazar](https://github.com/dicortazar)
 - [John Mertic](https://github.com/jmertic)
 - [Matt Germonprez](https://github.com/germonprez)
-- [Sean P. Goggins](https://github.com/sgoggins)
 - [Tobie Langel](https://github.com/tobie)
 
 
