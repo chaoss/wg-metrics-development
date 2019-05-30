@@ -51,7 +51,16 @@ If you'd like to be on our squad, an easy way to start is by going through the
 
 Ordered by first name
 
-Andrea Gallo, [Kate Stewart](https://github.com/kestewart)
+Andrea Gallo, 
+[Brian Proffitt](https://github.com/bproffitt),
+[Daniel Izquierdo Cortazar](https://github.com/dicortazar),
+[Dawn Foster](https://github.com/geekygirldawn),
+[Georg J.P. Link](https://github.com/GeorgLink),
+[John Mertic](https://github.com/jmertic),
+[Kate Stewart](https://github.com/kestewart),
+[Matt Germonprez](https://github.com/germonprez),
+[Sean P. Goggins](https://github.com/sgoggins),
+[Tobie Langel](https://github.com/tobie)
 
 Are you eligible to be on this list? You are if you helped in any capacity, for
 example: Filed an issue.  Created a Pull Request. Gave feedback on our work.
