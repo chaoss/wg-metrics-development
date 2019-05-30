@@ -51,7 +51,7 @@ If you'd like to be on our squad, an easy way to start is by going through the
 
 Ordered by first name
 
-[Kate Stewart](https://github.com/kestewart)
+Andrea Gallo, [Kate Stewart](https://github.com/kestewart)
 
 Are you eligible to be on this list? You are if you helped in any capacity, for
 example: Filed an issue.  Created a Pull Request. Gave feedback on our work.
