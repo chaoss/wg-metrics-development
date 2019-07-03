@@ -1,5 +1,7 @@
 # Organizational Diversity
 
+[Comment on Release Candidate](https://github.com/chaoss/wg-common/issues/22)
+
 What is the organizational diversity of contributions?
 
 ## Description
