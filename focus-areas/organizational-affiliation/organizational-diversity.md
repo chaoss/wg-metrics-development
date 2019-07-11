@@ -18,6 +18,7 @@ Organizational diversity expresses how many different organizations are involved
 * Collect data from data sources where contributions occur.
 * Identify contributor affiliations to get a good estimate of which organizations they belong.
 * Correlate information about contributions, assigning each to appropriate organization.
+* Depending on the needs of the project, you may want to consider such issues as how to handle multiple email addresses, affiliation changes over time, or contractor vs. employee.
 
 ## Success Metrics
 
