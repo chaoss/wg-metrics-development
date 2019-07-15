@@ -43,12 +43,6 @@ Organizational diversity expresses how many different organizations are involved
 * In projects with the concept of code ownership, % of code owners affiliated with each organization weighed by the importance/size/LoC of the code they own and the number of co-owners.
 
 
-## Resources
-* Potential implementations and references:
-  * [https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html](https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html)
-  * [Kata Containers dashboard entry page](https://katacontainers.biterg.io) (bottom of this)
-  * [Augur](https://github.com/chaoss/augur)
-
 ## Known Implementations
 
 * [GrimoireLab](https://chaoss.github.io/grimoirelab) supports organizational diversity metrics out of the box. The [GrimoireLab SortingHat](https://github.com/chaoss/grimoirelab-sortinghat) manages identities. The [GrimoireLab Hatstall](https://github.com/chaoss/grimoirelab-hatstall) user interface allows correcting organizational affiliation of people and even recording affiliation changes.
@@ -62,3 +56,9 @@ Organizational diversity expresses how many different organizations are involved
     * Example Screenshot
 
     ![Organizational Diversity Pie Chart](images/piechart.png)
+    
+## Resources
+* Potential implementations and references:
+  * [https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html](https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html)
+  * [Kata Containers dashboard entry page](https://katacontainers.biterg.io) (bottom of this)
+  * [Augur](https://github.com/chaoss/augur)
