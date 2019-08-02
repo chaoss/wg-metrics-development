@@ -1,6 +1,6 @@
 # Organizational Diversity
 
-What is the organizational diversity of contributions?
+Question: What is the organizational diversity of contributions?
 
 ## Description
 
