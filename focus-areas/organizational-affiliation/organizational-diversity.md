@@ -36,8 +36,8 @@ Organizational diversity expresses how many different organizations are involved
 * % of lines of code contributed by each organization
 * % issues filed by each organization
 * [Contributing Organizations](https://github.com/chaoss/metrics/blob/master/activity-metrics/contributing-organizations.md) - What is the number of contributing organizations?
-* [New Contributing Organizations](https://github.com/chaoss/metrics/blob/master/activity-metrics/new-contributing-organizations.md) - What is the number of new contributing organizations?
-* New Contributor Organizations - New organizations contributing to the project over time.
+* [New Contributing Organizations](https://github.com/chaoss/metrics/blob/master/activity-metrics/new-contributing-organizations.md) -  WHat is the number of new organizations that contribute to the project over time? 
+* New Organizational Contributors - What are the organizational affiliations of new contributors over time? 
 * Number of Contributing Organizations - Number of organizations participating in the project over time.
 * Elephant Factor - If 50% of community members are employed by the same company, it is the elephant in the room. Formally: The minimum number of companies whose employees perform 50% of the commits
 * [Affiliation Diversity](https://github.com/chaoss/metrics/blob/master/activity-metrics/contributor-diversity.md) - Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.
