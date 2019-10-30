@@ -23,7 +23,7 @@ Repository ID
 
 ### Visualizations
 
-![Date_Time_Chart_1](images/1.png | width=100)
+![Date_Time_Chart_1](images/1.png) {:height="50%" width="50%"}
 ![Date_Time_Chart_2](images/2.png)
 ![Date_Time_Chart_3](images/3.png)
 ![Date_Time_Chart_4](images/4.png)
