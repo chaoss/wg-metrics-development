@@ -1,6 +1,6 @@
 ## Who
 
-Goal: 
+Goal: Understand organizational and personal engagement with open source projects.
 
 
 Metric | Question
