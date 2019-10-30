@@ -35,4 +35,4 @@ Augur API Endpoint
 
 ## Resources
 
-
+[Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time)
