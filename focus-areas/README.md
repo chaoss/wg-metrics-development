@@ -6,5 +6,5 @@ Focus Area | Goal
 --- | ---
 [Who](./who) | Understand organizational and personal engagement with open source projects. 
 [What](./what) | Understand what contributions organizations and people are being made.
-[When](./when) | Understand when contributiosn from organizations and people are happening. 
+[When](./when) | Understand when contributions from organizations and people are happening. 
 [Where](./where) | Understand where contributors from organizations and people are happening. 
