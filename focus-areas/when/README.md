@@ -1,7 +1,7 @@
 
-Goal: Understand where open source contributors are distributed around the world.
+Goal: Understand when contributions from organizations and people are happening.
 
 
 Metric | Question
 --- | ---
-Commit Hour(s) | Does a contributor commit during or outside of regular business hours? 
+Activity Dates and Times | Does a contributor make contributions to the project? 
