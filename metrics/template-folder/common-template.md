@@ -1,4 +1,4 @@
-# {Metric Name}
+# Metric Name
 
 Question: 
 
