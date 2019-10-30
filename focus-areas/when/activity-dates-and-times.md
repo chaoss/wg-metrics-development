@@ -23,6 +23,10 @@ Repository ID
 
 ### Visualizations
 
+![Date_Time_Chart_1](images/1.png)
+![Date_Time_Chart_2](images/2.png)
+![Date_Time_Chart_3](images/3.png)
+![Date_Time_Chart_4](images/4.png)
 
 ### Tools Providing Metric
 
@@ -30,7 +34,5 @@ GrimoireLab
 Augur API Endpoint
 
 ## Resources
-
-Include a pointer to the differences in picking between local time and UTC time
 
 
