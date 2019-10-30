@@ -15,3 +15,5 @@ Peripheral Organizations | Who are the drive-by organizational contributors?
 Leadership Organizational Affiliation | How are leadership positions distributed across organizations?
 Financial Considerations | How do financial considerations impact the projects?
 Organizational Ownership Distribution | How is code ownership distributed across organizational and non-organizational contributors?
+Contributor Country | What is the primary residence of the contributor?
+Contributor Employer Country | What is the headquarters location of the organization employing the contributor if they are contributing on behalf of their employer?
