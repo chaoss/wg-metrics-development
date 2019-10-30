@@ -24,11 +24,10 @@ Repository ID
 ### Visualizations
 
 <img src="images/1.png" alt="Date_Time_Chart_1" width="700"/>
+<img src="images/2.png" alt="Date_Time_Chart_2" width="700"/>
+<img src="images/3.png" alt="Date_Time_Chart_3" width="700"/>
+<img src="images/4.png" alt="Date_Time_Chart_4" width="700"/>
 
-![Date_Time_Chart_1](images/1.png)
-![Date_Time_Chart_2](images/2.png)
-![Date_Time_Chart_3](images/3.png)
-![Date_Time_Chart_4](images/4.png)
 
 ### Tools Providing Metric
 
