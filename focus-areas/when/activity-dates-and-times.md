@@ -23,7 +23,7 @@ Repository ID
 
 ### Visualizations
 
-<img src="images/1.png" alt="Date_Time_Chart_1" width="1000"/>
+<img src="images/1.png" alt="Date_Time_Chart_1" width="750"/>
 
 ![Date_Time_Chart_1](images/1.png)
 ![Date_Time_Chart_2](images/2.png)
