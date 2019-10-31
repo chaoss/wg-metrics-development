@@ -14,12 +14,12 @@ Improve transparency for open source project and community managers as to when a
 ## Implementation
 
 ### Filters
-Individual by Organization
-Aggregation of time by UTC time 
-Can show what times across the globe contributions are made; when the project is most active.
-Aggregation of time by local time
-Can show what times of day in their local times they contribute. Conclusions about the If contributions are more during working hours, or if contributions are more during evening hours.
-Repository ID
+* Individual by Organization
+* Aggregation of time by UTC time 
+  - Can show what times across the globe contributions are made; when the project is most active.
+* Aggregation of time by local time
+  - Can show what times of day in their local times they contribute. Conclusions about the If contributions are more during working hours, or if contributions are more during evening hours.
+* Repository ID
 
 ### Visualizations
 
