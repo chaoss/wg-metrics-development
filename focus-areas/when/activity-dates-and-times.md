@@ -4,7 +4,7 @@ Question: What are the dates and timestamps of when contributor activities occur
 
 ## Description
 
-Individuals engage in activities in open source projects at various times of the day. This metric is aimed at determining the dates and times of when individual activities were completed.
+Individuals engage in activities in open source projects at various times of the day. This metric is aimed at determining the dates and times of when individual activities were completed. The data can be used to probabilistically estimate where on earth contributions come from in cases where the time zone is not UTC. 
 
 ## Objectives
 
