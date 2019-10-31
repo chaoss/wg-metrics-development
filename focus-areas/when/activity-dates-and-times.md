@@ -8,8 +8,8 @@ Individuals engage in activities in open source projects at various times of the
 
 ## Objectives
 
-Improve transparency for employers about when organizational employees are engaging with open source projects
-Improve transparency for open source project and community managers as to when activity is occurring 
+* Improve transparency for employers about when organizational employees are engaging with open source projects
+* Improve transparency for open source project and community managers as to when activity is occurring 
 
 ## Implementation
 
