@@ -19,16 +19,17 @@ responsiveness, geographic coverage, and more.
 
 ### Work To Date
 
-We're just getting started!
-
+We are involved in the release of CHAOSS metrics. Check out our published work at [https://chaoss.community/metrics/](https://chaoss.community/metrics/)
 
 ## Focus Areas
 
+
 Focus Area | Goal
 --- | ---
-[Organizational Affiliation](./focus-areas/organizational-affiliation) | Understand organizational engagement with open source projects. 
-Geography | Understand where open source contributors are distributed around the world.
-Responsiveness | Understand how quickly a project responds to contributions and engages contributors.
+[Who](./focus-areas/who) | Understand organizational and personal engagement with open source projects. 
+[What](./focus-areas/what) | Understand what contributions organizations and people are being made.
+[When](./focus-areas/when) | Understand when contributions from organizations and people are happening. 
+[Where](./focus-areas/where) | Understand where contributors from organizations and people are happening. 
 
 
 ## Contributors

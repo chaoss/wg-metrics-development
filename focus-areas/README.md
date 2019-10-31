@@ -4,6 +4,7 @@ The common metrics dealt with in this working group are organized in focus areas
 
 Focus Area | Goal
 --- | ---
-[Organizational Affiliation](./organizational-affiliation) | Understand organizational engagement with open source projects. 
-[Geography](./geography) | Understand where open source contributors are distributed around the world.
-Responsiveness | Understand how quickly a project responds to contributions and engages contributors.
+[Who](./who) | Understand organizational and personal engagement with open source projects. 
+[What](./what) | Understand what contributions organizations and people are being made.
+[When](./when) | Understand when contributions from organizations and people are happening. 
+[Where](./where) | Understand where contributors from organizations and people are happening. 
