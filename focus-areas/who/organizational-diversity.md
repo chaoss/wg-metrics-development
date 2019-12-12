@@ -20,7 +20,7 @@ Organizational diversity expresses how many different organizations are involved
 * Correlate information about contributions, assigning each to appropriate organization.
 * Depending on the needs of the project, you may want to consider such issues as how to handle multiple email addresses, affiliation changes over time, or contractor vs. employee.
 
-## Tools Providing the Metric
+### Tools Providing the Metric
 
 * [GrimoireLab](https://chaoss.github.io/grimoirelab) supports organizational diversity metrics out of the box. The [GrimoireLab SortingHat](https://github.com/chaoss/grimoirelab-sortinghat) manages identities. The [GrimoireLab Hatstall](https://github.com/chaoss/grimoirelab-hatstall) user interface allows correcting organizational affiliation of people and even recording affiliation changes.
   * View an example visualization on the [CHAOSS instance of Bitergia Analytics](https://chaoss.biterg.io/app/kibana#/dashboard/Community-Structure-by-Organization).
@@ -36,13 +36,13 @@ Organizational diversity expresses how many different organizations are involved
 
 ### Data Collection Strategies
 
-### Qualitative
+**Qualitative**
 
 * Footprint of an organization in a project or ecosystem
 * Influence of an organization in a project or ecosystem
 * Affiliation diversity in governance structures.
 
-### Quantitative
+**Quantitative**
 
 * % of commits by each organization
 * % of merges/reviews from each organization
