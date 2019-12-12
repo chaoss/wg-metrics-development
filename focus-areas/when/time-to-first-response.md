@@ -24,7 +24,7 @@ Time to first response of an activity = time first response was posted to the ac
 
 
 ### Visualizations
-![GrimoireLab Panel: Efficiency Timing Overview](./images/images/efficiency_timing_overview.png)
+![GrimoireLab Panel: Efficiency Timing Overview](https://github.com/chaoss/wg-common/blob/GeorgLink-patch-3/focus-areas/when/images/efficiency_timing_overview.png)
 
 ### Tools Providing the Metric
 
