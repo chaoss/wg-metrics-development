@@ -57,7 +57,7 @@ Organizational diversity expresses how many different organizations are involved
 * [Affiliation Diversity](https://github.com/chaoss/metrics/blob/master/activity-metrics/contributor-diversity.md) - Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.
 * In projects with the concept of code ownership, % of code owners affiliated with each organization weighed by the importance/size/LoC of the code they own and the number of co-owners.
 
-## Resources
+## References
 * Potential implementations and references:
   * [https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html](https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html)
   * [Kata Containers dashboard entry page](https://katacontainers.biterg.io) (bottom of this)
