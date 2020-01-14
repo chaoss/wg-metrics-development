@@ -1,6 +1,6 @@
 # Time to First Response 
 
-How much time passes between when an activity requiring attention is created and the first response? 
+Question: How much time passes between when an activity requiring attention is created and the first response? 
 
 
 ## Description
@@ -21,10 +21,11 @@ Time to first response of an activity = time first response was posted to the ac
 ### Filters
 
 * Role of responder, e.g., only count maintainer responses
+* Automated responses, e.g., only count replies from real people by filtering bots and other automated replies
 
 
 ### Visualizations
-![GrimoireLab Panel: Efficiency Timing Overview](https://github.com/chaoss/wg-common/blob/GeorgLink-patch-3/focus-areas/when/images/efficiency_timing_overview.png)
+![GrimoireLab Panel: Efficiency Timing Overview](https://github.com/chaoss/wg-common/blob/master/focus-areas/when/images/efficiency_timing_overview.png)
 
 ### Tools Providing the Metric
 
