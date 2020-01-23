@@ -31,10 +31,10 @@ Individuals engage in activities in open source projects at various times of the
 
 ### Tools Providing Metric
 
-GrimoireLab
+[GrimoireLab](https://chaoss.github.io/grimoirelab/)
 
-Augur API Endpoint
+[Augur Date/Timestamps](https://docs.augur.net/#dates-timestamps)
 
-## Resources
+## References
 
 [Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time)
