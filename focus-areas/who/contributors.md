@@ -60,7 +60,7 @@ By location of engagement. For example:
 As indicated above, some contributor information is available via software such as GrimoireLab and Augur. However, some contributor insights are less easily obtained via trace data. In these cases, surveys with community members or event registrations can provide the desired information. Sample questions include:
 
 * Interview question: Which contributors do not typically appear in lists of contributors? 
-* Interview question: Which contributors is often overlooked as important contributors because their contributions are more “behind the scenes”?
+* Interview question: Which contributors are often overlooked as important contributors because their contributions are more “behind the scenes”?
 * Interview question: What other community members do you regularly work with?
 
 Additionally, surveys with community members can provide insight to learn more about contributions to the project. Sample questions include:
