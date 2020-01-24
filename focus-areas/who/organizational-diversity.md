@@ -34,6 +34,12 @@ Organizational diversity expresses how many different organizations are involved
 
     ![Organizational Diversity Pie Chart](images/piechart.png)
 
+* [LF Analytics](https://lfanalytics.io) provides organization diversity metrics in the primary view for commits, issues filed, and communication channels (current support for Slack and groups.io)
+
+![Organizational Diversity View](images/lfanalytics-orgdiversity.png)
+
+
+
 ### Data Collection Strategies
 
 **Qualitative**
