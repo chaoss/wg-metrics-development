@@ -38,16 +38,16 @@ By location of engagement. For example:
 
 ### Visualizations
 
-1. List of contributor names (often with information about their level of engagement)
+1. List of contributor names (often with information about their level of engagement)<br />
 ![Contributor names and info](images/top_contributor_info.png)
 
-2. Summary number of contributors<br>
+2. Summary number of contributors<br />
 ![Summary number of contributors](images/summary_contributor_number.png)
 
-3. Change in the number of active contributors over time
+3. Change in the number of active contributors over time<br />
 ![Contributor growth](images/contributor_growth.png)
 
-4. New contributors (sort list of contributors by date of first contribution)
+4. New contributors (sort list of contributors by date of first contribution)<br />
 ![New contributors](images/first_commit_date.png)
 
 ### Tools Providing the Metric
