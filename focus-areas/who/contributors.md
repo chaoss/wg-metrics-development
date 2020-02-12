@@ -32,7 +32,7 @@ By location of engagement. For example:
 * IRC authors
 * Blog authors
 * By release cycle
-* Timeframe of activity in the project
+* Timeframe of activity in the project, e.g, find new contributors
 * Programming languages of the project 
 * Role or function in project
 
