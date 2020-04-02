@@ -11,7 +11,8 @@ A variety of contribution types can demonstrate that a project is mature and wel
 How contributions are defined, quantified, tracked and made public is a challenging question. Answers may be unique to each project and the following suggestions are a starting point. As a general guideline, it is difficult to compare different contribution types with each other and they might better be recognized independently. 
 
 - The following list can help with identifying contribution types:
-  * Coding (can be separated further, e.g., front-end vs. backend)
+  * Writing Code
+  * Reviewing Code
   * Bug Triaging
   * Quality Assurance and Testing
   * Security-Related Activities
