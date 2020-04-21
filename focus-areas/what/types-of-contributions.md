@@ -1,14 +1,17 @@
 # Types of Contributions
 Question: What types of contributions are being made?
+
+### This metric is part of the continuous release process and has been through the 30-day review period. However, the information displayed on this page may still be edited prior to the regular release.
+
 ## Description
 
-Multiple, varied contributions make an open source project healthy. Many projects have community members who do not write code but contribute in equally valuable ways by managing the community, triaging bugs, evangelizing the project, supporting users, or helping in other ways. 
+Multiple, varied contributions make an open source project healthy. Many projects have community members who do not write code but contribute in equally valuable ways by managing the community, triaging bugs, evangelizing the project, supporting users, or helping in other ways.
 ## Objectives
 
 A variety of contribution types can demonstrate that a project is mature and well-rounded with sufficient activity to support all aspects of the project, and enable paths to leadership that are supportive of a variety of contribution types and people with varying expertise beyond coding.
 ## Implementation
 
-How contributions are defined, quantified, tracked and made public is a challenging question. Answers may be unique to each project and the following suggestions are a starting point. As a general guideline, it is difficult to compare different contribution types with each other and they might better be recognized independently. 
+How contributions are defined, quantified, tracked and made public is a challenging question. Answers may be unique to each project and the following suggestions are a starting point. As a general guideline, it is difficult to compare different contribution types with each other and they might better be recognized independently.
 
 - The following list can help with identifying contribution types:
   * Writing Code
@@ -30,8 +33,8 @@ How contributions are defined, quantified, tracked and made public is a challeng
   * Public Relations - Interviews with Technical Press
   * Speaking at Events
   * Marketing and Campaign Advocacy
-  * Website Development 
-  * Legal Council 
+  * Website Development
+  * Legal Council
   * Financial Management
 
 ### Data Collection Strategies
@@ -47,7 +50,7 @@ How contributions are defined, quantified, tracked and made public is a challeng
   * Proxy contributions through communication channel activity. For example, If quality assurance members (QA) have their own mailing list, then activity around QA contributions can be measured by proxy from mailing list activity.
 
 - **Collect Trace Data:** Measure contributions through collaboration tool log data.
-  * For example, code contributions can be counted from a source code repository, wiki contributions can be counted from a wiki edit history, and email messages can be counted from an email archive 
+  * For example, code contributions can be counted from a source code repository, wiki contributions can be counted from a wiki edit history, and email messages can be counted from an email archive
 
 - **Automate Classification:** Train an artificial intelligence (AI) bot to detect and classify contributions.
   * An AI bot can assist in categorizing contributions, for example, help requests vs. support provided, or feature request vs. bug reporting, especially if these are all done in the same issue tracker.
@@ -60,8 +63,8 @@ _Other considerations:_
 - Account for activity from bots when mining contribution types at large scale.
 
 ## References
-- https://medium.com/@sunnydeveloper/revisiting-the-word-recognition-in-foss-and-the-dream-of-open-credentials-d15385d49447 
-- https://24pullrequests.com/contributing 
-- https://smartbear.com/blog/test-and-monitor/14-ways-to-contribute-to-open-source-without-being/ 
+- https://medium.com/@sunnydeveloper/revisiting-the-word-recognition-in-foss-and-the-dream-of-open-credentials-d15385d49447
+- https://24pullrequests.com/contributing
+- https://smartbear.com/blog/test-and-monitor/14-ways-to-contribute-to-open-source-without-being/
 - https://wiki.openstack.org/wiki/AUCRecognition
 - https://www.drupal.org/drupalorg/blog/a-guide-to-issue-credits-and-the-drupal.org-marketplace
