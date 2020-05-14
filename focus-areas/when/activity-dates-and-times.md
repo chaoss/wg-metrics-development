@@ -20,6 +20,7 @@ Individuals engage in activities in open source projects at various times of the
 * Aggregation of time by local time
   - Can show what times of day in their local times they contribute. Conclusions about the If contributions are more during working hours, or if contributions are more during evening hours.
 * Repository ID
+* Segement of a community, (e.g., GrimoireLab has more EU TimeZone activity and Augur more US Timezones activity)
 
 ### Visualizations
 
