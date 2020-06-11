@@ -6,7 +6,7 @@ Goal: Understand organizational and personal engagement with open source project
 Metric | Question
 --- | ---
 [Contributors](contributors.md) | Who are the contributors to a project?
-[Contributor Location](contributor-location.md) | What is the location the contributors?
+[Contributor Location](contributor-location.md) | What is the location contributors?
 [Organizational Diversity](organizational-diversity.md) | What is the organizational diversity of contributions?
 Organizational Influence | How dominant are individual organizations in a project?
 Organizational Relationships | How do organizational partnerships / collaborations impact the project?
