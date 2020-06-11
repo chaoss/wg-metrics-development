@@ -4,7 +4,7 @@ Question: What is the location of contributors?
 
 ## Description
 
-To determine the location of the contributor. 
+Geographical location from which contributors contribute, where they live, or where they work. 
 
 
 ## Objectives
