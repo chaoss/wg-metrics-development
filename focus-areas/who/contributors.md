@@ -24,9 +24,9 @@ Collect author names from collaboration tools a project uses.
 ### Filters
 
 By location of engagement. For example:
-* Repository authors
+* Commit authors
 * Issue authors
-* Code review participants
+* Review participants, e.g., in pull requests
 * Mailing list authors
 * Event participants
 * IRC authors
