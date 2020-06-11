@@ -1,9 +1,10 @@
 # Contributor Location
 
+Question: What is the location of contributors?
 
 ## Description
 
-Goal: To determine the location of the contributor. 
+To determine the location of the contributor. 
 
 
 ## Objectives
