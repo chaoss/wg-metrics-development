@@ -1,7 +1,7 @@
 # Types of Contributions
 Question: What types of contributions are being made?
 
-_This metric is part of the continuous release process, has been through the 30-day review period. The information displayed on the website may still be edited prior to the regular release_
+_This metric is a release candidate The 30 day comment period for this metric begins on 07/01/2020 and ends on 07/031/2020. To comment on this metric please see [Issue #56](https://github.com/chaoss/wg-common/issues/56). Following the comment period this metric will be included in the next regular release._
 
 ## Description
 
