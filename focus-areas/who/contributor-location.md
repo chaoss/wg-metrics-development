@@ -2,7 +2,7 @@
 
 Question: What is the location of contributors?
 
-_This metric is a release candidate. The 30 day comment period for this metric begins on 07/01/2020 and ends on 07/031/2020. To comment on this metric please see [Issue #71](https://github.com/chaoss/wg-common/issues/71). Following the comment period, this metric will be included in the release._
+_This metric is a release candidate. The 30 day comment period for this metric begins on 07/01/2020 and ends on 07/31/2020. To comment on this metric please see [Issue #71](https://github.com/chaoss/wg-common/issues/71). Following the comment period, this metric will be included in the release._
 
 ## Description
 
