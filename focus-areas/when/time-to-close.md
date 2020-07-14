@@ -17,7 +17,7 @@ Related metric: [Issue Resolution Duration](https://chaoss.community/metric-issu
 
 ## Implementation  
 
-###Filters  
+### Filters  
 
 * Creator of operation (e.g., new contributor vs. maintainer)  
 * First closed, final closed   
