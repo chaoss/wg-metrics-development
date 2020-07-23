@@ -20,6 +20,7 @@ Individuals engage in activities in open source projects at various times of the
 * Aggregation of time by local time
   - Can show what times of day in their local times they contribute. Conclusions about the If contributions are more during working hours, or if contributions are more during evening hours.
 * Repository ID
+* Segment of a community, (e.g., GrimoireLab has more EU time zones activity and Augur more US time zones activity)
 
 ### Visualizations
 
@@ -31,10 +32,10 @@ Individuals engage in activities in open source projects at various times of the
 
 ### Tools Providing Metric
 
-GrimoireLab
+[GrimoireLab](https://chaoss.github.io/grimoirelab/)
 
-Augur API Endpoint
+[Augur Date/Timestamps](https://docs.augur.net/#dates-timestamps)
 
-## Resources
+## References
 
 [Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time)

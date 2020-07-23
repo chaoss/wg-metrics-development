@@ -20,7 +20,7 @@ Organizational diversity expresses how many different organizations are involved
 * Correlate information about contributions, assigning each to appropriate organization.
 * Depending on the needs of the project, you may want to consider such issues as how to handle multiple email addresses, affiliation changes over time, or contractor vs. employee.
 
-## Tools Providing the Metric
+### Tools Providing the Metric
 
 * [GrimoireLab](https://chaoss.github.io/grimoirelab) supports organizational diversity metrics out of the box. The [GrimoireLab SortingHat](https://github.com/chaoss/grimoirelab-sortinghat) manages identities. The [GrimoireLab Hatstall](https://github.com/chaoss/grimoirelab-hatstall) user interface allows correcting organizational affiliation of people and even recording affiliation changes.
   * View an example visualization on the [CHAOSS instance of Bitergia Analytics](https://chaoss.biterg.io/app/kibana#/dashboard/Community-Structure-by-Organization).
@@ -34,15 +34,21 @@ Organizational diversity expresses how many different organizations are involved
 
     ![Organizational Diversity Pie Chart](images/piechart.png)
 
+* [LF Analytics](https://lfanalytics.io) provides organization diversity metrics in the primary view for commits, issues filed, and communication channels (current support for Slack and groups.io)
+
+![Organizational Diversity View](images/lfanalytics-orgdiversity.png)
+
+
+
 ### Data Collection Strategies
 
-### Qualitative
+**Qualitative**
 
 * Footprint of an organization in a project or ecosystem
 * Influence of an organization in a project or ecosystem
 * Affiliation diversity in governance structures.
 
-### Quantitative
+**Quantitative**
 
 * % of commits by each organization
 * % of merges/reviews from each organization
@@ -57,7 +63,7 @@ Organizational diversity expresses how many different organizations are involved
 * [Affiliation Diversity](https://github.com/chaoss/metrics/blob/master/activity-metrics/contributor-diversity.md) - Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.
 * In projects with the concept of code ownership, % of code owners affiliated with each organization weighed by the importance/size/LoC of the code they own and the number of co-owners.
 
-## Resources
+## References
 * Potential implementations and references:
   * [https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html](https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html)
   * [Kata Containers dashboard entry page](https://katacontainers.biterg.io) (bottom of this)

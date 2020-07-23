@@ -29,7 +29,7 @@ Focus Area | Goal
 [Who](./focus-areas/who) | Understand organizational and personal engagement with open source projects. 
 [What](./focus-areas/what) | Understand what contributions organizations and people are being made.
 [When](./focus-areas/when) | Understand when contributions from organizations and people are happening. 
-[Where](./focus-areas/where) | Understand where contributors from organizations and people are happening. 
+[Where](./focus-areas/where) | Understand where contributions from organizations and people are happening. 
 
 
 ## Contributors
