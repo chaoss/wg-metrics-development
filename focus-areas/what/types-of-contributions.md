@@ -1,8 +1,6 @@
 # Types of Contributions
 Question: What types of contributions are being made?
 
-_This metric is a release candidate. The 30 day comment period for this metric begins on 07/01/2020 and ends on 07/31/2020. To comment on this metric please see [Issue #56](https://github.com/chaoss/wg-common/issues/56). Following the comment period, this metric will be included in the release._
-
 ## Description
 
 Multiple, varied contributions make an open source project healthy. Many projects have community members who do not write code but contribute in equally valuable ways by managing the community, triaging bugs, evangelizing the project, supporting users, or helping in other ways.
