@@ -2,8 +2,6 @@
 
 Question: How much time passes between creating and closing an operation such as an issue, review, or support ticket?   
 
-_This metric is a release candidate. The 30 day comment period for this metric begins on 07/01/2020 and ends on 07/31/2020. To comment on this metric please see [Issue #63](https://github.com/chaoss/wg-common/issues/63). Following the comment period, this metric will be included in the release._
-
 ## Description  
 The time to close is the total amount of time that passes between the creation and closing of an operation such as an issue, review, or support ticket. The operation needs to have an open and closed state, as is often the case in code review processes, question and answer forums, and ticketing systems.    
 
