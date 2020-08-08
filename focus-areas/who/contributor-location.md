@@ -62,7 +62,7 @@ Different approaches can be used to collect information about location:
 
 The key challenge for collecting data is determining the location of the contributor. Best practice would be to leverage any profile information available from the system of engagement, and if that is not available then use IP geolocation to determine the most frequent location of contribution from that individual. Note that contributors may enter in their profile information false or nonsensical location information (e.g., “Earth” or “Internet”). Note that IP geolocation can provide large numbers of false positives due to use of VPNs or other IP masking tools.
 
-An additional consideration would be the use of external data collection tools such as community surveys or event registration data that could cross reference systems of engagement profiles. Contributor location data could be collected inline with event (attendee demographics)[https://chaoss.community/metric-attendee-demographics/] and (speaker demographics) [https://chaoss.community/metric-speaker-demographics/]
+An additional consideration would be the use of external data collection tools such as community surveys or event registration data that could cross reference systems of engagement profiles. Contributor location data could be collected inline with event [attendee demographics](https://chaoss.community/metric-attendee-demographics/] and [speaker demographics](https://chaoss.community/metric-speaker-demographics/)
 
 
 ## References
