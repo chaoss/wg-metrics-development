@@ -1,9 +1,9 @@
 # Time to Close  
 
-Question: How much time passes between creating and closing an operation such as an issue, review, or support ticket?   
+Question: How much time passes between creating and closing an operation such as an issue, change request, or support ticket?   
 
 ## Description  
-The time to close is the total amount of time that passes between the creation and closing of an operation such as an issue, review, or support ticket. The operation needs to have an open and closed state, as is often the case in code review processes, question and answer forums, and ticketing systems.    
+The time to close is the total amount of time that passes between the creation and closing of an operation such as an issue, change request, or support ticket. The operation needs to have an open and closed state, as is often the case in code review processes, question and answer forums, and ticketing systems.    
 
 Related metric: [Issue Resolution Duration](https://chaoss.community/metric-issue-resolution-duration/)      
 
@@ -41,8 +41,8 @@ GrimoireLab implementation:
 
 The time to close metric may be contextual based on the project activity and objectives. For example, the time to close a bug report may provide different information than the time to close a new feature request. Data collection strategies should address different project objectives. Other variables that may influence these processes are:  
 * Issue Tracking Systems: the type of issue such as bug report, blueprint (OpenStack nomenclatura), user story, feature request, epic, and others may influence how long this event takes to be closed. Other variables, such as the priority or severity may help to advance how quickly this event will be closed.  
-* Code Review Processes: this depends on the code review infrastructure, as Gerrit, GitHub or mailing lists (as in the Linux Kernel) and may differ depending on how complicated the process is. For example, newcomers or advanced and experienced developers will proceed in different ways and with more or less time required.  
-* Question and Answer forum: this depends on the quality of the answer and the opinion of the person asking the question. A valid answer is marked, and the process is closed once the person questioning has successfully found a correct answer to their question.  
+* Change Request Processes: this depends on the change request infrastructure, as Gerrit, GitHub or mailing lists (as in the Linux Kernel) and may differ depending on how complicated the process is. For example, newcomers or advanced and experienced developers will proceed in different ways and with more or less time required.  
+* Question and Answer Forum: this depends on the quality of the answer and the opinion of the person asking the question. A valid answer is marked, and the process is closed once the person questioning has successfully found a correct answer to their question.  
 
 ## References
 * “Practice P.12: Respond to all submissions” from “Appendix to: Managing Episodic Volunteers in Free/Libre/Open Source Software Communities” by Ann Barcomb, Klaas-Jan Stol, Brian Fitzgerald and Dirk Riehle: https://opus4.kobv.de/opus4-fau/frontdoor/index/index/docId/13519  
