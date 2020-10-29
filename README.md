@@ -6,7 +6,7 @@ This CHAOSS working group is using the general [CHAOSS mailing list](https://lis
 
 ## Join our Weekly Calls
 
-The Common Metrics WG meets every other Thursday at 10:00am CT (usually 17:00 CET, [check your local time](http://arewemeetingyet.com/Chicago/2019-02-21/10:00/b/CHAOSS%20Common%20Metrics%20WG#eyJ1cmwiOiJodHRwczovL3Vub21haGEuem9vbS51cy9qLzcyMDQzMTI4OCAifQ==)) via [Zoom](https://unomaha.zoom.us/j/720431288). All are welcome!
+The Common Metrics WG meets every other Thursday at 10:00am CT (usually 17:00 CET, [check your local time](http://arewemeetingyet.com/Chicago/2019-02-21/10:00/b/CHAOSS%20Common%20Metrics%20WG#eyJ1cmwiOiJodHRwczovL3Vub21haGEuem9vbS51cy9qLzcyMDQzMTI4OCAifQ==)) via [Zoom](https://zoom.us/j/4998687533). All are welcome!
 
 For more details, you can read our [agenda and meeting minutes document](https://bit.ly/2ROytFz)
 
