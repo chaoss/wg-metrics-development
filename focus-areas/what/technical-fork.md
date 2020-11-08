@@ -12,29 +12,29 @@ The objective of the Technical Fork metric is to ascertain how many copies of a 
 ## Implementation
 
 ### Filters
-* Time Period (e.g., Weekly, Monthly, Annually)
-* Ratio of contributing fork to total forks (A contributing fork is a fork that has opened a change request against the original repository.)
-* Ratio of non-contributing fork to total forks (A non-contributing fork is a fork that has never opened a change request against the original repository.)
+* Time Period (e.g., Weekly, Monthly, Annually)  
+* Ratio of contributing fork to total forks (A contributing fork is a fork that has opened a change request against the original repository.)  
+* Ratio of non-contributing fork to total forks (A non-contributing fork is a fork that has never opened a change request against the original repository.)  
 
 ### Visualizations
-**Augur Implementation**
+**Augur Implementation**  
 ![Augur Implementation](images/Augur-fork.png)
 
-**GrimoireLab Implementation**
+**GrimoireLab Implementation**  
 ![GrimoireLab Implementation](images/Grimoirelab-fork.png)
 
-### Tools Providing the Metric
-Augur
-GrimoireLab
+### Tools Providing the Metric  
+* Augur  
+* GrimoireLab  
 
 ### Data Collection Strategies
-**Github API**
+**Github API**  
 https://developer.github.com/v3/repos/forks/#list-forks
 
-**GitLab API**
+**GitLab API**  
 https://docs.gitlab.com/ee/api/projects.html#list-forks-of-a-project
 
-**Bitbucket API**
+**Bitbucket API**  
 https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Bworkspace%7D/%7Brepo_slug%7D/forks
 
 ## References
