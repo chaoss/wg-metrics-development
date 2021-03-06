@@ -2,8 +2,6 @@
 
 Question: What is the duration of a review cycle within a single change request?
 
-### This metric is a release candidate. To comment on this metric please see [Issue #98](https://github.com/chaoss/wg-common/issues/98). Following a comment period, this metric will be included in the next regular release.
-
 ## Description
 
 A change request is based on one or more review cycles. Within a review cycle, one or more reviewers can provide feedback on a proposed contribution. The duration of a review cycle, or the time between each new iteration of the contribution, is the basis of this metric.
