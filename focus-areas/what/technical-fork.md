@@ -1,7 +1,5 @@
-# Technical Forks
+# Technical Fork
 Question: What are a number of technical forks of an open source project on code development platforms?
-
-### This metric is a release candidate. To comment on this metric please see [Issue #94](https://github.com/chaoss/wg-common/issues/94). Following a comment period, this metric will be included in the next regular release.
 
 ## Description
 A technical fork is a distributed version control copy of a project. The number of technical forks indicates the number of copies of a project on the same code development platform.
