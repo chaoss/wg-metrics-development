@@ -12,6 +12,7 @@ Related metric: [Issue Resolution Duration](https://chaoss.community/metric-issu
 2. Identifying characteristics of operations that impact an operation closing quickly or slowly (e.g., finding best practices, areas of improvement, assess efficiency).   
 3. Identifying bias for timely responses to different community members.   
 4. Detecting a change in community activity (e.g., to indicate potential maintainer burnout, reduction in the diversity of contributions)   
+5. Understand how the time to close an issue or change request is related to merge success or failure.
 
 ## Implementation  
 
@@ -19,7 +20,8 @@ Related metric: [Issue Resolution Duration](https://chaoss.community/metric-issu
 
 * Creator of operation (e.g., new contributor vs. maintainer)  
 * First closed, final closed   
-* issue labels (e.g., bug vs. new feature)  
+* Labels (e.g., bug vs. new feature)
+* Change Request Merge Status (e.g. Time to Merge or Time to Close without Merge)
 
 ### Visualizations  
 
