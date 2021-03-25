@@ -117,7 +117,7 @@ To enable this plugin:
 
 ## Who is a CHAOSS repository maintainer?
 
-The README.md of the repository contains a list of who is maintainer. Each CHAOSS repositry brings together different people and they document in the repository specific CONTRIBUTING.md how somone becomes a maintainer on their repository.
+The README.md of the repository contains a list of who is maintainer. Each CHAOSS repository brings together different people and they document in the repository specific CONTRIBUTING.md how somone becomes a maintainer on their repository.
 
 ## What about releases?
 
