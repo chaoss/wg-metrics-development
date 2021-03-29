@@ -23,7 +23,7 @@ Related metric: [Issue Resolution Duration](https://chaoss.community/metric-issu
 
 ### Visualizations  
 
-![Average and median time to close an Issue from GrimoireLab](images/time-to-close.png)  
+![Average and median time to close an Issue from GrimoireLab](images/time-to-close_1.png)  
 
 ### Tools Providing the Metric  
 

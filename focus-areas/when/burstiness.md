@@ -45,12 +45,12 @@ There are a number of reasons that may prompt a sudden increase or decrease in t
 
 Augur:
 
-![Augur Burstiness](https://raw.githubusercontent.com/chaoss/wg-common/master/focus-areas/when/images/burstiness.augur.png)
+![Augur Burstiness](https://raw.githubusercontent.com/chaoss/wg-common/master/focus-areas/when/images/burstiness_augur.png)
 
 
 GrimoireLab:
 
-![GrimoireLab Burstiness](https://raw.githubusercontent.com/chaoss/wg-common/master/focus-areas/when/images/burstiness.gl.png)
+![GrimoireLab Burstiness](https://raw.githubusercontent.com/chaoss/wg-common/master/focus-areas/when/images/burstiness_gl.png)
 
 
 ### Tools Providing the Metric

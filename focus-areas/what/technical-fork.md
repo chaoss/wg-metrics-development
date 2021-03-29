@@ -16,10 +16,10 @@ The objective of the Technical Fork metric is to ascertain how many copies of a 
 
 ### Visualizations
 **Augur Implementation**  
-![Augur Implementation](images/Augur-fork.png)
+![Augur Implementation](images/technical-fork_augur-fork.png)
 
 **GrimoireLab Implementation**  
-![GrimoireLab Implementation](images/Grimoirelab-fork.png)
+![GrimoireLab Implementation](images/technical-fork_grimoirelab-fork.png)
 
 ### Tools Providing the Metric  
 * Augur  
