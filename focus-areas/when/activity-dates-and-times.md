@@ -24,10 +24,10 @@ Individuals engage in activities in open source projects at various times of the
 
 ### Visualizations
 
-<img src="images/1.png" alt="Date_Time_Chart_1" width="700"/>
-<img src="images/2.png" alt="Date_Time_Chart_2" width="700"/>
-<img src="images/3.png" alt="Date_Time_Chart_3" width="700"/>
-<img src="images/4.png" alt="Date_Time_Chart_4" width="700"/>
+![Date Time Chart 1](images/activity-dates-and-times_1.png)
+![Date Time Chart 2](images/activity-dates-and-times_2.png)
+![Date Time Chart 3](images/activity-dates-and-times_3.png)
+![Date Time Chart 4](images/activity-dates-and-times_4.png)
 
 
 ### Tools Providing Metric
