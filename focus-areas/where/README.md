@@ -1,7 +1,7 @@
+## Where
 
-Goal: Understand where contributions from organizations and people are happening.
+**Goal:** Understand where contributions from organizations and people are happening.
 
-
-Metric | Question
---- | ---
-Holder | Question?
+| Metric | Question |
+| --- | --- |
+| Holder | Question? |
