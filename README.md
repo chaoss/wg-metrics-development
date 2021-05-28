@@ -22,12 +22,6 @@ From time to time, we come across metrics that do not cleanly fit into one of th
 ### Who should join this working group?
 
 All contributors are welcome to [participate](#participate) in the Common Metrics Working Group. The areas of interest include organizational affiliation, responsiveness, geographic coverage, and more.
-
-### Background
-
-- History of the working group
-- Name changes in past (if any)
-- Any other relevant past information
   
 ## Participate
 
@@ -39,7 +33,7 @@ Further, you are welcome to participate in our video conferences. The details of
 
 Read the [agenda and meeting minutes](https://bit.ly/2ROytFz) to know the discussions of the previous meetings and find out more about the next one. 
 
-As a contributor, you can help us keep our community open and inclusive. We request you to adhere to the guidelines mentioned in the [CHAOSS Code of Conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md)
+As a contributor, you can help us keep our community open and inclusive. We request you to adhere to the guidelines mentioned in the [CHAOSS Community: Code of Conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md)
 
 ## Contributing
 
