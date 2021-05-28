@@ -13,7 +13,7 @@
 
 ### Goals 
 
-The Common Metrics Working Group focuses on defining the metrics that are used by both working groups or are important for community health.
+The Common Metrics Working Group focuses on defining the metrics that are used by multiple working groups or are important for community health.
 
 ### Purpose
 
