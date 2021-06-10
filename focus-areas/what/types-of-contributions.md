@@ -59,7 +59,7 @@ _Other considerations:_
 
 - Especially with automated reports, allow community members to opt-out and not appear on the contribution reports.
 - Acknowledge imperfect capture of contribution types and be explicit about what types of contributions are included.
-- As a project evolves, methods for collecting types of contributions will need to adapt. For example, when an internationalization library is exchanged, project activity around localization conceivably produces different metrics before and after the change.
+- As a project evolves, methods for collecting types of contributions will need to adapt. For example, when an internationalization library is replace it with a different one, project activity around localization conceivably produces different metrics before and after the change.
 - Account for activity from bots when mining contribution types at large scale.
 
 ## References
