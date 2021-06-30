@@ -15,10 +15,12 @@ The objective of the Technical Fork metric is to ascertain how many copies of a 
 * Ratio of non-contributing fork to total forks (A non-contributing fork is a fork that has never opened a change request against the original repository.)  
 
 ### Visualizations
-**Augur Implementation**  
+**Augur Implementation**
+
 ![Augur Implementation](images/technical-fork_augur-fork.png)
 
 **GrimoireLab Implementation**  
+
 ![GrimoireLab Implementation](images/technical-fork_grimoirelab-fork.png)
 
 ### Tools Providing the Metric  
