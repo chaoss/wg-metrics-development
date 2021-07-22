@@ -1,6 +1,6 @@
-## When
+## Time
 
-**Goal:** Understand when contributions from organizations and people are happening.
+**Goal:** Identify when contributions are made (e.g., time to respond)
 
 | Metric | Question |
 | --- | --- |

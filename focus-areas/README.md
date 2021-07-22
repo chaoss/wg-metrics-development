@@ -4,7 +4,7 @@ The common metrics are organized in focus areas:
 
 | Focus Area | Goal |
 | --- | --- |
-| [What](what) | Identify what contributions were made (e.g., code commit, wiki edit). |
-| [When](when) | Identify when contributions occurred (e.g., time to respond). |
-| [Where](where) | Where in the project contributions occurred (e.g., GitHub, documentation). |
-| [Who](who) | Identify metrics about individuals or organizations who made contributions (e.g., location, age). |
+| [Contributions](contributions) | Identify what contributions are made (e.g., code commit, wiki edit, documentation) |
+| [People](people) | Identify organizations and individuals who make contributions (e.g. contribution type, demographics) |
+| [Place](place) | Identify where contributions occur in terms of physical and virtual places (e.g., GitHub, Chat Channel, Forum, conferences) |
+| [Time](time) | Identify when contributions are made (e.g., time to respond) |
