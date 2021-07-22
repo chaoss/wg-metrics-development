@@ -64,6 +64,7 @@ Organizational diversity expresses how many different organizations are involved
 * In projects with the concept of code ownership, % of code owners affiliated with each organization weighed by the importance/size/LoC of the code they own and the number of co-owners.
 
 ## References
+
 * Potential implementations and references:
   * [https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html](https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html)
   * [Kata Containers dashboard entry page](https://katacontainers.biterg.io) (bottom of this)

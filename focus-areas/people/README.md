@@ -1,6 +1,6 @@
-## Who
+## People
 
-**Goal:** Understand organizational and personal engagement with open source projects.
+**Goal:** Identify organizations and individuals who make contributions (e.g. contribution type, demographics)
 
 | Metric | Question |
 | --- | --- |
