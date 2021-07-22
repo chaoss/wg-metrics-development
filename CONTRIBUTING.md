@@ -4,8 +4,8 @@
 
 This document outlines a generic process of contributing and applies to all CHAOSS repositories. Each repository may have unique guidelines specific to the project.
 
-* Metrics definition. For each metric, we have a document describing it,
-all of them in the [metrics directory](metrics).
+* Metrics definition. For each metric, we have a document describing it.
+The metrics are organized into various [focus-areas](focus-areas).
 You can contribute by helping to refine those metrics definitions.
 
 ## Where can I contribute?
@@ -117,7 +117,7 @@ To enable this plugin:
 
 ## Who is a CHAOSS repository maintainer?
 
-The README.md of the repository contains a list of who is maintainer. Each CHAOSS repositry brings together different people and they document in the repository specific CONTRIBUTING.md how somone becomes a maintainer on their repository.
+The README.md of the repository contains a list of who is maintainer. Each CHAOSS repository brings together different people and they document in the repository specific CONTRIBUTING.md how somone becomes a maintainer on their repository.
 
 ## What about releases?
 

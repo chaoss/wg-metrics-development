@@ -1,86 +1,81 @@
-# CHAOSS Common Metrics Working Group (Common WG) 
+# CHAOSS Common Metrics Working Group
 
-## Join our Mailing List
+## Table of Contents
 
-This CHAOSS working group is using the general [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss).
+- [Introduction](#introduction)
+- [Participate](#participate)
+- [Contributing](#contributing)
+- [Metrics](#metrics)
+- [Contributors](#contributors)
+- [License](#license)
 
-## Join our Weekly Calls
+## Introduction
 
-The Common Metrics WG meets every other Thursday at 10:00am CT (usually 17:00 CET, [check your local time](https://arewemeetingyet.com/Chicago/2020-11-12/10:00/b/CHAOSS%20Common%20Metrics%20WG#eyJ1cmwiOiJodHRwczovL3pvb20udXMvai80OTk4Njg3NTMzIn0=)) via [Zoom](https://zoom.us/j/4998687533). All are welcome!
+### Goals 
 
-For more details, you can read our [agenda and meeting minutes document](https://bit.ly/2ROytFz)
+The Common Metrics Working Group focuses on defining the metrics that are used by multiple working groups or are important for community health.
 
-## Background
+### Purpose
 
-The Common Metrics Working Group focuses on defining the metrics that are used by both 
-working groups or are important for community health, but that do not cleanly fit into 
-one of the other existing working groups. Areas of interest include organizational affiliation, 
-responsiveness, geographic coverage, and more.
+From time to time, we come across metrics that do not cleanly fit into one of the other existing working groups. This working group acts as a central hub to create and debate over such metrics.    
 
-### Work To Date
+### Who should join this working group?
 
-We are involved in the release of CHAOSS metrics. Check out our published work at [https://chaoss.community/metrics/](https://chaoss.community/metrics/)
+All contributors are welcome to [participate](#participate) in the Common Metrics Working Group. The areas of interest include organizational affiliation, responsiveness, geographic coverage, and more.
+  
+## Participate
 
-## Focus Areas
+### How to Join Us?
 
+You can start by joining and introducing yourself on the [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss) explaining your interest. 
+
+Further, you are welcome to participate in our video conferences. The details of these meetings can be found [here](https://chaoss.community/participate/#user-content-common-metrics)
+
+Read the [agenda and meeting minutes](https://bit.ly/2ROytFz) to know the discussions of the previous meetings and find out more about the next one. 
+
+As a contributor, you can help us keep our community open and inclusive. We request you to adhere to the guidelines mentioned in the [CHAOSS Community: Code of Conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md)
+
+## Contributing
+
+See the [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+
+## Metrics
+
+### Focus-Areas and Goals
+
+The metrics of this working group are classified into the following focus areas:  
 
 Focus Area | Goal
 --- | ---
-[Who](./focus-areas/who) | Understand organizational and personal engagement with open source projects. 
-[What](./focus-areas/what) | Understand what contributions organizations and people are being made.
-[When](./focus-areas/when) | Understand when contributions from organizations and people are happening. 
-[Where](./focus-areas/where) | Understand where contributions from organizations and people are happening. 
+[Who](focus-areas/who) | Understand organizational and personal engagement with open source projects. 
+[What](focus-areas/what) | Understand what contributions organizations and people are being made.
+[When](focus-areas/when) | Understand when contributions from organizations and people are happening. 
+[Where](focus-areas/where) | Understand where contributions from organizations and people are happening. 
 
+### Released Metrics
+
+We are involved in the release of CHAOSS metrics. Check out our published work at <https://chaoss.community/metrics/>
+
+The translations of these metrics are available at [chaoss/translations](https://github.com/chaoss/translations)
 
 ## Contributors
 
-**Maintainers**
+### Chairs
 
 - [Dawn Foster](https://github.com/geekygirldawn)
-- [Georg J.P. Link](https://github.com/GeorgLink)
-- [Sean P. Goggins](https://github.com/sgoggins)
-
-**Core Contributors**
-
-- [Brian Proffitt](https://github.com/bproffitt)
-- [Daniel Izquierdo Cortazar](https://github.com/dicortazar)
-- [John Mertic](https://github.com/jmertic)
 - [Matt Germonprez](https://github.com/germonprez)
-- [Tobie Langel](https://github.com/tobie)
 
+ Please feel free to contact our chairs in case you require any sort of assistance.
 
-The criteria for becoming a core contributor is to participate at least once
-per month over a period of 3 months.  Participation could include providing
-feedback in the weekly meetings, providing feedback on docs, or making
-other contributions on GitHub (commits / issues).  People not participating
-over a 3 month period may be removed as core contributors.
+### Amazing CHAOSS Project Contributors
 
-If you'd like to be on our squad, an easy way to start is by going through the
-[issue list](https://github.com/chaoss/wg-common/issues) and fixing some. :tada:
+We greatly appreciate our contributors at CHAOSS and look forward to your joining us as well. All CHAOSS Project contributors are listed [here](https://chaoss.community/metrics/#user-content-chaoss-contributors-include)
 
-**All Contributors**
-
-Ordered by first name
-
-Andrea Gallo, 
-[Brian Proffitt](https://github.com/bproffitt),
-[Daniel Izquierdo Cortazar](https://github.com/dicortazar),
-[Dawn Foster](https://github.com/geekygirldawn),
-[Georg J.P. Link](https://github.com/GeorgLink),
-[John Mertic](https://github.com/jmertic),
-[Kate Stewart](https://github.com/kestewart),
-[Matt Germonprez](https://github.com/germonprez),
-[Sean P. Goggins](https://github.com/sgoggins),
-[Tobie Langel](https://github.com/tobie)
-
-Are you eligible to be on this list? You are if you helped in any capacity, for
-example: Filed an issue.  Created a Pull Request. Gave feedback on our work.
-The team will try to update this list monthly, but please open an issue or post
+Are you eligible to be on this list? You are if you helped in any capacity, for example: Filed an issue. Created a Pull Request. Gave feedback on our work. The team will try to update this list regularly, but please open an issue or post
 on the mailing list if we've missed anyone.
 
-If you find yourself missing, please create a pull request or reach out to a
-maintainer. We started to maintain this list after starting the working group
-and are likely missing some of you. If you find yourself listed here and want
-to be removed, please create a pull request or ask a maintainer.
+## License
 
+The documents in this repository are released under the MIT License. See [LICENSE](LICENSE) file.
 
+Copyright © 2021 - CHAOSS, a Linux Foundation Project

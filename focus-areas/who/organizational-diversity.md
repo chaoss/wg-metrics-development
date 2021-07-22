@@ -32,11 +32,11 @@ Organizational diversity expresses how many different organizations are involved
       * Buckets Split Slices: `Terms` Aggregation, `author_or_name` Field, `metric: Contributions` Order By, `Descending` Order, `500` Size, `Organization` Custom Label
     * Example Screenshot
 
-    ![Organizational Diversity Pie Chart](images/piechart.png)
+    ![Organizational Diversity Pie Chart](images/organizational-diversity_piechart.png)
 
 * [LF Analytics](https://lfanalytics.io) provides organization diversity metrics in the primary view for commits, issues filed, and communication channels (current support for Slack and groups.io)
 
-![Organizational Diversity View](images/lfanalytics-orgdiversity.png)
+![Organizational Diversity View](images/organizational-diversity_lfanalytics-orgdiversity.png)
 
 
 
