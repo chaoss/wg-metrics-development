@@ -1,6 +1,6 @@
-## What
+## Contributions
 
-**Goal:** Understand what contributions organizations and people are being made.
+**Goal:** Identify what contributions are made (e.g., code commit, wiki edit, documentation)
 
 | Metric | Question |
 | --- | --- |

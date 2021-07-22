@@ -45,12 +45,12 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 The metrics of this working group are classified into the following focus areas:  
 
-Focus Area | Goal
---- | ---
-[Who](focus-areas/who) | Understand organizational and personal engagement with open source projects. 
-[What](focus-areas/what) | Understand what contributions organizations and people are being made.
-[When](focus-areas/when) | Understand when contributions from organizations and people are happening. 
-[Where](focus-areas/where) | Understand where contributions from organizations and people are happening. 
+| Focus Area | Goal |
+| --- | --- |
+| [Contributions](focus-areas/contributions) | Identify what contributions are made (e.g., code commit, wiki edit, documentation) |
+| [People](focus-areas/people) | Identify organizations and individuals who make contributions (e.g. contribution type, demographics) |
+| [Place](focus-areas/place) | Identify where contributions occur in terms of physical and virtual places (e.g., GitHub, Chat Channel, Forum, conferences) |
+| [Time](focus-areas/time) | Identify when contributions are made (e.g., time to respond) |
 
 ### Released Metrics
 
