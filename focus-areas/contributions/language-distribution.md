@@ -9,6 +9,7 @@ The number of programming languages and the percentage of each language in a pro
 
 ## Objectives
 This metric will aid newcomers to a  particular open source project, as well as provide open source program managers with a perspective on the project’s profile, in the context of their own experience and organization.
+
 In Value: This metric may be used by developers for identifying projects that rely heavily on languages they use, as part of a job search.
 
 In Evolution: This metric can be useful for identifying changes in the number of files, or lines of code in each language over time. For example, a project may be X% Python, and Y% Javascript at a point in time. Perhaps a year later, the amount of Javascript measured by files, or lines of code, may be greater as a result of a project’s shift in focus toward user experience.
@@ -66,12 +67,12 @@ Either lines of code, or files, could be presented as absolute numbers, or perce
 
 ### Tools Providing the Metric
 
-The [Augur-Community-Reports](https://github.com/chaoss/augur-community-reports) repository provides this metric currently
-[GrimoireLab](https://github.com/chaoss/grimoirelab) provides this information through the proxy of file extensions
-[Augur](https://github.com/chaoss/augur) provides this information in its frontend, as well as through an API endpoint.
+* The [Augur-Community-Reports](https://github.com/chaoss/augur-community-reports) repository provides this metric currently
+* [GrimoireLab](https://github.com/chaoss/grimoirelab) provides this information through the proxy of file extensions
+* [Augur](https://github.com/chaoss/augur) provides this information in its frontend, as well as through an API endpoint.
 
 ### Data Collection Strategies
-The contents of a repository can be counted by iterating through each file, though several libraries exist, including the one used by Augur: https://github.com/boyter/scc
+The contents of a repository can be counted by iterating through each file, through several libraries existed, including the one used by Augur: https://github.com/boyter/scc
 
 File extensions for some languages, like Jupyter Notebooks, might be excluded because they obscure the actual language used.
 
