@@ -8,7 +8,7 @@ Question: How many copies of an open source project repository have been saved o
 ## Description
 A clone is a copy of a repository saved to a local machine.
 
-**Note:**  Many times clone and [technical fork](https://github.com/chaoss/wg-common/blob/master/focus-areas/what/technical-fork.md) are used interchangeably, but there is a difference between the two. A [technical fork](https://github.com/chaoss/wg-common/blob/master/focus-areas/what/technical-fork.md) is a copy of a repository on the same platform, whereas a clone is a copy on a local machine.
+**Note:**  Many times clone and [technical fork](https://github.com/chaoss/wg-common/blob/master/focus-areas/contributions/technical-fork.md) are used interchangeably, but there is a difference between the two. A [technical fork](https://github.com/chaoss/wg-common/blob/master/focus-areas/contributions/technical-fork.md) is a copy of a repository on the same platform, whereas a clone is a copy on a local machine.
 
 ![Technical Fork & Clones](images/technical-fork-clones_fork-clones.png)
 
