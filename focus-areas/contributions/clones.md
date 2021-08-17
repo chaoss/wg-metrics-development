@@ -1,3 +1,6 @@
+###This metric is a release candidate. To comment on this metric please see Issue # [128](https://github.com/chaoss/wg-common/issues/128). Following a comment period, this metric will be included in the next regular release.
+
+
 # Clones
 
 Question: How many copies of an open source project repository have been saved on a local machine?
