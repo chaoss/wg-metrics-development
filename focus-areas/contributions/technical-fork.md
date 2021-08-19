@@ -1,3 +1,5 @@
+###This metric is a release candidate. To comment on this metric please see Issue # [94](https://github.com/chaoss/wg-common/issues/94). Following a comment period, this metric will be included in the next regular release.
+
 # Technical Fork
 Question: What are a number of technical forks of an open source project on code development platforms?
 
