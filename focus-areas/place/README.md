@@ -4,4 +4,4 @@
 
 | Metric | Question |
 | --- | --- |
-| [Collaboration Platforms](collaboration-platform-activity.md) | What is the count of activities across digital collaboration platforms used by a project?  |
+| [Collaboration Platform Activity](collaboration-platform-activity.md) | What is the count of activities across digital collaboration platforms used by a project?  |
