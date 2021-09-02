@@ -18,18 +18,18 @@ Inform other metrics like: [Burstiness](https://chaoss.community/metric-burstine
 
 ## Implementation
 The unit of data collection is the individual activity on a platform. Metadata related to the metric can include:
-Timestamp
-Sender
-Threaded/Non-Threaded Platform
-Data Collection Date
-Platform message identifier
+* Timestamp
+* Sender
+* Threaded/Non-Threaded Platform
+* Data Collection Date
+* Platform message identifier
 
 ### Aggregators
-Number of people
-Number of messages
-Number of comments
-Type of Channel (mailing list, irc, and so on)
-Activity per day of the week
+* Number of people
+* Number of messages
+* Number of comments
+* Type of Channel (mailing list, irc, and so on)
+* Activity per day of the week
 
 
 ### Visualizations
@@ -39,21 +39,21 @@ Activity per day of the week
 https://chaoss.biterg.io/app/kibana#/dashboard/ab68fe20-17f2-11e9-872f-e17019e68d6d
 
 ### Tools Providing the Metric
-Orbit.love is a community management platform that captures this for a few channels: https://docs.orbit.love/docs/adding-activities
-GrimoireLab
-Augur
+* Orbit.love is a community management platform that captures this for a few channels: https://docs.orbit.love/docs/adding-activities
+* GrimoireLab
+* Augur
 
 
 ## References
-Related metric: https://chaoss.community/metric-chat-platform-inclusivity/
-Related metric: https://chaoss.community/metric-issues-new/
+* Related metric: https://chaoss.community/metric-chat-platform-inclusivity/
+* Related metric: https://chaoss.community/metric-issues-new/
 
 ## Contributors
 
-Elizabeth Barron
-Sean Goggins
-Matt Germonprez
-Danial Isquierdo
-Dawn Foster
-Beth Hancock
-Kevin Lumbard
+* Elizabeth Barron
+* Sean Goggins
+* Matt Germonprez
+* Danial Isquierdo
+* Dawn Foster
+* Beth Hancock
+* Kevin Lumbard
