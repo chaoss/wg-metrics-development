@@ -7,6 +7,7 @@
 | [Contributor Location](contributor-location.md) | What is the location of contributors? |
 | [Contributors](contributors.md) | Who are the contributors to a project? |
 | [Organizational Diversity](organizational-diversity.md) | What is the organizational diversity of contributions? |
+| [Bot Activity](bot-activity.md) | What is the volume of automated bot activity? |
 | Organizational Influence | How dominant are individual organizations in a project? |
 | Organizational Relationships | How do organizational partnerships / collaborations impact the project? |
 | Contributor Affiliation Changes | What are the impact of job changes (organizational affiliation changes) on a project? |
