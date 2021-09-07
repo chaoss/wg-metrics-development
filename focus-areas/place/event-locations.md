@@ -31,8 +31,8 @@ To give insight as to where project events and meet-ups are happening globally.
 ## References
 
 ## Contributors
-Elizabeth Barron
-Dawn Foster
-Vinod Ahuja
-Kevin Lumbard
-Matt Germonprez
+* Elizabeth Barron
+* Dawn Foster
+* Vinod Ahuja
+* Kevin Lumbard
+* Matt Germonprez
