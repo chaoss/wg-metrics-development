@@ -8,30 +8,30 @@ Question: What is the volume of automated bot activity?
 A bot is a piece of software that supports project activities. Bots provide an increasingly important role in open source projects, helping coordinate open source project work. Bots support various workflows including issue and merge request management and contributor agreements. Bots give open source software projects numerous options in deciding how to effectively manage project work. 
 
 ## Objectives
-Demonstrate increase in new contributors
-CLA Bot activity 
-Provide a filter on things like 
-Time to first response 
-Build process timing 
-Social considerations -- it’s not just all robots 
-An indication of maturity
-Indication of community size 
-Indication of project transparency
-Understand project access and contributor privileges
+- Demonstrate increase in new contributors
+	- CLA Bot activity 
+- Provide a filter on things like 
+-	 Time to first response 
+	- Build process timing 
+- Social considerations -- it’s not just all robots 
+- An indication of maturity
+- Indication of community size 
+- Indication of project transparency
+- Understand project access and contributor privileges
 
 ## Implementation
-Measurement or analysis techniques
-Ratio of bot to human activity over time
-Average number of bots over time 
+- Measurement or analysis techniques
+	- Ratio of bot to human activity over time
+	- Average number of bots over time 
 
 ### Filters Bots that have user profiles
-Bots that require human interaction 
-Bots that function by themselves (automated) 
-Bots that assist with software development 
-Bots that assist with communication
-Bots that assist with access control
-Bots that assist with inclusivity 
-Platform where the bot is used (e.g., GitHub, Slack)
+- Bots that require human interaction 
+- Bots that function by themselves (automated) 
+- Bots that assist with software development 
+- Bots that assist with communication
+- Bots that assist with access control
+- Bots that assist with inclusivity 
+- Platform where the bot is used (e.g., GitHub, Slack)
 
 ### Visualizations 
 
