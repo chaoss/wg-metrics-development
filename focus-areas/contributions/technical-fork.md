@@ -1,5 +1,3 @@
-###This metric is a release candidate. To comment on this metric please see Issue # [94](https://github.com/chaoss/wg-common/issues/94). Following a comment period, this metric will be included in the next regular release.
-
 # Technical Fork
 Question: What are a number of technical forks of an open source project on code development platforms?
 
@@ -41,3 +39,11 @@ The objective of the Technical Fork metric is to ascertain how many copies of a 
 * Github API (**https://developer.github.com/v3/repos/forks/#list-forks**)
 * GitLab API (**https://docs.gitlab.com/ee/api/projects.html#list-forks-of-a-project**)
 * Bitbucket API (**https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Bworkspace%7D/%7Brepo_slug%7D/forks**)
+
+## Contributors
+* Vinod Ahuja
+* Sean Goggins 
+* Matt Germonprez
+* Kevin Lumbard
+* Dawn Foster 
+* Elizabeth Barron
