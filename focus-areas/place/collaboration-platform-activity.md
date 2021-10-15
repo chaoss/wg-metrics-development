@@ -1,11 +1,9 @@
 # Collaboration Platform Activity
 
-### This metric is a release candidate. To comment on this metric please see Issue [132](https://github.com/chaoss/wg-common/issues/132). Following a comment period, this metric will be included in the next regular release.
-
-Question: What is the count of activities across digital collaboration platforms used by a project?
+Question: What is the count of activities across digital collaboration platforms (e.g., GitHub, GitLab Slack, email) used by a project?
 
 ## Description
-Open source projects use many different digital communication and collaboration platforms. These platforms may include email, social media, chat applications, and code management technologies. This metric is a measure of where and how much message activity is occurring across collaboration platforms.
+Open source projects use many different digital communication and collaboration platforms. These platforms may include email, social media, chat applications, and code management technologies (e.g., GitHub, GitLab). This metric is a measure of where and how much message activity is occurring across collaboration platforms.
 
 ## Objectives
 Understand where the community is collaborating.
@@ -24,12 +22,13 @@ The unit of data collection is the individual activity on a platform. Metadata r
 * Data Collection Date
 * Platform message identifier
 
-### Aggregators
+### Filters
 * Number of people
 * Number of messages
-* Number of comments
-* Type of Channel (mailing list, irc, and so on)
+* Number of comments on Issues and Change Requests
+* Type of channel (mailing list, irc, and so on)
 * Activity per day of the week
+* [Contribution attributions](https://chaoss.community/metric-contribution-attribution/) (e.g., people or organizations)
 
 
 ### Visualizations
@@ -53,7 +52,8 @@ https://chaoss.biterg.io/app/kibana#/dashboard/ab68fe20-17f2-11e9-872f-e17019e68
 * Elizabeth Barron
 * Sean Goggins
 * Matt Germonprez
-* Danial Isquierdo
+* Danial Izquierdo
 * Dawn Foster
 * Beth Hancock
 * Kevin Lumbard
+* Vinod Ahuja 
