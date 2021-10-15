@@ -1,7 +1,5 @@
 # Programming Language Distribution
 
-### This metric is a release candidate. To comment on this metric please see Issue #[131](https://github.com/chaoss/wg-common/issues/131). Following a comment period, this metric will be included in the next regular release.
-
 Question: What are the different programming languages present in an open source project(s), and what is the percentage of each language?
 
 ## Description
