@@ -12,7 +12,7 @@ A clone is a copy of a repository saved to a local machine.
 [Image is sourced from Stakeoverflow](https://stackoverflow.com/questions/9257533/what-is-the-difference-between-origin-and-upstream-on-github/9257901#9257901)
 
 ## Objectives
-The objective of the Clones metric is to ascertain how many copies of a project are downloaded. Analysis of clones may provide insight into the [project's popularity](https://github.com/chaoss/wg-value/blob/master/focus-areas/communal-value/project-popularity.md) and usage. 
+The objective of the Clones metric is to ascertain how many copies of a project are downloaded. Analysis of clones may provide insight into the [project's popularity](https://chaoss.community/metric-project-popularity/) and usage. 
 
 ## Implementation
 
