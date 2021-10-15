@@ -1,5 +1,3 @@
-### This metric is a release candidate. To comment on this metric please see Issue [#[127]](https://github.com/chaoss/wg-common/issues/127). Following a comment period, this metric will be included in the next regular release.
-
 # Bot Activity 
 
 Question: What is the volume of automated bot activity?
