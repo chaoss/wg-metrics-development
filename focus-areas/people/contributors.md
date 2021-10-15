@@ -40,19 +40,19 @@ By location of engagement. For example:
 
 1. List of contributor names (often with information about their level of engagement)
 
-![Contributor names and info](images/contributors_top-contributor-info.png)
+![Contributor names and info](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/contributors_top-contributor-info.png)
 
 2. Summary number of contributors
 
-![Summary number of contributors](images/contributors_summary-contributor-number.png)
+![Summary number of contributors](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/contributors_summary-contributor-number.png)
 
 3. Change in the number of active contributors over time
 
-![Contributor growth](images/contributors_growth.png)
+![Contributor growth](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/contributors_growth.png)
 
 4. New contributors (sort list of contributors by date of first contribution)
 
-![New contributors](images/contributors_first-commit-date.png)
+![New contributors](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/contributors_first-commit-date.png)
 
 ### Tools Providing the Metric
 
