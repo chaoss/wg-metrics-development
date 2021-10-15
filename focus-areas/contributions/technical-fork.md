@@ -1,14 +1,12 @@
-###This metric is a release candidate. To comment on this metric please see Issue # [94](https://github.com/chaoss/wg-common/issues/94). Following a comment period, this metric will be included in the next regular release.
-
 # Technical Fork
 Question: What are a number of technical forks of an open source project on code development platforms?
 
 ## Description
 A technical fork is a distributed version control copy of a project. The number of technical forks indicates the number of copies of a project on the same code development platform.
 
-**Note:**  Many times technical fork and [clones](https://github.com/chaoss/wg-common/blob/master/focus-areas/contributions/clones.md) are used interchangeably, but there is a difference between the two. A technical fork is a copy of a repository on the same platform, whereas a [clone](https://github.com/chaoss/wg-common/blob/master/focus-areas/contributions/clones.md) is a copy on a local machine.
+**Note:**  Many times technical fork and [clones](https://chaoss.community/metric-clones/) are used interchangeably, but there is a difference between the two. A technical fork is a copy of a repository on the same platform, whereas a [clone](https://chaoss.community/metric-clones/) is a copy on a local machine.
 
-![Technical Fork & Clones](images/technical-fork-clones_fork-clones.png)
+![Technical Fork & Clones](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/images/technical-fork-clones_fork-clones.png)
 
 [Image is sourced from Stakeoverflow](https://stackoverflow.com/questions/9257533/what-is-the-difference-between-origin-and-upstream-on-github/9257901#9257901)
 
@@ -25,11 +23,11 @@ The objective of the Technical Fork metric is to ascertain how many copies of a 
 ### Visualizations
 **Augur Implementation**
 
-![Augur Implementation](images/technical-fork_augur-fork.png)
+![Augur Implementation](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/images/technical-fork_augur-fork.png)
 
 **GrimoireLab Implementation**
 
-![GrimoireLab Implementation](images/technical-fork_grimoirelab-fork.png)
+![GrimoireLab Implementation](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/images/technical-fork_grimoirelab-fork.png)
 
 ### Tools Providing the Metric  
 * Augur  
