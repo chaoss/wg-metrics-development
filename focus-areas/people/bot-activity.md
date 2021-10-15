@@ -30,7 +30,8 @@ The Bot Activity metric helps differentiate project activity between people and 
 
 ### Visualizations 
 
-<img width="1443" alt="Screen Shot 2021-08-19 at 11 19 08 AM" src="https://user-images.githubusercontent.com/656208/130105428-f9a0cc9e-dc7a-43e3-a654-25261cb4cae8.png">
+![k8s.devstats.cncf.io](https://user-images.githubusercontent.com/656208/130105428-f9a0cc9e-dc7a-43e3-a654-25261cb4cae8.png)  
+
 From: https://k8s.devstats.cncf.io/d/5/bot-commands-repository-groups?orgId=1&var-period=w&var-repogroup_name=Kubernetes&var-repo_name=kubernetes%2Fkubernetes&var-commands=All
 
 
