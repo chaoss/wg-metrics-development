@@ -10,7 +10,7 @@ A clone is a copy of a repository saved to a local machine.
 
 **Note:**  Many times clone and [technical fork](https://github.com/chaoss/wg-common/blob/master/focus-areas/contributions/technical-fork.md) are used interchangeably, but there is a difference between the two. A [technical fork](https://github.com/chaoss/wg-common/blob/master/focus-areas/contributions/technical-fork.md) is a copy of a repository on the same platform, whereas a clone is a copy on a local machine.
 
-![Technical Fork & Clones](images/technical-fork-clones_fork-clones.png)
+![Technical Fork & Clones](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/technical-fork-clones_fork-clones.png)
 
 [Image is sourced from Stakeoverflow](https://stackoverflow.com/questions/9257533/what-is-the-difference-between-origin-and-upstream-on-github/9257901#9257901)
 
@@ -25,7 +25,7 @@ The objective of the Clones metric is to ascertain how many copies of a project 
 
 ### Visualizations 
  
-![GitHub Clones](images/clones_github_clones.png)
+![GitHub Clones](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/clones_github_clones.png)
 
 [Image is source from Github Blog](https://github.blog/2014-08-12-clone-graphs/)
 
