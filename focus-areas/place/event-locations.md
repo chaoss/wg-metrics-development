@@ -1,5 +1,3 @@
-### This metric is a release candidate. To comment on this metric please see Issue [#103](https://github.com/chaoss/wg-common/issues/103). Following a comment period, this metric will be included in the next regular release.
-
 # Event Locations
 
 Question: Where are open source project events located?
