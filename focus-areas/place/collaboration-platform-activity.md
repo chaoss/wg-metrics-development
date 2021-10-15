@@ -33,7 +33,7 @@ The unit of data collection is the individual activity on a platform. Metadata r
 
 ### Visualizations
 
-![GrimoireLab Implementation](images/collaboration-platforms.png)
+![GrimoireLab Implementation](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/place/images/collaboration-platforms.png)
 
 https://chaoss.biterg.io/app/kibana#/dashboard/ab68fe20-17f2-11e9-872f-e17019e68d6d
 
