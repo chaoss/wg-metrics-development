@@ -1,5 +1,7 @@
 # Programming Language Distribution
 
+### This metric is a release candidate. To comment on this metric please see Issue #[131](https://github.com/chaoss/wg-common/issues/131). Following a comment period, this metric will be included in the next regular release.
+
 Question: What are the different programming languages present in an open source project(s), and what is the percentage of each language?
 
 ## Description
@@ -26,13 +28,37 @@ Language distribution takes into account different properties of each file in a 
  - Time
  - Number of Files - The number of files of each language.
 
-![Number of Files](images/programming-language-distribution_number-of-files.JPG)
+	| **Programming Language** | **Language Files** |
+	| ------------ | ----------- |
+	| Python | 246 |
+	| JSON | 28 |
+	| BASH | 26 |
+	| Plain Text | 14 |
+	| Shell | 12 |
+	| gitignore | 8 |
+	| YAML | 6 |
+	| Makefile | 4 |
+	| R | 2 |
+	| Docker ignore | 2 |
+	| Dockerfile | 2 |
+	| Markdown | 2 |
 
  - Lines of Code - The percentage of lines of code for each language.
 
-
-![Lines of Code](images/programming-language-distribution_lines-of-code.JPG)
-
+	| **Language** | **Percentage of LOC** |
+	| ------------ | ----------- |
+	| Python | 94.60% |
+	| BASH | 2.48% |
+	| Shell | 1.08% |
+	| JSON | 0.52% |
+	| R | 0.42% |
+	| Plain Text | 0.38% |
+	| Makefile | 0.16% |
+	| YAML | 0.15% |
+	| gitignore | 0.12% |
+	| Dockerfile | 0.05% |
+	| Docker ignore | 0.03% |
+	| Markdown | 0.00% |
 
 
 Either lines of code, or files, could be presented as absolute numbers, or percentages, depending on the application of the metric. In many cases, a simple count of files is useful, while the absolute number of lines of code can be difficult to differentiate because the numbers are much larger.
