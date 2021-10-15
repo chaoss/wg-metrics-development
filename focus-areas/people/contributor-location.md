@@ -38,13 +38,13 @@ Filter contributions by:
 
 Dot Density Map:
 
-![Contributor Location Dot Density Map](images/contributor-location_dot-density-map.png)
+![Contributor Location Dot Density Map](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/contributor-location_dot-density-map.png)
 
 Source: [https://chaoss.biterg.io/goto/a62f3584a41c1c4c1af5d04b9809a860](https://chaoss.biterg.io/goto/a62f3584a41c1c4c1af5d04b9809a860)
 
 Visual heat map:
 
-![Contributor Location Heatmap](images/contributor-location_heatmap.png)
+![Contributor Location Heatmap](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/contributor-location_heatmap.png)
 
 Source:  [https://blog.bitergia.com/2018/11/20/ubers-community-software-development-analytics-for-open-source-offices](https://blog.bitergia.com/2018/11/20/ubers-community-software-development-analytics-for-open-source-offices)
 
