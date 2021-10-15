@@ -6,7 +6,7 @@ A technical fork is a distributed version control copy of a project. The number 
 
 **Note:**  Many times technical fork and [clones](https://chaoss.community/metric-clones/) are used interchangeably, but there is a difference between the two. A technical fork is a copy of a repository on the same platform, whereas a [clone](https://chaoss.community/metric-clones/) is a copy on a local machine.
 
-![Technical Fork & Clones](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/images/technical-fork-clones_fork-clones.png)
+![Technical Fork & Clones](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/technical-fork-clones_fork-clones.png)
 
 [Image is sourced from Stakeoverflow](https://stackoverflow.com/questions/9257533/what-is-the-difference-between-origin-and-upstream-on-github/9257901#9257901)
 
@@ -23,11 +23,11 @@ The objective of the Technical Fork metric is to ascertain how many copies of a 
 ### Visualizations
 **Augur Implementation**
 
-![Augur Implementation](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/images/technical-fork_augur-fork.png)
+![Augur Implementation](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/technical-fork_augur-fork.png)
 
 **GrimoireLab Implementation**
 
-![GrimoireLab Implementation](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/images/technical-fork_grimoirelab-fork.png)
+![GrimoireLab Implementation](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/technical-fork_grimoirelab-fork.png)
 
 ### Tools Providing the Metric  
 * Augur  
