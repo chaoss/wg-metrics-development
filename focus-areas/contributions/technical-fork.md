@@ -39,3 +39,11 @@ The objective of the Technical Fork metric is to ascertain how many copies of a 
 * Github API (**https://developer.github.com/v3/repos/forks/#list-forks**)
 * GitLab API (**https://docs.gitlab.com/ee/api/projects.html#list-forks-of-a-project**)
 * Bitbucket API (**https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Bworkspace%7D/%7Brepo_slug%7D/forks**)
+
+## Contributors
+* Vinod Ahuja
+* Sean Goggins 
+* Matt Germonprez
+* Kevin Lumbard
+* Dawn Foster 
+* Elizabeth Barron
