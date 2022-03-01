@@ -1,6 +1,6 @@
 # Occasional Contributors
 
-### This metric is a release candidate. To comment on this metric please see Issue [#[put the respective Issue Number here]](URL to issue). Following a comment period, this metric will be included in the next regular release.
+### This metric is a release candidate. To comment on this metric please see Issue [#[160]](https://github.com/chaoss/wg-common/issues/160). Following a comment period, this metric will be included in the next regular release.
 
 Question: How do we understand the number of occasional contributors and the contributions that they make?
 
