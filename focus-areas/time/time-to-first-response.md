@@ -22,7 +22,7 @@ Time to first response of an activity = time first response was posted to the ac
 
 * Role of responder, e.g., only count maintainer responses
 * Automated responses, e.g., only count replies from real people by filtering bots and other automated replies
-* Type of Activity, e.g., issues (see metric [Issue Response Time](https://github.com/chaoss/wg-evolution/blob/master/metrics/Issue_Response_Time.md)), emails, chat, change requests
+* Type of Activity, e.g., issues (see metric [Issue Response Time](https://chaoss.community/metric-issue-response-time/), emails, chat, change requests
 
 
 ### Visualizations
