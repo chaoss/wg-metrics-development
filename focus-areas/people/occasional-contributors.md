@@ -55,8 +55,8 @@ From: https://cauldron.io/
 - [Augur](https://github.com/chaoss/augur)
 
 ## References
-[1] https://k8s.devstats.cncf.io/d/18/new-and-episodic-pr-contributors?orgId=1 
-Have It Your Way: Maximizing Drive-Thru Contributions by VM Brasseur 
+- https://k8s.devstats.cncf.io/d/18/new-and-episodic-pr-contributors?orgId=1
+- [Have It Your Way: Maximizing Drive-Thru Contributions](https://archive.org/details/ato2017-drivethru) by VM Brasseur 
 
 ## Contributors
 - Matt Germonprez
