@@ -15,6 +15,8 @@ Find the lowest barrier channels for engagement
 Inform other metrics like: [Burstiness](https://chaoss.community/metric-burstiness/), [Project Velocity](https://chaoss.community/metric-project-velocity/), [Social Listening](https://chaoss.community/metric-social-listening), [Activity Dates and Times](https://chaoss.community/metric-activity-dates-and-times/), [Chat Platform Inclusivity](https://github.com/chaoss/wg-diversity-inclusion/issues/318)
 
 ## Implementation
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
+
 The unit of data collection is the individual activity on a platform. Metadata related to the metric can include:
 * Timestamp
 * Sender
