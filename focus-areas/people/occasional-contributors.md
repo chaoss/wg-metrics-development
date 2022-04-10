@@ -1,7 +1,5 @@
 # Occasional Contributors
 
-### This metric is a release candidate. To comment on this metric please see Issue [#[160]](https://github.com/chaoss/wg-common/issues/160). Following a comment period, this metric will be included in the next regular release.
-
 Question: How do we understand the number of occasional contributors and the contributions that they make?
 
 Synonyms: drive-through contributors; fly-by contributors, episodic contributors
@@ -29,8 +27,7 @@ Monitoring occasional contributors can help you understand if:
 All of which can help you improve your understanding of the health of your project.
 
 ## Implementation
-
-The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see CHAOSS Data Ethics document for additional guidance
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Filters
 - Minimum number of contributions before someone is no longer an occasional contributor. 
