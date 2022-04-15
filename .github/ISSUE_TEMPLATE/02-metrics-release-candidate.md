@@ -1,5 +1,5 @@
 ---
-name: Metric Candidate Release
+name: Metrics Release Candidate
 about: Use this template for metrics that are meant to be released
 labels: ['Metrics Candidate Release']
 
