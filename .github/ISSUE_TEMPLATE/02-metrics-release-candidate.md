@@ -16,7 +16,7 @@ This checklist is used for new and updated metrics to ensure we follow CHAOSS qu
 
 ### Process
 
-- [x] Create the “review issue” in the authoring WG’s repo for comments during review period and paste this template in
+- [ ] Create the “review issue” in the authoring WG’s repo for comments during review period and paste this template in
 - [ ] Create pull request to edit or add metric to WG’s repo (after checking Content Quality and Technical Requirements below)
 - [ ] Add the new metric or metric edit to release notes issue in working group repo
 - [ ] Update the [Metrics Spreadsheet](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit)
@@ -34,6 +34,7 @@ This checklist is used for new and updated metrics to ensure we follow CHAOSS qu
 - [ ] Description provides context to metric
 - [ ] Objectives list sample uses for the metric and desired outcomes
 - [ ] If any, DEI uses of the metric are included Objectives
+- [ ] If any, ensure links to other CHAOSS metrics work
 - [ ] Optional headings that have no content were removed
 - [ ] Contributors section lists those contributors that want to be named
 - [ ] The name of the metric is the same in (1) metric heading, (2) metric file name, (3) focus area, (4) metrics spreadsheet, (5) “review issue”, (6) translation issue, and (7) website
