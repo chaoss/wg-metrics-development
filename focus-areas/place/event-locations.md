@@ -21,7 +21,8 @@ To give insight as to where project events and meet-ups are happening globally.
 ### Tools Providing the Metric
 * Shared or publicly available calendars on project websites
 * Event lists on Foundation or project websites
-### Data Collection Strategies (Optional)
+
+### Data Collection Strategies
 * Ask event organizers
 * Look on project or foundation websites. For example: https://events.linuxfoundation.org/
 * Aggregated Open Source event sites
