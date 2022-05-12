@@ -19,19 +19,19 @@ The objective of the Clones metric is to ascertain how many copies of a project 
 
 ### Filters 
 * Time Period (e.g., clones by week, month, year)
-* Partial clones (offered by gitlab https://docs.gitlab.com/ee/topics/git/partial_clone.html#partial-clone)
+* Partial clones (offered by [GitLab](https://docs.gitlab.com/ee/topics/git/partial_clone.html#partial-clone))
 
 ### Visualizations 
  
 ![GitHub Clones](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/clones_github_clones.png)
 
-[Image is source from Github Blog](https://github.blog/2014-08-12-clone-graphs/)
+[Image is source from GitHub Blog](https://github.blog/2014-08-12-clone-graphs/)
 
 
 ## References
 * [What is the difference between forking and cloning a repository?](https://github.community/t/the-difference-between-forking-and-cloning-a-repository/10189)
 * [What's the difference between a fork and clone?](https://opensource.com/article/17/12/fork-clone-difference) 
-* [Github API]**(**[https://docs.github.com/en/rest/reference/repos#get-repository-clones](https://docs.github.com/en/rest/reference/repos#get-repository-clones)**)**
+* [GitHub's Repository traffic API to Get repository clones](https://docs.github.com/en/rest/reference/repos#get-repository-clones)
 
 ## Contributors
 * Vinod Ahuja
