@@ -39,7 +39,7 @@ The objective of the Technical Fork metric is to ascertain how many copies of a 
 * https://opensource.com/article/17/12/fork-clone-difference
 * Github API (**https://developer.github.com/v3/repos/forks/#list-forks**)
 * GitLab API (**https://docs.gitlab.com/ee/api/projects.html#list-forks-of-a-project**)
-* Bitbucket API (**https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Bworkspace%7D/%7Brepo_slug%7D/forks**)
+* Bitbucket API (**https://developer.atlassian.com/cloud/bitbucket/rest/api-group-repositories/#api-repositories-workspace-repo-slug-forks-get**)
 
 ## Contributors
 * Vinod Ahuja
