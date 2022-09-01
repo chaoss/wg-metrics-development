@@ -5,7 +5,7 @@ Question: How many copies of an open source project repository have been saved o
 ## Description
 A clone is a copy of a repository saved to a local machine.
 
-**Note:**  Many times clone and [technical fork](https://chaoss.community/metric-technical-fork/) are used interchangeably, but there is a difference between the two. A [technical fork](https://chaoss.community/metric-technical-fork/) is a copy of a repository on the same platform, whereas a clone is a copy on a local machine.
+**Note:**  Many times clone and [technical fork](https://chaoss.community/metric-technical-fork/) are used interchangeably but there is a difference between the two. A [technical fork](https://chaoss.community/metric-technical-fork/) is a copy of a repository on the same platform, whereas a clone is a copy on a local machine.
 
 ![Technical Fork & Clones](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/technical-fork-clones_fork-clones.png)
 
@@ -29,7 +29,6 @@ The objective of the Clones metric is to ascertain how many copies of a project 
 
 
 ## References
-* [What is the difference between forking and cloning a repository?](https://github.community/t/the-difference-between-forking-and-cloning-a-repository/10189)
 * [What's the difference between a fork and clone?](https://opensource.com/article/17/12/fork-clone-difference) 
 * [GitHub's Repository traffic API to Get repository clones](https://docs.github.com/en/rest/reference/repos#get-repository-clones)
 
@@ -40,3 +39,6 @@ The objective of the Clones metric is to ascertain how many copies of a project 
 * Kevin Lumbard
 * Dawn Foster 
 * Elizabeth Barron
+
+**This metric was last reviewed on August 4, 2022 as part of or recurring review process.
+**
