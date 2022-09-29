@@ -9,3 +9,5 @@
 | [Organizational Diversity](organizational-diversity.md) | What is the organizational diversity of contributions? |
 | [Bot Activity](bot-activity.md) | What is the volume of automated bot activity? |
 | [Occasional Contributors](occasional-contributors.md) | How do we understand the number of occasional contributors and the contributions that they make? |
+| [Meeting Attendee Count](meeting-attendee-count.md) | How many people are attending our virtual or in-person meetings? |
+
