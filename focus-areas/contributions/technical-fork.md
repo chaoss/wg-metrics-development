@@ -1,6 +1,10 @@
 # Technical Fork
 Question: What are a number of technical forks of an open source project on code development platforms?
 
+Context Tags: Platform, Software
+
+Keyword Tags: Fork, Clone, Copy, Download
+
 ## Description
 A technical fork is a distributed version control copy of a project. The number of technical forks indicates the number of copies of a project on the same code development platform.
 
@@ -35,11 +39,11 @@ The objective of the Technical Fork metric is to ascertain how many copies of a 
 * GrimoireLab  
 
 ## References
-* https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo
-* https://opensource.com/article/17/12/fork-clone-difference
-* Github API (**https://developer.github.com/v3/repos/forks/#list-forks**)
-* GitLab API (**https://docs.gitlab.com/ee/api/projects.html#list-forks-of-a-project**)
-* Bitbucket API (**https://developer.atlassian.com/cloud/bitbucket/rest/api-group-repositories/#api-repositories-workspace-repo-slug-forks-get**)
+* [Fork a repo](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo)
+* [What's the difference between a fork and clone?](https://opensource.com/article/17/12/fork-clone-difference)
+* [Github API](https://developer.github.com/v3/repos/forks/#list-forks)
+* [GitLab API](https://docs.gitlab.com/ee/api/projects.html#fork-project)
+* [Bitbucket API](https://developer.atlassian.com/cloud/bitbucket/rest/api-group-repositories/#api-repositories-workspace-repo-slug-forks-get)
 
 ## Contributors
 * Vinod Ahuja
@@ -48,3 +52,7 @@ The objective of the Technical Fork metric is to ascertain how many copies of a 
 * Kevin Lumbard
 * Dawn Foster 
 * Elizabeth Barron
+
+
+**This metric was last reviewed on September 1, 2022 as part of recurring review process.**
+
