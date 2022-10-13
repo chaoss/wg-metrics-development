@@ -1,6 +1,10 @@
 # Technical Fork
 Question: What are a number of technical forks of an open source project on code development platforms?
 
+Context Tags: Platform, Software
+
+Keyword Tags: Fork, Clone, Copy, Download
+
 ## Description
 A technical fork is a distributed version control copy of a project. The number of technical forks indicates the number of copies of a project on the same code development platform.
 
