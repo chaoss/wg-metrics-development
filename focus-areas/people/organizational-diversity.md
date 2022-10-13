@@ -2,9 +2,9 @@
 
 Question: What is the organizational diversity of contributions?
 
-Context Tags: 
+Context Tags: Organization, Contributor
 
-Keyword Tags:
+Keyword Tags: Diversity, Employment, Elephant Factor
 
 ## Description
 
