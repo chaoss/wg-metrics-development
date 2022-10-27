@@ -3,7 +3,7 @@ Question: What types of contributions are being made?
 
 Context Tags: Contributions
 
-Keyword Tags: triage, commits, manage, review
+Keywords: triage, commits, manage, review
 
 ## Description
 
