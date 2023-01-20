@@ -1,6 +1,6 @@
 # Release Frequency
 
-### This metric is a release candidate. To comment on this metric please see Issue [#[put the respective Issue Number here]](URL to issue). Following a comment period, this metric will be included in the next regular release.
+### This metric is a release candidate. To comment on this metric please see Issue [#184](https://github.com/chaoss/wg-common/issues/184). Following a comment period, this metric will be included in the next regular release.
 
 Question: How often does a project publish a release of their software / artifact?
 
@@ -45,9 +45,9 @@ Visualization of Augur data using Python [3]:
 In many cases, this data can be collected from the same platform as the source code (e.g., GitHub, GitLab, Gitee); however, some projects may also release code via package managers, web pages, or other locations. The data collection should align with where the project publishes their releases and makes them available to their customers.
 
 ## References
-[1] [https://semver.org/](https://semver.org/)
-[2] [OSS-Compass](https://oss-compass.org/)
-[3] [CHAOSScon NA 2021 Lightning Talk](https://www.youtube.com/watch?v=DynqP2_W1ts)
+- [1] [https://semver.org/](https://semver.org/)
+- [2] [OSS-Compass](https://oss-compass.org/)
+- [3] [CHAOSScon NA 2021 Lightning Talk](https://www.youtube.com/watch?v=DynqP2_W1ts)
 
 
 ## Known Contributors
