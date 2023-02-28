@@ -27,9 +27,9 @@ All contributors are welcome to [participate](#participate) in the Common Metric
 
 ### How to Join Us?
 
-You can start by joining and introducing yourself on the [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss) explaining your interest. 
+You can start by joining and introducing yourself on [CHAOSS Slack](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw).
 
-Further, you are welcome to participate in our video conferences. The details of these meetings can be found [here](https://chaoss.community/participate/#user-content-common-metrics)
+Further, you are welcome to participate in our video conferences. The details of these meetings can be found [here](https://chaoss.community/chaoss-calendar/)
 
 Read the [agenda and meeting minutes](https://bit.ly/2ROytFz) to know the discussions of the previous meetings and find out more about the next one. 
 
@@ -54,13 +54,11 @@ The metrics of this working group are classified into the following focus areas:
 
 ### Released Metrics
 
-We are involved in the release of CHAOSS metrics. Check out our published work at <https://chaoss.community/metrics/>
-
-The translations of these metrics are available at [chaoss/translations](https://github.com/chaoss/translations)
+We are involved in the release of CHAOSS metrics. Check out our published work at <https://chaoss.community/kb-metrics-and-metrics-models/>
 
 ## Contributors
 
-### Chairs
+### Maintainers
 
 - [Dawn Foster](https://github.com/geekygirldawn)
 - [Matt Germonprez](https://github.com/germonprez)
@@ -69,13 +67,10 @@ The translations of these metrics are available at [chaoss/translations](https:/
 
 ### Amazing CHAOSS Project Contributors
 
-We greatly appreciate our contributors at CHAOSS and look forward to your joining us as well. All CHAOSS Project contributors are listed [here](https://chaoss.community/metrics/#user-content-chaoss-contributors-include)
-
-Are you eligible to be on this list? You are if you helped in any capacity, for example: Filed an issue. Created a Pull Request. Gave feedback on our work. The team will try to update this list regularly, but please open an issue or post
-on the mailing list if we've missed anyone.
+We'd like to thank everyone who has contributed to the CHAOSS project and our different working groups. We know that there are many different [types of contributions](https://chaoss.community/kb/metric-types-of-contributions/) and would like to recognize everyone's amazing work in these different areas. Thank You!!
 
 ## License
 
-The documents in this repository are released under the MIT License. See [LICENSE](LICENSE) file.
+See [LICENSE](LICENSE) file.
 
-Copyright © 2019-2022 - CHAOSS, a Linux Foundation Project
+Copyright © 2023 - CHAOSS
