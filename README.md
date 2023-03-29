@@ -62,8 +62,8 @@ The translations of these metrics are available at [chaoss/translations](https:/
 
 ### Chairs
 
-- [Dawn Foster](https://github.com/geekygirldawn)
-- [Matt Germonprez](https://github.com/germonprez)
+- Kevin Lumbard
+- Matt Germonprez 
 
  Please feel free to contact our chairs in case you require any sort of assistance.
 
