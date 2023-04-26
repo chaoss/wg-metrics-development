@@ -9,7 +9,6 @@ This metric helps understand where events for a project are located to better un
 To give insight as to where project events and meet-ups are happening globally.
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Filters
 * Virtual versus in-person or hybrid
@@ -28,11 +27,11 @@ To give insight as to where project events and meet-ups are happening globally.
 * Aggregated Open Source event sites
 * IEEE SA Open’s Community Calendar: https://saopen.ieee.org/events/
 
-## References
-
 ## Contributors
 * Elizabeth Barron
 * Dawn Foster
 * Vinod Ahuja
 * Kevin Lumbard
 * Matt Germonprez
+
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
