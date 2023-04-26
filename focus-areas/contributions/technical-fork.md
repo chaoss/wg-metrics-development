@@ -18,13 +18,11 @@ A technical fork is a distributed version control copy of a project. The number 
 The objective of the Technical Fork metric is to ascertain how many copies of a project exist on a code development platform. Analysis of technical forks may provide insight into forking intentions (different types of forks such as contributing, and non-contributing forks).
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Filters
 * Time Period (e.g., Weekly, Monthly, Annually)  
 * Ratio of contributing fork to total forks (A contributing fork is a fork that has opened a change request against the original repository.)  
 * Ratio of non-contributing fork to total forks (A non-contributing fork is a fork that has never opened a change request against the original repository.)  
-
 ### Visualizations
 **Augur Implementation**
 
@@ -53,6 +51,4 @@ The objective of the Technical Fork metric is to ascertain how many copies of a 
 * Dawn Foster 
 * Elizabeth Barron
 
-
-**This metric was last reviewed on September 1, 2022 as part of recurring review process.**
-
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
