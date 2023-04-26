@@ -2,19 +2,15 @@
 
 Question: How much time passes between when an activity requiring attention is created and the first response? 
 
-
 ## Description
 
 The first response to an activity can sometimes be the most important response. The first response shows that a community is active and engages in conversations. A long time to respond to an activity can be a sign that a community is not responsive. A short time to respond to an activity can help to engage more members into further discussions and within the community.
-
 
 ## Objectives
 
 Identify cadence of first response across a variety of activities, including PRs, Issues, emails, IRC posts, etc.  Time to first response is an important consideration for new and long-time contributors to a project along with overall project health. 
 
-
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 Time to first response of an activity = time first response was posted to the activity - time the activity was created. 
 
@@ -23,7 +19,6 @@ Time to first response of an activity = time first response was posted to the ac
 * Role of responder, e.g., only count maintainer responses
 * Automated responses, e.g., only count replies from real people by filtering bots and other automated replies
 * Type of Activity, e.g., issues (see metric [Issue Response Time](https://chaoss.community/metric-issue-response-time/), emails, chat, change requests
-
 
 ### Visualizations
 
@@ -37,12 +32,11 @@ Time to first response of an activity = time first response was posted to the ac
 
 ![Augur Visualization: Mean Response Times](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/time-to-first-response_augur-ttc-2.png)
 
-
 ### Tools Providing the Metric
 
 * GrimoireLab Panel: [Efficiency Timing Overview](https://chaoss.github.io/grimoirelab-sigils/panels/efficiency-timing-overview/)
 * [Kata Containers dashboard efficiency panel](https://katacontainers.biterg.io/app/kibana#/dashboard/cbbdd920-288c-11e9-b662-975152e57997)
 
-## References
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 
