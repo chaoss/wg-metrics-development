@@ -17,8 +17,6 @@ Contributors are employed by a variety of organizations, which can influence the
 Organizational diversity may impact the inclusivity of a project either positively or negatively. If an organization is employing people to work on open source, those people might come from more diverse backgrounds than projects that rely on people to have free time as volunteer contributors. If a single company dominates the project, others might not feel included or welcome. 
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
-
 * Collect data from data sources where contributions occur.
 * Identify contributor affiliations to get a good estimate of which organizations they belong to.
 * Correlate information about contributions, assigning each to appropriate organization.
@@ -60,14 +58,12 @@ Organizational diversity may impact the inclusivity of a project either positive
 * In projects with the concept of code ownership, % of code owners affiliated with each organization weighed by the importance/size/LoC of the code they own and the number of co-owners.
 
 ## References
-
-**Potential implementations and references:**
 * [https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html](https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html)
 * [Kata Containers dashboard entry page](https://katacontainers.biterg.io) (bottom of this)
 * [Augur](https://github.com/chaoss/augur)
 * [Drupal](​​https://dri.es/who-sponsors-drupal-development-2020)
 
-## Known Contributors
+## Contributors
 Dawn Foster
 Kevin Lumbard
 Vinod Ahuja
@@ -76,5 +72,5 @@ Sean Goggins
 Matt Germonprez
 Georg Link
 
-***This metric was last reviewed on September 1 as part of our recurring review process***
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
 
