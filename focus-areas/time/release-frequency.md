@@ -1,7 +1,5 @@
 # Release Frequency
 
-### This metric is a release candidate. To comment on this metric please see Issue [#184](https://github.com/chaoss/wg-common/issues/184). Following a comment period, this metric will be included in the next regular release.
-
 Question: How often does a project publish a release of their software / artifact?
 
 Context Tags: Lifecycle (Time/Duration), Software
@@ -17,7 +15,6 @@ When software developers update the code for an open source project, they also n
 A higher frequency of releases indicates that software artifacts are iterating rapidly to respond to user needs. Software projects belong to different industries and fields, and no two projects have the same needs, so release frequency is highly variable. A consistent release frequency may indicate a more stable or mature project.
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
 
 ### Filters
 - Type of release. E.g., major, minor, bug fix, pre-release, alpha, or based on semantic versioning [1].
@@ -49,7 +46,6 @@ In many cases, this data can be collected from the same platform as the source c
 - [2] [OSS-Compass](https://oss-compass.org/)
 - [3] [CHAOSScon NA 2021 Lightning Talk](https://www.youtube.com/watch?v=DynqP2_W1ts)
 
-
 ## Known Contributors
 - Dawn Foster
 - Yehui Wang 
@@ -59,5 +55,4 @@ In many cases, this data can be collected from the same platform as the source c
 - Vinod Ahuja
 - Kevin Lumbard
 
-***This metric was last reviewed on January 19, 2023 as part of recurring review process***
-
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
