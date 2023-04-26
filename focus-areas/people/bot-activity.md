@@ -15,12 +15,10 @@ The Bot Activity metric helps differentiate project activity between people and 
 * Indication of project transparency
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
-
-* Ratio of bot to human activity over time
-* Average number of bots over time 
 
 ### Filters 
+* Ratio of bot to human activity over time
+* Average number of bots over time 
 * Bots that have user profiles
 * Bots that require human interaction 
 * Bots that function by themselves (automated) 
@@ -36,7 +34,6 @@ The Bot Activity metric helps differentiate project activity between people and 
 
 From: https://k8s.devstats.cncf.io/d/5/bot-commands-repository-groups?orgId=1&var-period=w&var-repogroup_name=Kubernetes&var-repo_name=kubernetes%2Fkubernetes&var-commands=All
 
-
 ## References
 - [6- Bots to Better Your Open Source Project](https://www.twilio.com/blog/6-bots-better-open-source-project)
 - [GiHub’s Hubot](https://hubot.github.com/)
@@ -49,3 +46,5 @@ From: https://k8s.devstats.cncf.io/d/5/bot-commands-repository-groups?orgId=1&va
 - Elizabeth Barron
 - Vinod Ahuja
 - Matt Cantu
+
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
