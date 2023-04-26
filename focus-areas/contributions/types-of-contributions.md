@@ -16,8 +16,6 @@ A variety of contribution types can demonstrate that a project is mature and wel
 Types of contributions along with project demographic information may provide insight into the diversity and inclusiveness of a project. Specifically, this insight may help inform decisions around project governance and how new contributors are welcomed. 
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
-
 How contributions are defined, quantified, tracked and made public is a challenging question. Answers may be unique to each project and the following suggestions are a starting point. As a general guideline, it is difficult to compare different contribution types with each other and they might better be recognized independently.
 
 **The following list can help with identifying contribution types:**
@@ -83,4 +81,4 @@ Dawn Foster
 Sean Goggins  
 Matt Germonprez  
 
-This metric was last reviewed on August 4, 2022 as part of the recurring review process
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
