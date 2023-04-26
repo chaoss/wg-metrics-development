@@ -15,30 +15,27 @@ Abandoned or semi-abandoned processes in the review cycles, where either the mai
 Characteristics of reviews that have different cyclic pattern lengths.
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 Review Cycle Duration is measured as the time length of one review cycle within a single change request.
 The duration can be calculated between:
-The moment when each review cycle begins, defined as the point in time when a change request is submitted or updated.
-The moment when each review cycle ends, either because the change request was updated and needs a new review or because it was accepted or rejected.
+- The moment when each review cycle begins, defined as the point in time when a change request is submitted or updated.
+- The moment when each review cycle ends, either because the change request was updated and needs a new review or because it was accepted or rejected.
 
 ### Filter
 
 Average or Median Duration, optionally filtered or grouped by:
-Number of people involved in review
-Number of comments in review
-Edits made to a change request
-Project or program
-Organization making the change request
-Time the change request was submitted
-Developers who contributed to a change request
-Change request
-Number of review cycle on a change request (e.g., filter by first, second, …  round)
-
-### Visualizations
-
-### Tools Providing the Metric
+- Number of people involved in review
+- Number of comments in review
+- Edits made to a change request
+- Project or program
+- Organization making the change request
+- Time the change request was submitted
+- Developers who contributed to a change request
+- Change request
+- Number of review cycle on a change request (e.g., filter by first, second, …  round)
 
 ## References
 
 Example of data that could be used to develop the metric: https://gerrit.wikimedia.org/r/c/mediawiki/core/+/194071
+
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
