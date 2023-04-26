@@ -12,7 +12,6 @@ Individuals engage in activities in open source projects at various times of the
 * Improve transparency for open source project and community managers as to when activity is occurring 
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Filters
 * Individual by Organization
@@ -33,7 +32,6 @@ Individuals engage in activities in open source projects at various times of the
 
 ![Date Time Chart 4](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/activity-dates-and-times_4.png)
 
-
 ### Tools Providing Metric
 
 [GrimoireLab](https://chaoss.github.io/grimoirelab/)
@@ -43,3 +41,5 @@ Individuals engage in activities in open source projects at various times of the
 ## References
 
 [Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time)
+
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
