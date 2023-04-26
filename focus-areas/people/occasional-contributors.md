@@ -2,7 +2,6 @@
 
 Question: How do we understand the number of occasional contributors and the contributions that they make?
 
-
 ## Description
 Occasional contributors are people who make contributions to a project on an irregular basis. Occasional contributors are important to recognize in a community as their contributions can serve to advance the project in meaningful ways. One precise definition of an occasional contributor is “someone who hasn’t submitted a pull request in at least 3 months and hasn’t had more than 12 pull requests overall in the project” [1]. 
 
@@ -26,7 +25,6 @@ Monitoring occasional contributors can help to understand if:
 - A community is welcoming to diverse contributors 
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Filters
 - Minimum number of contributions before someone is no longer an occasional contributor 
@@ -61,4 +59,4 @@ From: https://cauldron.io/
 - Kevin Lumbard
 - Vinod Ahuja
 
-***This metric was last reviewed on August, 2022***
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
