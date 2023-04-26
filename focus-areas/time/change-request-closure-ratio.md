@@ -1,7 +1,5 @@
 # Change Request Closure Ratio
 
-### This metric is a release candidate. To comment on this metric please see Issue [#[187]](https://github.com/chaoss/wg-common/issues/187). Following a comment period, this metric will be included in the next regular release.
-
 Question:  Is the project keeping up with change requests?
 
 Context Tags: Contribution, Community
@@ -14,12 +12,11 @@ This metric evaluates if the project is handling change requests (e.g., pull req
 ## Objectives
 Attention to the project’s Change Request Closure Ratio has numerous benefits for open source projects: contributors benefit from getting a decision about their contribution and change requests are less likely to have merge conflicts if they are dealt with more quickly. This metric also provides insight for:
 
-* Understanding whether a project has enough maintainers to keep up with change requests.
-* Encouraging maintainers to close change requests that will not be merged, even when this might involve difficult conversations.
-* Monitoring long closure times or neglected change requests which may be a barrier to contribution for participants from underrepresented groups.
+- Understanding whether a project has enough maintainers to keep up with change requests.
+- Encouraging maintainers to close change requests that will not be merged, even when this might involve difficult conversations.
+- Monitoring long closure times or neglected change requests which may be a barrier to contribution for participants from underrepresented groups.
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
 
 The change request closure ratio is measured by comparing the total number of open change requests during a specified time period with the number of closed change requests during the same time period. More specifically, the ratio is calculated as the number of closed change requests divided by the number of open pull requests during the same time period. Projects that are keeping up with change requests will have a ratio approaching 1, which indicates that the project is closing most or all of their open pull requests.
 
@@ -39,7 +36,6 @@ The change request closure ratio is measured by comparing the total number of op
 
 ![Review Efficiency Index](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/change-request-closure-ratio-rei-grimoirelab.png)
 
-
 ## References
 * [CHAOSScon NA 2021 Lightning Talk](https://www.youtube.com/watch?v=DynqP2_W1ts)
 
@@ -50,5 +46,4 @@ The change request closure ratio is measured by comparing the total number of op
 * Elizabeth Barron
 * Yehui Wang
 
-***This metric was last reviewed on March 3, 2023 for initial release***
-
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
