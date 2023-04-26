@@ -3,19 +3,16 @@
 Question: How much time passes between creating and closing an operation such as an issue, change request, or support ticket?   
 
 ## Description  
-The time to close is the total amount of time that passes between the creation and closing of an operation such as an issue, change request, or support ticket. The operation needs to have an open and closed state, as is often the case in code review processes, question and answer forums, and ticketing systems.    
-
-Related metric: [Issue Resolution Duration](https://chaoss.community/metric-issue-resolution-duration/)      
+The time to close is the total amount of time that passes between the creation and closing of an operation such as an issue, change request, or support ticket. The operation needs to have an open and closed state, as is often the case in code review processes, question and answer forums, and ticketing systems. a related metric includes [Issue Resolution Duration](https://chaoss.community/metric-issue-resolution-duration/)      
 
 ## Objectives  
-1. Determining how responsive a community is can help efforts to be inclusive, attract, and retain new and existing contributors.   
-2. Identifying characteristics of operations that impact an operation closing quickly or slowly (e.g., finding best practices, areas of improvement, assess efficiency).   
-3. Identifying bias for timely responses to different community members.   
-4. Detecting a change in community activity (e.g., to indicate potential maintainer burnout, reduction in the diversity of contributions)   
-5. Understand how the time to close an issue or change request is related to merge success or failure.
+- Determining how responsive a community is can help efforts to be inclusive, attract, and retain new and existing contributors.   
+- Identifying characteristics of operations that impact an operation closing quickly or slowly (e.g., finding best practices, areas of improvement, assess efficiency).   
+- Identifying bias for timely responses to different community members.   
+- Detecting a change in community activity (e.g., to indicate potential maintainer burnout, reduction in the diversity of contributions)   
+- Understand how the time to close an issue or change request is related to merge success or failure.
 
 ## Implementation  
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Filters  
 
@@ -49,3 +46,5 @@ The time to close metric may be contextual based on the project activity and obj
 
 ## References
 * “Practice P.12: Respond to all submissions” from “Appendix to: Managing Episodic Volunteers in Free/Libre/Open Source Software Communities” by Ann Barcomb, Klaas-Jan Stol, Brian Fitzgerald and Dirk Riehle: https://opus4.kobv.de/opus4-fau/frontdoor/index/index/docId/13519  
+
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
