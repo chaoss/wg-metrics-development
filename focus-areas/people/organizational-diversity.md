@@ -2,10 +2,6 @@
 
 Question: What is the organizational diversity of contributions?
 
-Context Tags: Organization, Contributor
-
-Keyword Tags: Diversity, Employment, Elephant Factor
-
 ## Description
 
 Organizational diversity expresses how many different organizations are involved in a project and how involved different organizations are compared to one another.
@@ -64,13 +60,11 @@ Organizational diversity may impact the inclusivity of a project either positive
 * [Drupal](​​https://dri.es/who-sponsors-drupal-development-2020)
 
 ## Contributors
-Dawn Foster
-Kevin Lumbard
-Vinod Ahuja
-Elizabeth Barron
-Sean Goggins
-Matt Germonprez
-Georg Link
-
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
+- Dawn Foster
+- Kevin Lumbard
+- Vinod Ahuja
+- Elizabeth Barron
+- Sean Goggins
+- Matt Germonprez
+- Georg Link
 
