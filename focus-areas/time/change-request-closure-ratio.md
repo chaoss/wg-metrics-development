@@ -2,10 +2,6 @@
 
 Question:  Is the project keeping up with change requests?
 
-Context Tags: Contribution, Community
-
-Keywords: time to close, pull request, merge request, ratio, Review Efficiency Index
-
 ## Description
 This metric evaluates if the project is handling change requests (e.g., pull requests / merge requests) in a timely fashion by measuring the ratio between the total number of open change requests during a time period versus the total number of change requests closed in that same period.
 
@@ -46,4 +42,3 @@ The change request closure ratio is measured by comparing the total number of op
 * Elizabeth Barron
 * Yehui Wang
 
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
