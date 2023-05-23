@@ -1,10 +1,6 @@
 # Meeting Attendee Count
 
-### This metric is a release candidate. To comment on this metric please see Issue [#173](https://github.com/chaoss/wg-common/issues/173). Following a comment period, this metric will be included in the next regular release.
-
 Question: How many people are attending our virtual or in-person meetings?
-
-Synonyms: n/a
 
 ## Description
 Many open source projects host regular operational or community meetings to collaborate in a more synchronous way. These meetings include live virtual and in-person and may coincide with conference events. This metric aims to measure the number of people attending these meetings. 
@@ -37,8 +33,6 @@ Considerations for Diversity Equity and Inclusion (DEI) within meetings:
 There is no right or wrong answer with regard to the perfect number of attendees at meetings, and more is not necessarily better, but keeping track of attendance can help communities gain more insight into how their community members interact.
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
-
 
 ### Filters 
 
@@ -73,6 +67,3 @@ Related CHAOSS metrics:
 - Kevin Lumbard 
 - Matt Germonprez 
 - Vinod Ahuja
-
-***This metric was last reviewed on September 29, 2022 as part of the 2022-10 release.***
-
