@@ -53,7 +53,6 @@ Source:  [https://blog.bitergia.com/2018/11/20/ubers-community-software-developm
 *   GrimoireLab
 *   Augur
 
-
 ### Data Collection Strategies
 
 Different approaches can be used to collect information about location:
@@ -67,10 +66,7 @@ The key challenge for collecting data is determining the location of the contrib
 
 An additional consideration would be the use of external data collection tools such as community surveys or event registration data that could cross reference systems of engagement profiles. Contributor location data could be collected inline with event [attendee demographics](https://chaoss.community/metric-attendee-demographics/) and [speaker demographics](https://chaoss.community/metric-speaker-demographics/).
 
-
 ## References
 
 *   Gonzalez-Barahona, J. M., Robles, G., Andradas-Izquierdo, R., & Ghosh, R. A. (2008). Geographic origin of libre software developers. _Information Economics and Policy_, _20_(4), 356-363.
 
-
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
