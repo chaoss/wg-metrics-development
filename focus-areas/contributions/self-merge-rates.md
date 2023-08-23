@@ -33,7 +33,7 @@ Healthy and collaborative projects will have a culture of doing reviews of all c
 
 ![Reviewers in GitHub](/focus-areas/contributions/images/GitHub-reviewers-screenshot.png)
 
-![Reviewers in GitLab](https://raw.githubusercontent.com/chaoss/wg-common/focus-areas/contributions/images/GitLab-reviewers-screenshot.png)
+![Reviewers in GitLab](/focus-areas/contributions/images/GitLab-reviewers-screenshot.png)
 
 ## References
 
