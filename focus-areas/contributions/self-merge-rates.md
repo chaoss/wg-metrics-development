@@ -29,7 +29,11 @@ Healthy and collaborative projects will have a culture of doing reviews of all c
 
 ### Data Collection Strategies 
 
-* Existence of automated reviews (e.g., non-bot and non-rule based reviews): there should be reviews with text-based comments, emoji’s, or assigned reviewer approval.  
+* Existence of automated reviews (e.g., non-bot and non-rule based reviews): there should be reviews with text-based comments, emoji’s, or assigned reviewer approval.
+
+![Reviewers in GitHub](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/technical-fork_augur-fork.png)
+
+![Reviewers in GitLab](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/technical-fork_augur-fork.png)
 
 ## References
 
