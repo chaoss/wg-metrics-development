@@ -27,7 +27,7 @@ Healthy and collaborative projects will have a culture of doing reviews of all c
 ![Reviewers in GitHub](https://github.com/chaoss/wg-common/blob/main/focus-areas/contributions/images/GitHub-reviewers-screenshot.png)
 
 
-#### Visualization $2: Image showing the screenshot of reviewers in GitLab
+#### Visualization #2: Image showing the screenshot of reviewers in GitLab
 ![Reviewers in GitLab](https://github.com/chaoss/wg-common/blob/main/focus-areas/contributions/images/GitLab-reviewers-screenshot.png)\
 
 
