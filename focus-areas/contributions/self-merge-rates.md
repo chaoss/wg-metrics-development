@@ -1,4 +1,4 @@
-# Self merge rates
+# Self Merge Rates
 Question: How many of the contributions in the project repository are being merged by the original contributor?
 
 ## Description
@@ -23,6 +23,14 @@ Healthy and collaborative projects will have a culture of doing reviews of all c
   
 ### Visualizations
 
+#### Visualization #1: Image showing the screenshot of reviewers in GitHub
+![Reviewers in GitHub](https://github.com/chaoss/wg-common/blob/main/focus-areas/contributions/images/GitHub-reviewers-screenshot.png)
+
+
+#### Visualization $2: Image showing the screenshot of reviewers in GitLab
+![Reviewers in GitLab](https://github.com/chaoss/wg-common/blob/main/focus-areas/contributions/images/GitLab-reviewers-screenshot.png)\
+
+
 ### Tools Providing the Metric  
 * GitHub interface  
 * GitLab interface  
@@ -30,10 +38,6 @@ Healthy and collaborative projects will have a culture of doing reviews of all c
 ### Data Collection Strategies 
 
 * Existence of automated reviews (e.g., non-bot and non-rule based reviews): there should be reviews with text-based comments, emoji’s, or assigned reviewer approval.
-
-![Reviewers in GitHub](/focus-areas/contributions/images/GitHub-reviewers-screenshot.png)
-
-![Reviewers in GitLab](/focus-areas/contributions/images/GitLab-reviewers-screenshot.png)
 
 ## References
 
