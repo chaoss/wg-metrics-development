@@ -9,7 +9,7 @@ Healthy and collaborative projects will have a culture of doing reviews of all c
 
 * Community managers would be interested in seeing if a community is making progress in their review health. (e.g., did the self merge rate go down this year vs. last year?)
 * Community managers would be interested in seeing if the number of community members involved in change requests/reviews is changing over time. 
-* OPSO managers want to understand what open source projects to incorporate into their solutions by evaluating project’s review health.  
+* OSPO managers want to understand what open source projects to incorporate into their solutions by evaluating project’s review health.  
 * Anyone (e.g., potential users or community members) interested in evaluating the health of the community would want to see the self merge and merge without review rate trends over time and see if there's a healthy review of contributions in the repository. 
 
 ## Implementation
