@@ -1,4 +1,4 @@
-# CHAOSS Common Metrics Working Group
+# CHAOSS Metrics Development Working Group
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 
 ### Goals 
 
-The Common Metrics Working Group focuses on defining the metrics that are used by multiple working groups or are important for community health.
+The Metrics Development Working Group focuses on defining the metrics that are used by multiple working groups or are important for community health.
 
 ### Purpose
 
@@ -21,15 +21,13 @@ From time to time, we come across metrics that do not cleanly fit into one of th
 
 ### Who should join this working group?
 
-All contributors are welcome to [participate](#participate) in the Common Metrics Working Group. The areas of interest include organizational affiliation, responsiveness, geographic coverage, and more.
+All contributors are welcome to [participate](#participate) in the Metrics Development Working Group. The areas of interest include organizational affiliation, responsiveness, geographic coverage, and more.
   
 ## Participate
 
 ### How to Join Us?
 
-You can start by joining and introducing yourself on the [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss) explaining your interest. 
-
-Further, you are welcome to participate in our video conferences. The details of these meetings can be found [here](https://chaoss.community/participate/#user-content-common-metrics)
+You are welcome to participate in our video conferences. The details of these meetings can be found [here](https://chaoss.community/chaoss-calendar)
 
 Read the [agenda and meeting minutes](https://bit.ly/2ROytFz) to know the discussions of the previous meetings and find out more about the next one. 
 
@@ -41,22 +39,10 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ## Metrics
 
-### Focus-Areas and Goals
-
-The metrics of this working group are classified into the following focus areas:  
-
-| Focus Area | Goal |
-| --- | --- |
-| [Contributions](focus-areas/contributions) | Identify what contributions are made (e.g., code commit, wiki edit, documentation) |
-| [People](focus-areas/people) | Identify organizations and individuals who make contributions (e.g. contribution type, demographics) |
-| [Place](focus-areas/place) | Identify where contributions occur in terms of physical and virtual places (e.g., GitHub, Chat Channel, Forum, conferences) |
-| [Time](focus-areas/time) | Identify when contributions are made (e.g., time to respond) |
-
 ### Released Metrics
 
-We are involved in the release of CHAOSS metrics. Check out our published work at <https://chaoss.community/metrics/>
+We are involved in the release of CHAOSS metrics. Check out our published work at <[https://chaoss.community/metrics/](https://chaoss.community/kb-metrics-and-metrics-models/)>
 
-The translations of these metrics are available at [chaoss/translations](https://github.com/chaoss/translations)
 
 ## Contributors
 
@@ -69,13 +55,10 @@ The translations of these metrics are available at [chaoss/translations](https:/
 
 ### Amazing CHAOSS Project Contributors
 
-We greatly appreciate our contributors at CHAOSS and look forward to your joining us as well. All CHAOSS Project contributors are listed [here](https://chaoss.community/metrics/#user-content-chaoss-contributors-include)
-
-Are you eligible to be on this list? You are if you helped in any capacity, for example: Filed an issue. Created a Pull Request. Gave feedback on our work. The team will try to update this list regularly, but please open an issue or post
-on the mailing list if we've missed anyone.
+We greatly appreciate our contributors at CHAOSS and look forward to your joining us as well. 
 
 ## License
 
 The documents in this repository are released under the MIT License. See [LICENSE](LICENSE) file.
 
-Copyright © 2019-2022 - CHAOSS, a Linux Foundation Project
+Copyright © CHAOSS, a Linux Foundation Project
