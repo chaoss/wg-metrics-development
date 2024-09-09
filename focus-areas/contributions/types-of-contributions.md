@@ -1,82 +1,62 @@
-# Types of Contributions
-Question: What types of contributions are being made?  
+# **Types of Contributions**
 
-Context Tags: Contributions
+**Question:** What types of contributions are being made?
 
-Keywords: triage, commits, manage, review
+## **Overview**
+Multiple, varied contributions make an open-source project healthy. Contributions may include writing code, managing the community, triaging bugs, evangelizing the project, supporting users, or helping in other ways.  
+A variety of contribution types demonstrate that a project is mature and well-rounded with sufficient activity to support all aspects of the project, and enable paths to leadership that are supportive of various expertise beyond coding.  
+Additionally, types of contributions along with project demographic information may provide insight into the diversity and inclusiveness of a project, helping inform decisions around project governance and how new contributors are welcomed.
 
-## Description
+## **Want to Know More?**
 
-Multiple, varied contributions make an open source project healthy. Contributions may include writing code, managing the community, triaging bugs, evangelizing the project, supporting users, or helping in other ways.
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
-## Objectives
+### **Data Collection Strategies**
+- **Interviews or Surveys:** Ask community members to recognize others for their contributions to identify contribution types that may have been overlooked. Example questions:
+   - *Who in the project would you like to recognize for their contributions? What did they contribute?*
+- **Observations:** Identify and recognize leaders in different parts of the project.
+   - *What leaders are listed on the project website or in a repository?*
+- **Non-code Contributions Tracking:** Use a dedicated system, e.g., an issue tracker, to log non-code contributions.
+   - For example, communication channel activity like mailing list discussions can be a proxy for QA contributions.
+- **Trace Data Collection:** Measure contributions through collaboration tool logs (e.g., repository commits, wiki edits, or email archives).
+- **Automated Classification:** Train an AI bot to detect and classify contributions (e.g., distinguishing help requests from support provided).
 
-A variety of contribution types can demonstrate that a project is mature and well-rounded with sufficient activity to support all aspects of the project, and enable paths to leadership that are supportive of a variety of contribution types and people with varying expertise beyond coding.
+### **Filters**
+- Contribution types might include:
+  - Writing Code
+  - Reviewing Code
+  - Bug Triaging
+  - Quality Assurance and Testing
+  - Security-Related Activities
+  - Localization and Translation
+  - Event Organization
+  - Documentation Authorship
+  - Community Building and Management
+  - Social Media Management
+  - Marketing and Campaign Advocacy
 
-Types of contributions along with project demographic information may provide insight into the diversity and inclusiveness of a project. Specifically, this insight may help inform decisions around project governance and how new contributors are welcomed. 
+### **Visualizations**
+- Graphical representations of contributions by type (commits, reviews, events organized, etc.) using tools like GitLab Insights or CHAOSS Augur.  
+*Figure X: Contribution types by category (Source, Year)*
 
-## Implementation
-How contributions are defined, quantified, tracked and made public is a challenging question. Answers may be unique to each project and the following suggestions are a starting point. As a general guideline, it is difficult to compare different contribution types with each other and they might better be recognized independently.
+</details></span>
 
-**The following list can help with identifying contribution types:**
-* Writing Code
-* Reviewing Code
-* Bug Triaging
-* Quality Assurance and Testing
-* Security-Related Activities
-* Localization/L10N and Translation
-* Event Organization
-* Documentation Authorship
-* Community Building and Management
-* Teaching and Tutorial Building
-* Troubleshooting and Support
-* Creative Work and Design
-* User Interface, User Experience, and Accessibility
-* Social Media Management
-* User Support and Answering Questions
-* Writing Articles
-* Public Relations - Interviews with Technical Press
-* Speaking at Events
-* Marketing and Campaign Advocacy
-* Website Development
-* Legal Counsel
-* Financial Management
+## **References**
+- [Revisiting the Word Recognition in FOSS and the Dream of Open Credentials](https://medium.com/@sunnydeveloper/revisiting-the-word-recognition-in-foss-and-the-dream-of-open-credentials-d15385d49447)
+- [14 Ways to Contribute to Open Source Without Being a Coding Expert](https://smartbear.com/blog/test-and-monitor/14-ways-to-contribute-to-open-source-without-being/)
+- [A Guide to Issue Credits and the Drupal.org Marketplace](https://www.drupal.org/drupalorg/blog/a-guide-to-issue-credits-and-the-drupal.org-marketplace)
+- [OpenStack AUC Recognition](https://wiki.openstack.org/wiki/AUCRecognition)
+- [Contributing](https://24pullrequests.com/contributing)
 
-### Data Collection Strategies
+## **Contributors**
+- Kevin Lumbard
+- Vinod Ahuja
+- Elizabeth Barron
+- Dawn Foster
+- Sean Goggins
+- Matt Germonprez
 
-**Interview or Survey:** Ask community members to recognize others for their contributions to recognize contribution types that have previously not been considered. 
-* Who in the project would you like to recognize for their contributions? What did they contribute?  
-
-**Observe project:** Identify and recognize leads of different parts of the project.
-* What leaders are listed on the project website or in a repository?
-
-**Capture Non-code Contributions:** Track contributions through a dedicated system, e.g., an issue tracker.
-* Logging can include custom information a project wants to know about non-code contributions to recognize efforts.
-* Proxy contributions through communication channel activity. For example, If quality assurance members (QA) have their own mailing list, then activity around QA contributions can be measured by proxy from mailing list activity. 
-
-**Collect Trace Data:** Measure contributions through collaboration tool log data.  
-* For example, code contributions can be counted from a source code repository, wiki contributions can be counted from a wiki edit history, and email messages can be counted from an email archive
-
-**Automate Classification:** Train an artificial intelligence (AI) bot to detect and classify contributions.
-* An AI bot can assist in categorizing contributions, for example, help requests vs. support provided, or feature requests vs. bug reporting, especially if these are all done in the same issue tracker.
-
-**Other considerations:**
-* Automated reports may allow community members to opt-out and not appear on the contribution reports.
-* Acknowledge imperfect capture of contribution types and be explicit about what types of contributions are included.
-* As a project evolves, methods for collecting types of contributions will need to adapt. For example, when an internationalization library is replaced with a different one, project activity around localization conceivably produces different metrics before and after the change.
-* Account for activity from bots when mining contribution types at large scale.
-
-## References
-* https://medium.com/@sunnydeveloper/revisiting-the-word-recognition-in-foss-and-the-dream-of-open-credentials-d15385d49447
-* https://24pullrequests.com/contributing
-* https://smartbear.com/blog/test-and-monitor/14-ways-to-contribute-to-open-source-without-being/
-* https://wiki.openstack.org/wiki/AUCRecognition
-* https://www.drupal.org/drupalorg/blog/a-guide-to-issue-credits-and-the-drupal.org-marketplace
-
-## Contributors  
-- Kevin Lumbard  
-- Vinod Ahuja  
-- Elizabeth Barron  
-- Dawn Foster  
-- Sean Goggins  
-- Matt Germonprez  
+## **Additional Information**
+- To edit this metric, please submit a Change Request here.
+- To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3432](https://chaoss.community/?p=3432)
