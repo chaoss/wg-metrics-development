@@ -1,57 +1,75 @@
-# Collaboration Platform Activity
+# **Collaboration Platform Activity**
 
-Question: What is the count of activities across digital collaboration platforms (e.g., GitHub, GitLab Slack, email) used by a project?
+**Question:** What is the count of activities across digital collaboration platforms (e.g., GitHub, GitLab, Slack, email) used by a project?
 
-## Description
-Open source projects use many different digital communication and collaboration platforms. These platforms may include email, social media, chat applications, and code management technologies (e.g., GitHub, GitLab). This metric is a measure of where and how much message activity is occurring across collaboration platforms.
+## **Overview**
+Open source projects use various digital communication and collaboration platforms such as email, social media, chat applications, and code management technologies like GitHub or GitLab. This metric measures the volume and location of message activity across these platforms, providing insights into where and how collaboration happens in the project.
 
-## Objectives
-The objective of the Collaboration Platform Activity metric is to understand where the community is collaborating. This metric can help: 
-- To develop insights related to the processes followed by each project, which are more likely to be accurate if our review of the communication logs is as complete as possible.
-- Demonstrate how open and transparent a project is.
-- People find the appropriate place to make contributions and connect with the project.
-- Project maintainers determine the optimal number of channels to effectively and efficiently share information while allowing contributors to connect in the way that works best for them
-- Find the lowest barrier channels for engagement
-- Inform other metrics like: [Burstiness](https://chaoss.community/metric-burstiness/), [Project Velocity](https://chaoss.community/metric-project-velocity/), [Social Listening](https://chaoss.community/metric-social-listening), [Activity Dates and Times](https://chaoss.community/metric-activity-dates-and-times/), [Chat Platform Inclusivity](https://github.com/chaoss/wg-diversity-inclusion/issues/318)
+Understanding where the community interacts helps track engagement, transparency, and project accessibility. This metric is crucial for evaluating communication processes and identifying the most effective channels for community participation.
 
-## Implementation
+## **Want to Know More?**
 
-The unit of data collection is the individual activity on a platform. Metadata related to the metric can include:
-* Timestamp
-* Sender
-* Threaded/Non-Threaded Platform
-* Data Collection Date
-* Platform message identifier
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
-### Filters
-* Number of people
-* Number of messages
-* Number of comments on Issues and Change Requests
-* Type of channel (mailing list, irc, and so on)
-* Activity per day of the week
-* [Contribution attributions](https://chaoss.community/metric-contribution-attribution/) (e.g., people or organizations)
+### **Objectives**
+The **Collaboration Platform Activity** metric helps:
+- Understand where the community is collaborating and how it communicates.
+- Identify the processes followed by each project based on communication logs.
+- Demonstrate the level of transparency in project communications.
+- Help contributors find the appropriate platform for making contributions and connecting with the project.
+- Enable project maintainers to determine the optimal number of communication channels to efficiently share information and engage contributors.
+- Identify the lowest-barrier channels for engagement.
+- Support other metrics, such as [Burstiness](https://chaoss.community/metric-burstiness/), [Project Velocity](https://chaoss.community/metric-project-velocity/), [Social Listening](https://chaoss.community/metric-social-listening/), [Activity Dates and Times](https://chaoss.community/metric-activity-dates-and-times/), and [Chat Platform Inclusivity](https://github.com/chaoss/wg-diversity-inclusion/issues/318).
 
-### Visualizations
+### **Data Collection Strategies**
+The unit of data collection is the individual activity on a platform. Metadata related to this metric can include:
+- Timestamp of the activity
+- Sender (user or bot)
+- Threaded or non-threaded platform type
+- Data collection date
+- Platform message identifier
 
-![GrimoireLab Implementation](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/place/images/collaboration-platforms.png)
+### **Filters**
+- Number of people contributing
+- Number of messages sent
+- Number of comments on issues and change requests
+- Type of platform or channel (e.g., mailing list, IRC, forum)
+- Activity per day of the week
+- [Contribution attributions](https://chaoss.community/metric-contribution-attribution/) (e.g., by individuals or organizations)
 
-https://chaoss.biterg.io/app/kibana#/dashboard/ab68fe20-17f2-11e9-872f-e17019e68d6d
+### **Visualizations**
+1. **Visualization of Platform Activity:**  
+   Display the count of platform activities over time.
+   ![GrimoireLab Implementation](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/place/images/collaboration-platforms.png)  
+   *Figure 1: Collaboration platform activity chart (Source, Year)*
 
-### Tools Providing the Metric
-* Orbit.love is a community management platform that captures this for a few channels: https://docs.orbit.love/docs/adding-activities
-* GrimoireLab
-* Augur
+2. **Interactive Dashboards:**  
+   Example: GrimoireLab dashboard displaying platform activity metrics.
+   [GrimoireLab Dashboard](https://chaoss.biterg.io/app/kibana#/dashboard/ab68fe20-17f2-11e9-872f-e17019e68d6d)
 
-## References
-* Related metric: https://chaoss.community/metric-chat-platform-inclusivity/
-* Related metric: https://chaoss.community/metric-issues-new/
+### **Tools Providing the Metric**
+- [Orbit.love](https://docs.orbit.love/docs/adding-activities)  
+   Captures activity from multiple community channels.
+- [GrimoireLab](https://chaoss.github.io/grimoirelab/)
+- [Augur](http://augur.osshealth.io/api_docs/#api-Evolution-Contributors_Repo_)
 
-## Contributors
-* Elizabeth Barron
-* Sean Goggins
-* Matt Germonprez
-* Danial Izquierdo
-* Dawn Foster
-* Beth Hancock
-* Kevin Lumbard
-* Vinod Ahuja 
+</details></span>
+
+## **References**
+- [Related Metric: Chat Platform Inclusivity](https://chaoss.community/metric-chat-platform-inclusivity/)
+- [Related Metric: Issues New](https://chaoss.community/metric-issues-new/)
+
+## **Contributors**
+- Elizabeth Barron
+- Sean Goggins
+- Matt Germonprez
+- Daniel Izquierdo
+- Dawn Foster
+- Beth Hancock
+- Kevin Lumbard
+- Vinod Ahuja
+
+## **Additional Information**
+To edit this metric, please submit a Change Request here.  
+To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3630](https://chaoss.community/?p=3630)
