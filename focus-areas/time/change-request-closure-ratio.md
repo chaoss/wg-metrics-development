@@ -2,19 +2,19 @@
 
 Question:  Is the project keeping up with change requests?
 
-## Description
-This metric evaluates if the project is handling change requests (e.g., pull requests / merge requests) in a timely fashion by measuring the ratio between the total number of open change requests during a time period versus the total number of change requests closed in that same period.
 
-## Objectives
-Attention to the project’s Change Request Closure Ratio has numerous benefits for open source projects: contributors benefit from getting a decision about their contribution and change requests are less likely to have merge conflicts if they are dealt with more quickly. This metric also provides insight for:
+## Overview
+TThe Change Request Closure Ratio measures the efficiency of a project in handling change requests. It is calculated by dividing the number of closed change requests by the total number of open and closed change requests during a given period. A high ratio indicates that changes are addressed promptly, which indicate  a positive contributor experience and maintaining project momentum. A low ratio might suggest insufficient maintainers, an overburdened team, or a backlog of neglected requests. This metric informs health and sustainability by revealing potential bottlenecks in the project's workflow. It helps identify areas where additional resources or process improvements are needed to ensure the project's continued viability. Additionally, a low ratio might indicate a lack of diversity and inclusion, as participants from underrepresented groups may be discouraged by long wait times or neglected requests.
 
-- Understanding whether a project has enough maintainers to keep up with change requests.
-- Encouraging maintainers to close change requests that will not be merged, even when this might involve difficult conversations.
-- Monitoring long closure times or neglected change requests which may be a barrier to contribution for participants from underrepresented groups.
 
-## Implementation
+## Want to Know More?
 
-The change request closure ratio is measured by comparing the total number of open change requests during a specified time period with the number of closed change requests during the same time period. More specifically, the ratio is calculated as the number of closed change requests divided by the number of open pull requests during the same time period. Projects that are keeping up with change requests will have a ratio approaching 1, which indicates that the project is closing most or all of their open pull requests.
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
+
+### Data Collection Strategies 
+- Data collection via  Augur
+- Data collection via Grimorilab
 
 ### Filters (optional)
 * Date ranges (e.g., past 90 days, past year)
@@ -32,13 +32,29 @@ The change request closure ratio is measured by comparing the total number of op
 
 ![Review Efficiency Index](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/change-request-closure-ratio-rei-grimoirelab.png)
 
+</details></span>
+
+
 ## References
 * [CHAOSScon NA 2021 Lightning Talk](https://www.youtube.com/watch?v=DynqP2_W1ts)
 
-## Known Contributors
+
+## Contributors
 * Dawn Foster
 * Matt Germonprez
 * Kevin Lumbard
 * Elizabeth Barron
 * Yehui Wang
+* Peculiar C Umeh
+
+
+## Additional Information
+To edit this metric please [submit a Change Request here]( https://github.com/chaoss/wg-common/blob/main/focus-areas/time/change-request-closure-ratio.md).
+To reference this metric in software or publications please use this stable URL: [https://chaoss.community/?p=4834](https://chaoss.community/?p=4834)
+
+<!-- # For groupings in the knowledge base
+Context tags: Lifecycle, Contribution
+Keyword tags: Time to close, pull request, merge request, ratio, Review Efficiency
+-->
+
 
