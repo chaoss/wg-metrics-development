@@ -45,9 +45,8 @@ Figure - Source: [Augur Image API](http://augur.chaoss.io/api/unstable/pull_requ
 * Peculiar C Umeh
 
 ## Additional Information
-To edit this metric please [submit a Change Request here](New Link)
-[Old link](https://github.com/chaoss/wg-common/blob/main/focus-areas/time/change-request-review-duration.md)
-To reference this metric in software or publications please use this stable URL:https://chaoss.community/?p=4920
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/time/change-request-review-duration.md)
+To reference this metric in software or publications please use this stable [URL:](https://chaoss.community/?p=4920)
 
 <!-- # For groupings in the knowledge base
 Context tags: Contribution, Lifecycle
