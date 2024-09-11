@@ -46,7 +46,7 @@ Figure - Source: [Augur Image API](http://augur.chaoss.io/api/unstable/pull_requ
 
 ## Additional Information
 To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/time/change-request-review-duration.md)
-To reference this metric in software or publications please use this stable [URL:](https://chaoss.community/?p=4920)
+To reference this metric in software or publications please use this stable URL:[https://chaoss.community/?p=4920](https://chaoss.community/?p=4920)
 
 <!-- # For groupings in the knowledge base
 Context tags: Contribution, Lifecycle
