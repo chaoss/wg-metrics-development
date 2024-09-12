@@ -38,7 +38,7 @@ Additionally, types of contributions along with project demographic information 
 
 ### **Visualizations**
 - Graphical representations of contributions by type (commits, reviews, events organized, etc.) using tools like GitLab Insights or CHAOSS Augur.  
-*Figure X: Contribution types by category (Source, Year)*
+*Figure 1: Contribution types by category (Source, Year)*
 
 </details></span>
 
@@ -56,6 +56,7 @@ Additionally, types of contributions along with project demographic information 
 - Dawn Foster
 - Sean Goggins
 - Matt Germonprez
+- Yigakpoa L. Samuel (Ikpae)
 
 ## **Additional Information**
 - To edit this metric, please submit a Change Request here.
