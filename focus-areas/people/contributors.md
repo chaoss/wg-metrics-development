@@ -60,10 +60,6 @@ Contribution data can be filtered in several ways, such as:
   
    *Figure 4: List of new contributors (Source, Year)*
 
-### **Tools Providing the Metric**
-- [GrimoireLab](https://chaoss.github.io/grimoirelab/)
-- [Augur](http://augur.osshealth.io/api_docs/#api-Evolution-Contributors_Repo_)
-
 ### **Surveys and Interviews**
 Some contributor insights are less easily obtained from trace data and may require additional surveys or interviews. Sample questions include:
 - *Which contributors do not typically appear in lists of contributors?*
@@ -94,3 +90,8 @@ None specified.
 ## **Additional Information**
 To edit this metric, please submit a Change Request here.  
 To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3630](https://chaoss.community/?p=3630)
+
+<!-- # For groupings in the knowledge base
+Context tags: Contributor Recognition, Project Health, Community Engagement, Project Involvement Metrics, Contributor Roles
+Keyword tags: Contributors, Contribution Tracking, Project Contributors, Contributor Growth, New Contributors
+-->
