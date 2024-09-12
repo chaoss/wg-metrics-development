@@ -62,6 +62,6 @@ Additionally, types of contributions along with project demographic information 
 - To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3432](https://chaoss.community/?p=3432)
 
 <!-- # For groupings in the knowledge base
-Context tags: Contributions
-Keyword tags: triage, commits, manage, review
+Context tags:Contributions
+Keyword tags:triage, commits, manage, review
 -->
