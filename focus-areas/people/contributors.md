@@ -85,6 +85,7 @@ None specified.
 - Dawn Foster
 - Sean Goggins
 - Matt Germonprez
+- Yigakpoa L. Samuel (Ikpae)
 
 ## **Additional Information**
 To edit this metric, please submit a Change Request here.  
