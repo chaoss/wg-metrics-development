@@ -37,8 +37,7 @@ Additionally, types of contributions along with project demographic information 
   - Marketing and Campaign Advocacy
 
 ### **Visualizations**
-- Graphical representations of contributions by type (commits, reviews, events organized, etc.) using tools like GitLab Insights or CHAOSS Augur.  
-*Figure 1: Contribution types by category (Source, Year)*
+- None Specified
 
 </details></span>
 
@@ -61,3 +60,8 @@ Additionally, types of contributions along with project demographic information 
 ## **Additional Information**
 - To edit this metric, please submit a Change Request here.
 - To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3432](https://chaoss.community/?p=3432)
+
+<!-- # For groupings in the knowledge base
+Context tags: Contributions
+Keyword tags: triage, commits, manage, review
+-->
