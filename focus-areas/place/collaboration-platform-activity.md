@@ -48,12 +48,6 @@ The unit of data collection is the individual activity on a platform. Metadata r
    Example: GrimoireLab dashboard displaying platform activity metrics.
    [GrimoireLab Dashboard](https://chaoss.biterg.io/app/kibana#/dashboard/ab68fe20-17f2-11e9-872f-e17019e68d6d)
 
-### **Tools Providing the Metric**
-- [Orbit.love](https://docs.orbit.love/docs/adding-activities)  
-   Captures activity from multiple community channels.
-- [GrimoireLab](https://chaoss.github.io/grimoirelab/)
-- [Augur](http://augur.osshealth.io/api_docs/#api-Evolution-Contributors_Repo_)
-
 </details></span>
 
 ## **References**
@@ -69,6 +63,7 @@ The unit of data collection is the individual activity on a platform. Metadata r
 - Beth Hancock
 - Kevin Lumbard
 - Vinod Ahuja
+- Yigakpoa L. Samuel (Ikpae)
 
 ## **Additional Information**
 To edit this metric, please submit a Change Request here.  
