@@ -1,6 +1,6 @@
 # Change Request Closure Ratio
 
-Question:  Is the project keeping up with change requests?
+**Question:**  Is the project keeping up with change requests?
 
 
 ## Overview
@@ -50,6 +50,7 @@ TThe Change Request Closure Ratio measures the efficiency of a project in handli
 
 ## Additional Information
 To edit this metric please [submit a Change Request here]( https://github.com/chaoss/wg-common/blob/main/focus-areas/time/change-request-closure-ratio.md).
+
 To reference this metric in software or publications please use this stable URL: [https://chaoss.community/?p=4834](https://chaoss.community/?p=4834)
 
 <!-- # For groupings in the knowledge base
