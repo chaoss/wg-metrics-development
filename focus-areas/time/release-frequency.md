@@ -3,7 +3,7 @@
 **Question:** How often does a project publish a release of their software / artifact?
 
 ## Overview
-The frequency of project software /artifact releases over time. This includes the major releases and smaller point releases that might contain bug fixes and security updates.
+The Release Frequency Metric measures how frequent project software artifact are released over time. This includes the major releases and smaller point releases that might contain bug fixes and security updates.
 When software developers update the code for an open source project, they also need to put those changes into a release that users can install. Consumers rely on these releases to contain new features, bug fixes, and security updates. Releasing updates that contain accessibility features or bug fixes that impact accessibility could have a positive impact on Diversity Equity and Inclusion (DEI) when they are released quickly or a negative impact when accessibility updates are delayed. Delays in incorporating changes into a release, especially when the changes contain security updates, can mean that users don’t have an easy way to upgrade from an insecure version and are open to malicious attacks or other vulnerabilities.
 A higher frequency of releases indicates that software artifacts are iterating rapidly to respond to user needs. Software projects belong to different industries and fields, and no two projects have the same needs, so release frequency is highly variable. A consistent release frequency may indicate a more stable or mature project.
 
