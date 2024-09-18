@@ -66,5 +66,10 @@ The unit of data collection is the individual activity on a platform. Metadata r
 - Yigakpoa L. Samuel (Ikpae)
 
 ## **Additional Information**
-To edit this metric, please submit a Change Request here.  
-To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3630](https://chaoss.community/?p=3630)
+- To edit this metric please submit a Change Request here: https://github.com/chaoss/wg-common/blob/main/focus-areas/place/collaboration-platform-activity.md
+- To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=3484
+
+<!-- # For groupings in the knowledge base
+ Context tags: Collaboration Platform, Chat platform, Platform Activity
+ Keyword tags: GitHub, GitLab, IRC, Slack, Email, place, where
+ →
