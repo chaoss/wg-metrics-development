@@ -1,38 +1,50 @@
-# Time to First Response 
+# **Review Cycle Duration within a Change Request**
 
-Question: How much time passes between when an activity requiring attention is created and the first response? 
+**Question:** What is the duration of a review cycle within a single change request?
 
-## Description
+## **Overview**
+Review Cycle Duration measures the time taken for one complete review cycle within a change request. A review cycle starts when a change request is submitted or updated and ends either with an acceptance, rejection, or further requested changes. This metric helps maintainers assess the efficiency of the code review process, identifying potential bottlenecks and areas where delays occur. Understanding the duration of these cycles provides insight into the effectiveness of review practices and the overall workflow of contributions within a project. 
 
-The first response to an activity can sometimes be the most important response. The first response shows that a community is active and engages in conversations. A long time to respond to an activity can be a sign that a community is not responsive. A short time to respond to an activity can help to engage more members into further discussions and within the community.
+Monitoring this metric allows for identifying trends such as increased review cycle lengths due to complex contributions or delays in reviewer responses, which can impact the project's health and contributor engagement.
 
-## Objectives
+## **Want to Know More?**
 
-Identify cadence of first response across a variety of activities, including PRs, Issues, emails, IRC posts, etc.  Time to first response is an important consideration for new and long-time contributors to a project along with overall project health. 
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
-## Implementation
+### **Data Collection Strategies**
+To calculate Review Cycle Duration, the following data points are collected:
+- **Start of review cycle:** Timestamp when a change request is submitted or updated.
+- **End of review cycle:** Timestamp when the change request is updated, accepted, or rejected.
+- **Review feedback:** Record of interactions, including comments and change requests.
+  
+This data can be collected from version control systems like GitHub or GitLab.
 
-Time to first response of an activity = time first response was posted to the activity - time the activity was created. 
+### **Filters**
+This metric can be filtered by:
+- **Number of reviewers:** To assess if more reviewers lead to longer cycles.
+- **Comments during review:** Tracking whether discussions impact the cycle duration.
+- **Edits to change request:** To see if frequent updates increase review time.
+- **Time of submission:** For example, whether reviews submitted during working hours are handled faster.
+- **Organization or project:** To track variations across teams or initiatives.
+- **Number of review cycles per request:** Filtering by the number of rounds in a single review.
+  
+### **Visualizations**
+- None specified
 
-### Filters
+</details></span>
 
-* Role of responder, e.g., only count maintainer responses
-* Automated responses, e.g., only count replies from real people by filtering bots and other automated replies
-* Type of Activity, e.g., issues (see metric [Issue Response Time](https://chaoss.community/metric-issue-response-time/), emails, chat, change requests
+## **References**
+- Example of data for developing this metric: [Wikimedia Gerrit Change Request Example](https://gerrit.wikimedia.org/r/c/mediawiki/core/+/194071)
 
-### Visualizations
+## **Contributors**
+- None specified
 
-![GrimoireLab Panel: Efficiency Timing Overview](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/time-to-first-response_efficiency-timing-overview.png)
+## **Additional Information**
+- To edit this metric, please submit a Change Request here: [https://github.com/chaoss/wg-common/blob/main/focus-areas/time/review-cycle-duration-within-a-change-request.md](https://github.com/chaoss/wg-common/blob/main/focus-areas/time/review-cycle-duration-within-a-change-request.md)
+-  To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=3445
 
----------
-
-![Augur Visualization: Time to First Response Heat Map ](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/time-to-first-response_augur-ttc-1.png)
-
----------
-
-![Augur Visualization: Mean Response Times](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/time-to-first-response_augur-ttc-2.png)
-
-### Tools Providing the Metric
-
-* GrimoireLab Panel: [Efficiency Timing Overview](https://chaoss.github.io/grimoirelab-sigils/panels/efficiency-timing-overview/)
-* [Kata Containers dashboard efficiency panel](https://katacontainers.biterg.io/app/kibana#/dashboard/cbbdd920-288c-11e9-b662-975152e57997)
+<!-- # For groupings in the knowledge base
+Context tags: Code Review Process, Change Requests, Review Cycle Efficiency
+Keyword tags: Code Review, Change Request Submissions
+-->
