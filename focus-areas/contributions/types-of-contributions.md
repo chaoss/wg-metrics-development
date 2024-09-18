@@ -58,7 +58,7 @@ Additionally, types of contributions along with project demographic information 
 - Yigakpoa L. Samuel (Ikpae)
 
 ## **Additional Information**
-- To edit this metric, please submit a Change Request here.
+- To edit this metric please submit a Change Request here: https://github.com/chaoss/wg-common/blob/main/focus-areas/contributions/types-of-contributions.md
 - To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3432](https://chaoss.community/?p=3432)
 
 <!-- # For groupings in the knowledge base
