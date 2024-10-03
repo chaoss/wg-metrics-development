@@ -43,7 +43,8 @@ Both parameters help analyze language distribution, but depending on the context
 
 Either lines of code, or files, could be presented as absolute numbers, or percentages, depending on the application of the metric. In many cases, a simple count of files is useful, while the absolute number of lines of code can be difficult to differentiate because the numbers are much larger.
 
-### Visualizations - None specified
+### Visualizations 
+- None specified
 
 </details></span>
 
