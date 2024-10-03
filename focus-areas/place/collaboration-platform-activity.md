@@ -1,19 +1,19 @@
-# **Collaboration Platform Activity**
+# Collaboration Platform Activity
 
 **Question:** What is the count of activities across digital collaboration platforms (e.g., GitHub, GitLab, Slack, email) used by a project?
 
-## **Overview**
+## Overview
 Open source projects use various digital communication and collaboration platforms such as email, social media, chat applications, and code management technologies like GitHub or GitLab. This metric measures the volume and location of message activity across these platforms, providing insights into where and how collaboration happens in the project.
 
 Understanding where the community interacts helps track engagement, transparency, and project accessibility. This metric is crucial for evaluating communication processes and identifying the most effective channels for community participation.
 
-## **Want to Know More?**
+## Want to Know More?
 
 <span markdown="1"><details>
 <summary>Click to read more about this metric.</summary>
 
-### **Objectives**
-The **Collaboration Platform Activity** metric helps:
+### Objectives
+The Collaboration Platform Activity metric helps:
 - Understand where the community is collaborating and how it communicates.
 - Identify the processes followed by each project based on communication logs.
 - Demonstrate the level of transparency in project communications.
@@ -22,7 +22,7 @@ The **Collaboration Platform Activity** metric helps:
 - Identify the lowest-barrier channels for engagement.
 - Support other metrics, such as [Burstiness](https://chaoss.community/metric-burstiness/), [Project Velocity](https://chaoss.community/metric-project-velocity/), [Social Listening](https://chaoss.community/metric-social-listening/), [Activity Dates and Times](https://chaoss.community/metric-activity-dates-and-times/), and [Chat Platform Inclusivity](https://github.com/chaoss/wg-diversity-inclusion/issues/318).
 
-### **Data Collection Strategies**
+### Data Collection Strategies
 The unit of data collection is the individual activity on a platform. Metadata related to this metric can include:
 - Timestamp of the activity
 - Sender (user or bot)
@@ -30,31 +30,31 @@ The unit of data collection is the individual activity on a platform. Metadata r
 - Data collection date
 - Platform message identifier
 
-### **Filters**
-- Number of people contributing
-- Number of messages sent
-- Number of comments on issues and change requests
-- Type of platform or channel (e.g., mailing list, IRC, forum)
-- Activity per day of the week
-- [Contribution attributions](https://chaoss.community/metric-contribution-attribution/) (e.g., by individuals or organizations)
+### Filters
+* Number of people
+* Number of messages
+* Number of comments on Issues and Change Requests
+* Type of channel (mailing list, irc, and so on)
+* Activity per day of the week
+* [Contribution attributions](https://chaoss.community/metric-contribution-attribution/) (e.g., people or organizations)
 
-### **Visualizations**
+### Visualizations
 1. **Visualization of Platform Activity:**  
    Display the count of platform activities over time.
-   ![GrimoireLab Implementation](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/place/images/collaboration-platforms.png)  
-   *Figure 1: Collaboration platform activity chart (Source, Year)*
+   ![GrimoireLab Implementation](https://raw.githubusercontent.com/chaoss/wg-metrics-development/main/focus-areas/place/images/collaboration-platforms.png)  
+   *Figure 1: Collaboration platform activity chart (GrimoireLab)*
 
 2. **Interactive Dashboards:**  
-   Example: GrimoireLab dashboard displaying platform activity metrics.
    [GrimoireLab Dashboard](https://chaoss.biterg.io/app/kibana#/dashboard/ab68fe20-17f2-11e9-872f-e17019e68d6d)
+   *Figure 2: GrimoireLab dashboard displaying platform activity metrics (GrimoireLab)*
 
 </details></span>
 
-## **References**
+## References
 - [Related Metric: Chat Platform Inclusivity](https://chaoss.community/metric-chat-platform-inclusivity/)
 - [Related Metric: Issues New](https://chaoss.community/metric-issues-new/)
 
-## **Contributors**
+## Contributors
 - Elizabeth Barron
 - Sean Goggins
 - Matt Germonprez
@@ -65,8 +65,8 @@ The unit of data collection is the individual activity on a platform. Metadata r
 - Vinod Ahuja
 - Yigakpoa L. Samuel (Ikpae)
 
-## **Additional Information**
-- To edit this metric please submit a Change Request here: https://github.com/chaoss/wg-common/blob/main/focus-areas/place/collaboration-platform-activity.md
+## Additional Information
+- To edit this metric please submit a Change Request here: https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/place/collaboration-platform-activity.md
 - To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=3484
 
 <!-- # For groupings in the knowledge base
