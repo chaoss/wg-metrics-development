@@ -34,11 +34,11 @@ Both parameters help analyze language distribution, but depending on the context
  - Time
  - Number of Files - The number of files of each language.
 
-	![Number of Files Table](https://github.com/chaoss/wg-common/blob/main/focus-areas/contributions/images/language-distribution_number-of-files-table.png)
+	![Number of Files Table](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/contributions/images/language-distribution_number-of-files-table.png)
 
  - Lines of Code - The percentage of lines of code for each language.
 
-	![Number of Files Table](https://github.com/chaoss/wg-common/blob/main/focus-areas/contributions/images/language-distribution_lines-of-code-table.png)
+	![Number of Files Table](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/contributions/images/language-distribution_lines-of-code-table.png)
 
 
 Either lines of code, or files, could be presented as absolute numbers, or percentages, depending on the application of the metric. In many cases, a simple count of files is useful, while the absolute number of lines of code can be difficult to differentiate because the numbers are much larger.
