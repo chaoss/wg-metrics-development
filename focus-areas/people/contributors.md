@@ -13,6 +13,18 @@ Recognizing the contributors is vital to understanding who is driving different 
 <summary>Click to read more about this metric.</summary>
 
 ### **Data Collection Strategies**
+
+- **Surveys and Interviews**:
+Some contributor information is available via software such as GrimoireLab and Augur. However, some contributor insights are less easily obtained via trace data. In these cases, surveys with community members or event registrations can provide the desired information. Sample questions include:
+   - *Which contributors do not typically appear in lists of contributors?*
+   - *Which contributors are often overlooked because their contributions are more “behind the scenes”?*
+   - *Who are the community members you work with regularly?*
+
+Surveys with Likert scale or matrix formats can also provide insights into contributor activity levels. Sample questions for community members:
+- Likert scale [1-x]: I am contributing to the project.
+- Matrix survey item: How often do you engage in the following activities in the project?
+   - Columns: Never, Rarely (less than once a month), Sometimes (more than once a month), Often (once a week or more)
+   - Rows: a) Contributing/reviewing code, b) Creating or maintaining documentation, c) Translating documentation, d) Participating in decision-making, e) Serving as a community organizer, f) Mentoring, g) Attending events, h) Participating through school or university computing programs, i) Participating through a program like Outreachy, Google Summer of Code, etc., j) Helping with the ASF operations (e.g., board meetings or fundraising)
 - **Aggregators:** Collect contributor names from collaboration tools, such as source code repositories, issue trackers, event registrations, mailing lists or any other tools a project uses.
    - *Count:* Total number of contributors during a given time period.
 - **Parameters:**
@@ -35,43 +47,29 @@ Contribution data can be filtered in several ways, such as:
    - Timeframe of activity (e.g., identifying new contributors)
 
 ### **Visualizations**
-1. **List of Contributors:**  
-   Display contributor names with engagement details.
-<img width="490" alt="IMG_5268" src="https://github.com/user-attachments/assets/456864b5-6632-4fda-93a6-0ada9ca10b45">
+1. List of contributor names (often with information about their level of engagement)
+
+![Contributor names and info](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/contributors_top-contributor-info.png)
  
-  *Figure 1: List of contributors and engagement (Source, Year)*
+  *Figure 1: List of contributors and engagement ()*
 
-2. **Summary of Contributors:**  
-   A summary showing the total number of contributors.
-![IMG_5269](https://github.com/user-attachments/assets/1d60591c-3024-4068-82ed-241846c03ac7)
+2. Summary number of contributors
 
-   *Figure 2: Summary number of contributors (Source, Year)*
+![Summary number of contributors](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/contributors_summary-contributor-number.png)
 
-4. **Growth Over Time:**  
-   Change in the number of active contributors over time.
-![IMG_5270](https://github.com/user-attachments/assets/c13de6dc-8f08-4d5d-b98b-dba0b3673dc8)
+   *Figure 2: Summary number of contributors ()*
 
-    *Figure 3: Contributor growth over time (Source, Year)*
+3. Change in the number of active contributors over time
 
-6. **New Contributors:**  
-   A list sorted by the date of first contribution.
-   
-![IMG_5271](https://github.com/user-attachments/assets/22f02ff1-6023-4ec1-92a9-a7efdeb2e25f) 
-  
-   *Figure 4: List of new contributors (Source, Year)*
+![Contributor growth](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/contributors_growth.png)
 
-### **Surveys and Interviews**
-Some contributor insights are less easily obtained from trace data and may require additional surveys or interviews. Sample questions include:
-- *Which contributors do not typically appear in lists of contributors?*
-- *Which contributors are often overlooked because their contributions are more “behind the scenes”?*
-- *Who are the community members you work with regularly?*
+*Figure 3: Change in number of active contributors over time ()*
 
-Surveys with Likert scale or matrix formats can also provide insights into contributor activity levels.  
-Sample questions for community members:
-- *Likert scale [1-x]: I am contributing to the project.*
-- *Matrix survey item:* How often do you engage in the following activities in the project?
-   - Columns: Never, Rarely (less than once a month), Sometimes (more than once a month), Often (once a week or more)
-   - Rows: a) Contributing/reviewing code, b) Creating or maintaining documentation, c) Translating documentation, d) Participating in decision-making, e) Serving as a community organizer, f) Mentoring, g) Attending events, h) Participating through school or university computing programs, i) Participating through a program like Outreachy, Google Summer of Code, etc., j) Helping with the ASF operations (e.g., board meetings or fundraising)
+4. New contributors (sort list of contributors by date of first contribution)
+
+![New contributors](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/contributors_first-commit-date.png)
+
+*Figure 4: Contributor growth over time ()*
 
 </details></span>
 
@@ -88,7 +86,7 @@ None specified.
 - Yigakpoa L. Samuel (Ikpae)
 
 ## **Additional Information**
-- To edit this metric please submit a Change Request here: https://github.com/chaoss/wg-common/blob/main/focus-areas/people/contributors.md
+- To edit this metric please submit a Change Request here: https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/contributors.md
 - To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=3467
 
 
