@@ -1,4 +1,4 @@
-# **Contributors**
+# Contributors
 
 **Question:** Who are the contributors to a project?
 
