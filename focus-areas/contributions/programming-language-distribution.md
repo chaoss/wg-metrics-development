@@ -48,10 +48,10 @@ Either lines of code, or files, could be presented as absolute numbers, or perce
 
 </details></span>
 
-## **References**
+## References
 - [scc - A tool for counting lines of code, files, and more](https://github.com/boyter/scc)
 
-## **Contributors**
+## Contributors
 - Dawn Foster
 - Beth Hancock
 - Matt Germonprez
@@ -61,7 +61,7 @@ Either lines of code, or files, could be presented as absolute numbers, or perce
 - Sean Goggins
 - Yigakpoa L. Samuel (I)
 
-## **Additional Information**
+## Additional Information
 - To edit this metric, please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/contributions/programming-language-distribution.md).  
 - To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3430](https://chaoss.community/?p=3430).
 
