@@ -88,7 +88,7 @@ None specified.
 - Yigakpoa L. Samuel (Ikpae)
 
 ## **Additional Information**
-To edit this metric, please submit a Change Request here.  
+To edit this metric, please submit a Change Request [here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/contributors.md)
 To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3630](https://chaoss.community/?p=3630)
 
 <!-- # For groupings in the knowledge base
