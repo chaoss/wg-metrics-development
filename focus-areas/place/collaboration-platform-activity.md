@@ -20,7 +20,7 @@ The Collaboration Platform Activity metric helps:
 - Help contributors find the appropriate platform for making contributions and connecting with the project.
 - Enable project maintainers to determine the optimal number of communication channels to efficiently share information and engage contributors.
 - Identify the lowest-barrier channels for engagement.
-- Support other metrics, such as [Burstiness](https://chaoss.community/metric-burstiness/), [Project Velocity](https://chaoss.community/metric-project-velocity/), [Social Listening](https://chaoss.community/metric-social-listening/), [Activity Dates and Times](https://chaoss.community/metric-activity-dates-and-times/), and [Chat Platform Inclusivity](https://github.com/chaoss/wg-diversity-inclusion/issues/318).
+- Support other metrics, such as [Burstiness](https://chaoss.community/?p=3447), [Project Velocity](https://chaoss.community/?p=3572), [Activity Dates and Times](https://chaoss.community/?p=3444), and [Chat Platform Inclusivity](https://chaoss.community/?p=3536).
 
 ### Data Collection Strategies
 The unit of data collection is the individual activity on a platform. Metadata related to this metric can include:
@@ -51,8 +51,8 @@ The unit of data collection is the individual activity on a platform. Metadata r
 </details></span>
 
 ## References
-- [Related Metric: Chat Platform Inclusivity](https://chaoss.community/metric-chat-platform-inclusivity/)
-- [Related Metric: Issues New](https://chaoss.community/metric-issues-new/)
+- [Related Metric: Chat Platform Inclusivity](https://chaoss.community/?p=3536)
+- [Related Metric: Issues New](https://chaoss.community/?p=3634)
 
 ## Contributors
 - Elizabeth Barron
