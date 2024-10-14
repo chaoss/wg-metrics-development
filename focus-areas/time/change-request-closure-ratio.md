@@ -46,7 +46,7 @@ Change Request Closure Ratio evaluates if the project is handling change request
 
 To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/time/change-request-closure-ratio.md).
 
-To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=4834>
+To reference this metric in software or publications please use this stable URL:<https://chaoss.community/?p=4834>
 
 <!-- # For groupings in the knowledge base
 Context tags: Lifecycle, Contribution
