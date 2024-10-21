@@ -44,6 +44,12 @@ GrimoureLab
 
 ## Contributors
 
+*   Matt Germonprez
+
+*   Kevin Lumbard
+
+*   Peculiar C. Umeh
+
 ## Additional Information
 
 To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/time/time-to-close.md)
