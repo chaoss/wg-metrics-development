@@ -54,4 +54,5 @@ https://chaoss.biterg.io/app/kibana#/dashboard/ab68fe20-17f2-11e9-872f-e17019e68
 * Dawn Foster
 * Beth Hancock
 * Kevin Lumbard
-* Vinod Ahuja 
+* Vinod Ahuja
+* Yigakpoa L. Samuel (Ikpae)
