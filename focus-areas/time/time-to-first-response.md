@@ -40,7 +40,7 @@ Visualizations for the Time to First Response metric may include response time t
 ![Augur Visualization: Mean Response Times](https://raw.githubusercontent.com/chaoss/wg-metrics-development/main/focus-areas/time/images/time-to-first-response_augur-ttc-2.png)
    *Figure 3: Timeline showing community engagement levels by response time (Augur)*
 
-</details></span>
+</details></span><br>
 
 ## References
 - None specified.
@@ -55,4 +55,4 @@ Visualizations for the Time to First Response metric may include response time t
 <!-- # For groupings in the knowledge base
  Context tags: Contributor Engagement, Community Responsiveness, Time Management
  Keyword tags: Response Time, Pull Requests, Issues, Community Activity, Engagement Metrics
- →
+ -->
