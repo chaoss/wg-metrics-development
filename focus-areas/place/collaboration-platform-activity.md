@@ -72,4 +72,5 @@ The unit of data collection is the individual activity on a platform. Metadata r
 <!-- # For groupings in the knowledge base
  Context tags: Collaboration Platform, Chat platform, Platform Activity
  Keyword tags: GitHub, GitLab, IRC, Slack, Email, place, where
- →
+ -->
+
