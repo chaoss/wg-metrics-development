@@ -46,7 +46,7 @@ Either lines of code, or files, could be presented as absolute numbers, or perce
 ### Visualizations 
 - None specified
 
-</details></span>
+</details></span><br>
 
 ## References
 - [scc - A tool for counting lines of code, files, and more](https://github.com/boyter/scc)
@@ -68,4 +68,4 @@ Either lines of code, or files, could be presented as absolute numbers, or perce
 <!-- # For groupings in the knowledge base
  Context tags: Programming Language, 
  Keyword tags: language percent, percent, programming languages
- →
+ -->
