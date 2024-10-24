@@ -1,57 +1,16 @@
 # Contributor Location
 
-Question: What is the location of contributors?
+**Question:** What is the location of contributors?
 
-## Description
+## Overview
 
-Geographical location from which contributors contribute, where they live, or where they work.
+Contributor Location identifies the geographic locations of project contributors. Data points consist of the countries or regions where contributors are based. Tracking contributor location provides insights into the project's global reach, work practices, and time zone considerations. A project with contributors from diverse geographic locations may indicate a more inclusive and equitable environment.
 
+## Want to Know More?
 
-## Objectives
+<span markdown="1"><details>
 
-To determine global locations of contributors in an effort to understand work practices and times zones. To identify where contributions do not come from in an effort to improve engagement in these areas.
-
-
-## Implementation
-
-### Filters
-
-Filter contributions by:
-
-* **Location.** Attempt to group locations in regions to have multiple levels of reporting. Location is a purposely ambiguous term in this context, and could refer to region, country, state, locale, or time zone.
-* **Period of time.** Start and finish date of the period. Default: forever. Period during which contributions are counted.
-* **Type of contributor**, for example:
-  * Repository authors
-  * Issue authors
-  * Code review participants
-  * Mailing list authors
-  * Event participants
-  * IRC authors
-  * Blog authors
-  * By release cycle
-  * Programming languages of the project
-  * Role or function in project
-
-
-### Visualizations
-
-Dot Density Map:
-
-![Contributor Location Dot Density Map](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/contributor-location_dot-density-map.png)
-
-Source: [https://chaoss.biterg.io/goto/a62f3584a41c1c4c1af5d04b9809a860](https://chaoss.biterg.io/goto/a62f3584a41c1c4c1af5d04b9809a860)
-
-Visual heat map:
-
-![Contributor Location Heatmap](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/contributor-location_heatmap.png)
-
-Source:  [https://blog.bitergia.com/2018/11/20/ubers-community-software-development-analytics-for-open-source-offices](https://blog.bitergia.com/2018/11/20/ubers-community-software-development-analytics-for-open-source-offices)
-
-
-### Tools providing the metric
-
-*   GrimoireLab
-*   Augur
+<summary>Click to read more about this metric.</summary>
 
 ### Data Collection Strategies
 
@@ -66,7 +25,53 @@ The key challenge for collecting data is determining the location of the contrib
 
 An additional consideration would be the use of external data collection tools such as community surveys or event registration data that could cross reference systems of engagement profiles. Contributor location data could be collected inline with event [attendee demographics](https://chaoss.community/metric-attendee-demographics/) and [speaker demographics](https://chaoss.community/metric-speaker-demographics/).
 
+### Filters
+
+Filter contributions by:
+
+*   **Location.** Attempt to group locations in regions to have multiple levels of reporting. Location is a purposely ambiguous term in this context, and could refer to region, country, state, locale, or time zone.
+*   **Period of time.** Start and finish date of the period. Default: forever. Period during which contributions are counted.
+*   **Type of contributor**, for example:
+    *   Repository authors
+    *   Issue authors
+    *   Code review participants
+    *   Mailing list authors
+    *   Event participants
+    *   IRC authors
+    *   Blog authors
+    *   By release cycle
+    *   Programming languages of the project
+    *   Role or function in project
+
+### Visualizations
+
+[Dot Density Map](https://chaoss.biterg.io/goto/a62f3584a41c1c4c1af5d04b9809a860)
+
+![Contributor Location Dot Density Map](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/contributor-location_dot-density-map.png)
+
+[Visual heat map:](https://blog.bitergia.com/2018/11/20/ubers-community-software-development-analytics-for-open-source-offices)
+
+![Contributor Location Heatmap](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/contributor-location_heatmap.png)
+
+</details></span>
+
 ## References
 
-*   Gonzalez-Barahona, J. M., Robles, G., Andradas-Izquierdo, R., & Ghosh, R. A. (2008). Geographic origin of libre software developers. _Information Economics and Policy_, _20_(4), 356-363.
+*   Gonzalez-Barahona, J. M., Robles, G., Andradas-Izquierdo, R., & Ghosh, R. A. (2008). Geographic origin of libre software developers. *Information Economics and Policy*, *20*(4), 356-363.
 
+## Contributors
+
+*   Matt Germonprez
+*   Kevin Lumbard
+*   Peculiar C. Umeh
+
+## Additional Information
+
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/contributor-location.md)
+
+To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3468>
+
+<!-- # For groupings in the knowledge base
+Context tags: Contributor
+Keyword tags: location, geography, IP address
+-→
