@@ -1,43 +1,54 @@
 # Activity Dates and Times
 
-Question: What are the dates and timestamps of when contributor activities occur?
+**Question:** What are the dates and timestamps of when contributor activities occur?
 
-## Description
+## Overview
+This metric focuses on identifying the dates and times when individuals contribute to open-source projects. Analyzing timestamps of contributions can help infer activity patterns and even estimate contributors' geographic regions, especially when direct time zone data is unavailable (e.g., contributions in non-UTC). This information can offer transparency for employers about employee contributions and provide open-source project managers with insights into global engagement and when contributors are most active.
 
-Individuals engage in activities in open source projects at various times of the day. This metric is aimed at determining the dates and times of when individual activities were completed. The data can be used to probabilistically estimate where on earth contributions come from in cases where the time zone is not UTC. 
+## Want to Know More?
 
-## Objectives
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
-* Improve transparency for employers about when organizational employees are engaging with open source projects
-* Improve transparency for open source project and community managers as to when activity is occurring 
-
-## Implementation
-
+### Data Collection Strategies
+- Timestamps from activities such as commits, issues, pull requests, and mailing list messages should be captured.
+- Aggregation of data by UTC or contributors' local time can reveal activity patterns globally.
+- Collaboration tools like GitHub, GitLab, and email platforms can provide timestamped activity data.
+  
 ### Filters
-* Individual by Organization
-* Aggregation of time by UTC time 
-  - Can show what times across the globe contributions are made; when the project is most active.
-* Aggregation of time by local time
-  - Can show what times of day in their local times they contribute. Conclusions about the If contributions are more during working hours, or if contributions are more during evening hours.
-* Repository ID
-* Segment of a community, (e.g., GrimoireLab has more EU time zones activity and Augur more US time zones activity)
-
+- **By Organization:** Contributions can be filtered to focus on specific individuals affiliated with organizations.
+- **Aggregation by UTC Time:** Shows global contributions and identifies project active periods.
+- **Aggregation by Local Time:** Helps track when contributors contribute during their working hours or off-hours.
+- **Repository ID:** Filters data by specific repositories or subprojects.
+- **Community Segmentation:** Contributions can be segmented by regions or time zones, such as EU or US activities, to visualize community participation.
+  
 ### Visualizations
 
-![Date Time Chart 1](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/activity-dates-and-times_1.png)
+![Date Time Chart 1](https://raw.githubusercontent.com/chaoss/wg-metrics-development/main/focus-areas/time/images/activity-dates-and-times_1.png)
+*Figure 1: Heatmap showing contribution activity by UTC time across the globe ()*
 
-![Date Time Chart 2](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/activity-dates-and-times_2.png)
+![Date Time Chart 2](https://raw.githubusercontent.com/chaoss/wg-metrics-development/main/focus-areas/time/images/activity-dates-and-times_2.png)
+*Figure 2: Chart displaying when contributors are active based on local times ()*
+   
+![Date Time Chart 3](https://raw.githubusercontent.com/chaoss/wg-metrics-development/main/focus-areas/time/images/activity-dates-and-times_3.png)
+*Figure 3: Global distribution of contributor activities by time zone ()*
 
-![Date Time Chart 3](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/activity-dates-and-times_3.png)
+![Date Time Chart 4](https://raw.githubusercontent.com/chaoss/wg-metrics-development/main/focus-areas/time/images/activity-dates-and-times_4.png)
+*Figure 4: Breakdown of contribution activity by repository segments ()*
 
-![Date Time Chart 4](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/activity-dates-and-times_4.png)
-
-### Tools Providing Metric
-
-- [GrimoireLab](https://chaoss.github.io/grimoirelab/)
-- [Augur Date/Timestamps](https://docs.augur.net/#dates-timestamps)
+</details></span>
 
 ## References
+- **[Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time):** Used to standardize timestamps for analyzing contributions across different regions and tools.
 
-- [Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time)
+## Contributors
+- None Specified
 
+## Additional Information
+- To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/time/activity-dates-and-times.md).  
+- To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3444](https://chaoss.community/?p=3444).
+
+<!-- # For groupings in the knowledge base
+ Context tags: Contributor Activity, Global Participation 
+ Keyword tags: time zone, timestamp, activity, engagement, contributor location, change request, date, issue, time
+ →
