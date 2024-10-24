@@ -36,7 +36,7 @@ This metric focuses on identifying the dates and times when individuals contribu
 ![Date Time Chart 4](https://raw.githubusercontent.com/chaoss/wg-metrics-development/main/focus-areas/time/images/activity-dates-and-times_4.png)
 *Figure 4: Breakdown of contribution activity by repository segments ()*
 
-</details></span>
+</details></span><br>
 
 ## References
 - **[Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time):** Used to standardize timestamps for analyzing contributions across different regions and tools.
@@ -51,4 +51,4 @@ This metric focuses on identifying the dates and times when individuals contribu
 <!-- # For groupings in the knowledge base
  Context tags: Contributor Activity, Global Participation 
  Keyword tags: time zone, timestamp, activity, engagement, contributor location, change request, date, issue, time
- →
+ -->
