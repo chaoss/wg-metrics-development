@@ -47,7 +47,7 @@ The unit of data collection is the individual activity on a platform. Metadata r
    [GrimoireLab Dashboard](https://chaoss.biterg.io/app/kibana#/dashboard/ab68fe20-17f2-11e9-872f-e17019e68d6d)
    *Figure 2: GrimoireLab dashboard displaying platform activity metrics (GrimoireLab)*
 
-</details></span>
+<br></details></span>
 
 
 ## References
