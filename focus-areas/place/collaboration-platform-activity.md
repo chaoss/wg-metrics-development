@@ -8,7 +8,6 @@ Open source projects use various digital communication and collaboration platfor
 Understanding where the community interacts helps track engagement, transparency, and project accessibility. This metric is crucial for evaluating communication processes and identifying the most effective channels for community participation.
 
 ## Want to Know More?
-
 <span markdown="1"><details>
 <summary>Click to read more about this metric.</summary>
 
@@ -49,6 +48,7 @@ The unit of data collection is the individual activity on a platform. Metadata r
    *Figure 2: GrimoireLab dashboard displaying platform activity metrics (GrimoireLab)*
 
 </details></span>
+
 
 ## References
 - [Related Metric: Chat Platform Inclusivity](https://chaoss.community/?p=3536)
