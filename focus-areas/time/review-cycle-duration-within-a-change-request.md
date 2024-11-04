@@ -42,7 +42,7 @@ Average or Median Duration, optionally filtered or grouped by:
 ### Visualizations
 - None specified
 
-</details></span>
+</details></span><br>
 
 ## References
 - Example of data for developing this metric: [Wikimedia Gerrit Change Request Example](https://gerrit.wikimedia.org/r/c/mediawiki/core/+/194071)
