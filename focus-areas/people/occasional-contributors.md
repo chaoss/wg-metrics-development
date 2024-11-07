@@ -27,7 +27,7 @@ Occasional contributors measures the number of people who make contributions to 
 [Cauldron](https://cauldron.io/)
 ![Occasional Contributors Cauldron](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/occasional-caudron.png)
 
-</details></span>
+</details></span><br>
 
 ## References
 
