@@ -26,7 +26,7 @@ Bot activity helps differentiate between human and machine contributions includi
 [k8s.devstats.cncf.io](https://k8s.devstats.cncf.io/d/5/bot-commands-repository-groups?orgId=1\&var-period=w\&var-repogroup_name=Kubernetes\&var-repo_name=kubernetes%2Fkubernetes\&var-commands=All)
 ![k8s.devstats.cncf.io](https://user-images.githubusercontent.com/656208/130105428-f9a0cc9e-dc7a-43e3-a654-25261cb4cae8.png)
 
-</details></span>
+</details></span><br>
 
 ## References
 
@@ -53,4 +53,4 @@ To reference this metric in software or publications please use this stable URL:
 <!-- # For groupings in the knowledge base
 Context tags: Platform, Contributor, Software
 Keyword tags: bot, automation, autoresponders, automatic, hubot, probot, prosebot, welcome bot
-→ 
+-->
