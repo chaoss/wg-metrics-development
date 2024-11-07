@@ -27,7 +27,7 @@ Event Locations helps understand where events for a project are located to bette
 *   Geographic Region
 *   Type of event (local meetup vs. global conference)
 
-</details></span>
+</details></span><br>
 
 ## Contributors
 
@@ -48,4 +48,4 @@ To reference this metric in software or publications please use this stable URL:
 <!-- # For groupings in the knowledge base
 Context tags: 
 Keyword tags: 
-→ 
+-->
