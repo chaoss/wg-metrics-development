@@ -39,11 +39,11 @@ Tracking organizational diversity informs project health and sustainability by s
 
 ### Visualizations
 - **Example Visualization 1:** Organizational diversity pie chart.  
-  ![Organizational Diversity Pie Chart](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/organizational-diversity_piechart.png)  
+  ![Organizational Diversity Pie Chart](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/organizational-diversity_piechart.png)  
   *Figure 1: Organizational diversity representation (CHAOSS, 2023)*
 
 - **Example Visualization 2:** Organizational diversity view on LF Analytics.  
-  ![Organizational Diversity View](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/organizational-diversity_lfanalytics-orgdiversity.png)  
+  ![Organizational Diversity View](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/organizational-diversity_lfanalytics-orgdiversity.png)  
   *Figure 2: Organizational diversity metrics (LF Analytics, 2023)*
 
 </details></span><br>
