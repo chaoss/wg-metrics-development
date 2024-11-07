@@ -33,7 +33,7 @@ The time to close metric may be contextual based on the project activity and obj
 GrimoureLab
 ![Average and median time to close an Issue from GrimoireLab](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/time-to-close_1.png)
 
-</details></span>
+</details></span><br>
 
 ## References
 
@@ -59,4 +59,4 @@ To reference this metric in software or publications please use this stable URL:
 <!-- # For groupings in the knowledge base
 Context tags: Lifecycle, Contribution
 Keyword tags: time, issue, change request, activity
--→ 
+-->
