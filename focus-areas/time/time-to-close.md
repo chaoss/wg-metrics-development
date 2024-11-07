@@ -31,7 +31,7 @@ The time to close metric may be contextual based on the project activity and obj
 ### Visualizations
 
 GrimoureLab
-![Average and median time to close an Issue from GrimoireLab](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/time-to-close_1.png)
+![Average and median time to close an Issue from GrimoireLab](https://raw.githubusercontent.com/chaoss/wg-metrics-development/main/focus-areas/time/images/time-to-close_1.png)
 
 </details></span><br>
 
@@ -52,7 +52,7 @@ GrimoureLab
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/time/time-to-close.md)
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/time/time-to-close.md)
 
 To reference this metric in software or publications please use this stable URL: [ https://chaoss.community/?p=3446](https://chaoss.community/?p=3446)
 
