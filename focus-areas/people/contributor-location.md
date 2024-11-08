@@ -47,11 +47,11 @@ Filter contributions by:
 
 [Dot Density Map](https://chaoss.biterg.io/goto/a62f3584a41c1c4c1af5d04b9809a860)
 
-![Contributor Location Dot Density Map](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/contributor-location_dot-density-map.png)
+![Contributor Location Dot Density Map](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/contributor-location_dot-density-map.png)
 
 [Visual heat map:](https://blog.bitergia.com/2018/11/20/ubers-community-software-development-analytics-for-open-source-offices)
 
-![Contributor Location Heatmap](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/contributor-location_heatmap.png)
+![Contributor Location Heatmap](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/contributor-location_heatmap.png)
 
 </details></span><br>
 
@@ -68,11 +68,11 @@ Filter contributions by:
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/contributor-location.md)
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/contributor-location.md)
 
 To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3468>
 
 <!-- # For groupings in the knowledge base
 Context tags: Contributor
 Keyword tags: location, geography, IP address
--→
+-->
