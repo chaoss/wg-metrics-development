@@ -1,6 +1,6 @@
 # Change Request Review Duration
 
-## Question: How long does it take a [change request](https://github.com/chaoss/wg-evolution/blob/main/focus-areas/code-development-process-quality/change-requests.md) reviewer to review a specific change request?
+**Question:** How long does it take a [change request](https://github.com/chaoss/wg-evolution/blob/main/focus-areas/code-development-process-quality/change-requests.md) reviewer to review a specific change request?
 
 ## Overview
 
@@ -24,9 +24,9 @@ Change Request Review Duration measures the average time between a change reques
 
 ### Visualization
 
-![Augur Image](https://github.com/chaoss/wg-common/blob/main/focus-areas/time/images/change-request-review-duration_img1.png)
+![Augur Image](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/time/images/change-request-review-duration_img1.png)
 
-</details></span>
+</details></span><br>
 
 ## References
 
@@ -45,11 +45,11 @@ Change Request Review Duration measures the average time between a change reques
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/time/change-request-review-duration.md)
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/time/change-request-review-duration.md)
 
 To reference this metric in software or publications please use this stable URL:<https://chaoss.community/?p=4920>
 
 <!-- # For groupings in the knowledge base
 Context tags: Contribution, Lifecycle
 Keyword tags: Change Request Review, Change Request, Code Review, Time, Pull Request
--→
+-->
