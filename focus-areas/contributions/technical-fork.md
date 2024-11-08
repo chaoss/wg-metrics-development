@@ -23,15 +23,15 @@ A technical fork is a distributed version control copy of a project. Unlike [clo
 
 [Technical Fork & Clones](https://stackoverflow.com/questions/9257533/what-is-the-difference-between-origin-and-upstream-on-github/9257901#9257901)
 
-![Image is sourced from Stakeoverflow](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/technical-fork-clones_fork-clones.png)
+![Image is sourced from Stakeoverflow](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/contributions/images/technical-fork-clones_fork-clones.png)
 
 **Augur Implementation**
 
-![Augur Implementation](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/technical-fork_augur-fork.png)
+![Augur Implementation](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/contributions/images/technical-fork_augur-fork.png)
 
 **GrimoireLab Implementation**
 
-![GrimoireLab Implementation](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/technical-fork_grimoirelab-fork.png)
+![GrimoireLab Implementation](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/contributions/images/technical-fork_grimoirelab-fork.png)
 
 </details></span><br>
 
@@ -55,7 +55,7 @@ A technical fork is a distributed version control copy of a project. Unlike [clo
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/contributions/technical-fork.md)
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/contributions/technical-fork.md)
 
 To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3431>
 
