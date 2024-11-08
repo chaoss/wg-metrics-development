@@ -1,6 +1,6 @@
 # Clones
 
-**Question: How many copies of an open source project repository have been saved on a local machine?**
+**Question:** How many copies of an open source project repository have been saved on a local machine?
 
 ## Overview
 
@@ -19,15 +19,15 @@ Clones measures the number of times a repository is cloned, meaning downloaded a
 
 ### Visualizations
 
-![Technical Fork & Clones](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/technical-fork-clones_fork-clones.png)
+![Technical Fork & Clones](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/contributions/images/technical-fork-clones_fork-clones.png)
 
 ![Stakeoverflow image](https://stackoverflow.com/questions/9257533/what-is-the-difference-between-origin-and-upstream-on-github/9257901#9257901)
 
-![GitHub Clones](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/clones_github_clones.png)
+![GitHub Clones](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/contributions/images/clones_github_clones.png)
 
 [GitHub Blog image](https://github.blog/2014-08-12-clone-graphs/)
 
-</details></span>
+</details></span><br>
 
 ## References
 
@@ -46,11 +46,11 @@ Clones measures the number of times a repository is cloned, meaning downloaded a
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/contributions/clones.md)
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/contributions/clones.md)
 
 To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3429>
 
 <!-- # For groupings in the knowledge base
 Context tags: Platform, Software
 Keyword tags: clone, copy, fork, download, local copy
-→ 
+-->
