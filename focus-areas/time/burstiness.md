@@ -1,6 +1,6 @@
 # Burstiness
 
-**Question: How are short timeframes of intense activity, followed by a corresponding return to a typical pattern of activity, observed in a project?**
+**Question:** How are short timeframes of intense activity, followed by a corresponding return to a typical pattern of activity, observed in a project?
 
 ## Overview
 
@@ -44,13 +44,13 @@ Burstiness measures the number of reasons that may prompt a sudden increase or d
 
 Augur:
 
-![Augur Burstiness](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/burstiness_augur.png)
+![Augur Burstiness](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/time/images/burstiness_augur.png)
 
 GrimoireLab:
 
-![GrimoireLab Burstiness](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/burstiness_gl.png)
+![GrimoireLab Burstiness](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/time/images/burstiness_augur.png)
 
-</details></span>
+</details></span><br>
 
 ## References
 
@@ -64,7 +64,7 @@ GrimoireLab:
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/time/burstiness.md)
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/time/burstiness.md)
 
 To reference this metric in software or publications please use this stable URL: [ https://chaoss.community/?p=3447](https://chaoss.community/?p=3447)
 
