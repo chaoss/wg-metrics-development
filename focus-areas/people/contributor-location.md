@@ -4,7 +4,7 @@
 
 ## Overview
 
-Contributor Location identifies the geographic locations of project contributors. Data points consist of the countries or regions where contributors are based. Tracking contributor location provides insights into the project's global reach, work practices, and time zone considerations. A project with contributors from diverse geographic locations may indicate a more inclusive and equitable environment.
+Contributor Location  measures the geographic locations which contributors contribute, where they live, or where they work. Tracking contributor location provides insights into the project's global reach, work practices, and time zone considerations.  Also, to identify where contributions do not come from in an effort to improve engagement in these areas. A project with contributors from diverse geographic locations may indicate a more inclusive and equitable environment.
 
 ## Want to Know More?
 
@@ -53,11 +53,12 @@ Filter contributions by:
 
 ![Contributor Location Heatmap](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/contributor-location_heatmap.png)
 
-</details></span>
+</details></span><br>
 
 ## References
 
-*   Gonzalez-Barahona, J. M., Robles, G., Andradas-Izquierdo, R., & Ghosh, R. A. (2008). Geographic origin of libre software developers. *Information Economics and Policy*, *20*(4), 356-363.
+*   Gonzalez-Barahona, J. M., Robles, G., Andradas-Izquierdo, R., & Ghosh, R. A. (2008).
+*   Geographic origin of libre software developers. *Information Economics and Policy*, *20*(4), 356-363.
 
 ## Contributors
 
