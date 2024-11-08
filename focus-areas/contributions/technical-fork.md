@@ -33,7 +33,7 @@ A technical fork is a distributed version control copy of a project. Unlike [clo
 
 ![GrimoireLab Implementation](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/contributions/images/technical-fork_grimoirelab-fork.png)
 
-</details></span>
+</details></span><br>
 
 ## References
 
@@ -62,3 +62,4 @@ To reference this metric in software or publications please use this stable URL:
 <!-- # For groupings in the knowledge base
 Context tags: Platform, Software
 Keyword tags: Fork, Clone, Copy, Download
+-->
