@@ -1,6 +1,6 @@
 # Change Request Closure Ratio
 
-Question:  Is the project keeping up with change requests?
+**Question:**  Is the project keeping up with change requests?
 
 ## Overview
 
@@ -23,11 +23,13 @@ Change Request Closure Ratio evaluates if the project is handling change request
 ### Visualizations (optional)
 
 **Total vs. Closed Pull Requests**: Data from Augur displayed using the Seaborn Python library.
-![Total vs. Closed Pull Requests](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/change-request-closure-ratio-augur-py.png)
+![Total vs. Closed Pull Requests](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/time/images/change-request-closure-ratio-augur-py.png)
 
 *REI* [Data from GrimoireLab](https://chaoss.biterg.io/app/kibana#/dashboard/9663d5a0-e1dc-11e8-8aac-ef7fd4d8cbad?_g=h@e261bfa&_a=h@2475efc) (REI: Review Efficiency Index, defined as the number of closed pull requests divided by the number of open ones in a given period of time. Measures efficiency closing pull requests.)
 
-![Review Efficiency Index](https://raw.githubusercontent.com/chaoss/wg-common/main/focus-areas/time/images/change-request-closure-ratio-rei-grimoirelab.png)
+![Review Efficiency Index](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/time/images/change-request-closure-ratio-rei-grimoirelab.png)
+
+</details></span><br>
 
 ## References
 
@@ -40,11 +42,11 @@ Change Request Closure Ratio evaluates if the project is handling change request
 *   Kevin Lumbard
 *   Elizabeth Barron
 *   Yehui Wang
-*   Pecukiar C. Umeh
+*   Peculiar C. Umeh
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/time/change-request-closure-ratio.md).
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/time/change-request-closure-ratio.md).
 
 To reference this metric in software or publications please use this stable URL:<https://chaoss.community/?p=4834>
 
