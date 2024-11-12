@@ -1,39 +1,18 @@
 # Organizational Diversity
 
-Question: What is the organizational diversity of contributions?
+**Question:** What is the organizational diversity of contributions?
 
-## Description
+## Overview
+Organizational diversity refers to the variety of organizations that contribute to an open source project and how actively each organization participates. Measuring organizational diversity involves assessing the percentage of contributions from each organization within a defined period and monitoring changes in organizational composition over time.
 
-Organizational diversity expresses how many different organizations are involved in a project and how involved different organizations are compared to one another.
+Tracking organizational diversity informs project health and sustainability by showing the influence and investment levels of different organizations. It can indicate the project’s inclusivity, as a variety of contributing organizations may promote diverse perspectives. In contrast, a single organization's dominance might deter participation from others, potentially affecting inclusivity and innovation.
 
-##  Objectives
+## Want to Know More?
 
-Contributors are employed by a variety of organizations, which can influence the direction of the project. Organizational diversity looks at the organizations contributing to a project, including the percentage of contributions from each organization within a defined period of time to see the change of composition of organizations within a defined period of time. As part of organizational diversity, it is also useful to look at the people that are associated with each organization.
-
-Organizational diversity may impact the inclusivity of a project either positively or negatively. If an organization is employing people to work on open source, those people might come from more diverse backgrounds than projects that rely on people to have free time as volunteer contributors. If a single company dominates the project, others might not feel included or welcome. 
-
-## Implementation
-* Collect data from data sources where contributions occur.
-* Identify contributor affiliations to get a good estimate of which organizations they belong to.
-* Correlate information about contributions, assigning each to appropriate organization.
-* Depending on the needs of the project, you may want to consider such issues as how to handle multiple email addresses, affiliation changes over time, or contractor vs. employee.
-
-### Visualizations
-
-![Organizational Diversity Pie Chart](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/organizational-diversity_piechart.png)
-
-### Tools Providing the Metric
-
-[GrimoireLab](https://chaoss.github.io/grimoirelab) supports organizational diversity metrics out of the box. The [GrimoireLab SortingHat](https://github.com/chaoss/grimoirelab-sortinghat) manages identities. The [GrimoireLab Hatstall](https://github.com/chaoss/grimoirelab-hatstall) user interface allows correcting organizational affiliation of people and even recording affiliation changes.
-  * View an example visualization on the [CHAOSS instance of Bitergia Analytics](https://chaoss.biterg.io/app/kibana#/dashboard/Community-Structure-by-Organization).
-  * Download and import a ready-to-go dashboard containing examples for this metric visualization from the [GrimoireLab Sigils panel collection](https://chaoss.github.io/grimoirelab-sigils/panels/community-structure-by-organization/).
-
-* [LF Analytics](https://lfanalytics.io) provides organization diversity metrics in the primary view for commits, issues filed, and communication channels (current support for Slack and groups.io)
-
-![Organizational Diversity View](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/organizational-diversity_lfanalytics-orgdiversity.png) 
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
 ### Data Collection Strategies
-
 **Qualitative**
 
 * Footprint of an organization in a project or ecosystem
@@ -53,11 +32,27 @@ Organizational diversity may impact the inclusivity of a project either positive
 * Affiliation Diversity - Ratio of contributors from a single company over all contributors. Also described as: Maintainers from different companies. Diversity of contributor affiliation.
 * In projects with the concept of code ownership, % of code owners affiliated with each organization weighed by the importance/size/LoC of the code they own and the number of co-owners.
 
+### Filters
+- **Time Period:** Assess organizational diversity over various intervals.
+- **Contribution Type:** Filter by commits, issues, reviews, or other specific contributions.
+- **Organization Size:** Compare contributions from large vs. small organizations.
+
+### Visualizations
+- **Example Visualization 1:** Organizational diversity pie chart.  
+  ![Organizational Diversity Pie Chart](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/organizational-diversity_piechart.png)  
+  *Figure 1: Organizational diversity representation (CHAOSS, 2023)*
+
+- **Example Visualization 2:** Organizational diversity view on LF Analytics.  
+  ![Organizational Diversity View](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/organizational-diversity_lfanalytics-orgdiversity.png)  
+  *Figure 2: Organizational diversity metrics (LF Analytics, 2023)*
+
+</details></span><br>
+
 ## References
-* [https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html](https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html)
-* [Kata Containers dashboard entry page](https://katacontainers.biterg.io) (bottom of this)
-* [Augur](https://github.com/chaoss/augur)
-* [Drupal](​​https://dri.es/who-sponsors-drupal-development-2020)
+- [Bitergia OSPO Panel Collections](https://bitergia.gitlab.io/panel-collections/open_source_program_office/organizational-diversity.html)
+- [Kata Containers dashboard entry page](https://katacontainers.biterg.io)
+- [Augur](https://github.com/chaoss/augur)
+- [Who Sponsors Drupal Development](​​https://dri.es/who-sponsors-drupal-development-2020)
 
 ## Contributors
 - Dawn Foster
@@ -67,4 +62,13 @@ Organizational diversity may impact the inclusivity of a project either positive
 - Sean Goggins
 - Matt Germonprez
 - Georg Link
+- Yigakpoa L. Samuel
 
+## Additional Information
+To edit this metric, please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/organizational-diversity.md).  
+To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3464](https://chaoss.community/?p=3464)
+
+<!-- # For groupings in the knowledge base
+Context tags: Open Source, Diversity
+Keyword tags: Organizations, Contributions, Dominance, Inclusivity, Affiliation
+-->

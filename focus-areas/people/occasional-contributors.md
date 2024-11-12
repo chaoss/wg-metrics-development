@@ -1,60 +1,56 @@
 # Occasional Contributors
 
-Question: How do we understand the number of occasional contributors and the contributions that they make?
+**Question:** How do we understand the number of occasional contributors and the contributions that they make?
 
-## Description
-Occasional contributors are people who make contributions to a project on an irregular basis. Occasional contributors are important to recognize in a community as their contributions can serve to advance the project in meaningful ways. One precise definition of an occasional contributor is “someone who hasn’t submitted a pull request in at least 3 months and hasn’t had more than 12 pull requests overall in the project” [1]. 
+## Overview
 
-There are several  reasons for being an occasional contributor including:
-- A person has a bug they need fixed
-- A person works for a company and the company requires a fix or feature. 
-- A person needs to get their project to run on specific hardware
-- A person is fixing a typo.
-- A person is participating in a time-boxed event for a specific purpose or goal.
-- A person may have intended to stick around, but decided that the community or project was not a good fit for them.
-- A person may have intended to stick around, but may have experienced a life event that limited their participation in open source.
+Occasional contributors measures the number of people who make contributions to a project on an irregular basis. Occasional contributors are important to recognize in a community as their contributions can serve to advance the project in meaningful ways. They often have several reasons for being an occasional contributors, which include specific motivations, such as fixing a bug or getting their project to run on specific hardware. They might also participate in time-boxed events or simply explore the community before deciding on long-term involvement. Life events can also influence participation levels, leading to temporary or even permanent breaks. Monitoring occasional contributors can help to understand project engagement, including increased viewers, usage, and contributions. It also provides insights into the effectiveness of attracting and engaging new participants, as well as community health, diversity, and onboarding effectiveness.
 
-## Objectives
-Monitoring occasional contributors can help to understand if:
-- More people are looking at the project 
-- More people are using the project 
-- More people are contributing to the project
-- Increases in community contributions in connection with specific events 
-- The contribution and onboarding process is working well
-- There is an imbalance in diversity between sustained and occasional contributors 
-- A community is welcoming to diverse contributors 
+## Want to Know More?
 
-## Implementation
+<span markdown="1"><details>
+
+<summary>Click to read more about this metric.</summary>
 
 ### Filters
-- Minimum number of contributions before someone is no longer an occasional contributor 
-- Maximum length of time between contributions before someone is no longer considered an occasional contributor 
-- Percentage of overall contributors who are classified as occasional contributors
-- Repeat occasional contributors 
+
+*   Minimum number of contributions before someone is no longer an occasional contributor
+*   Maximum length of time between contributions before someone is no longer considered an occasional contributor
+*   Percentage of overall contributors who are classified as occasional contributors
+*   Repeat occasional contributors
 
 ### Visualizations
 
+[Augur](https://tinyurl.com/augur-flyby)
 ![Occasional Contributors Augur](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/occasional-augur.png)
 
-From Augur, Endpoint https://tinyurl.com/augur-flyby 
-Augur API Documentation: https://tinyurl.com/augur-flyby-docs 
-
+[Cauldron](https://cauldron.io/)
 ![Occasional Contributors Cauldron](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/images/occasional-caudron.png)
 
-From: https://cauldron.io/
-
-### Tools Providing the Metric
-- [Cauldron.io](https://cauldron.io/)
-- [Devstats](https://devstats.cncf.io/)
-- [Augur](https://github.com/chaoss/augur)
+</details></span><br>
 
 ## References
-- https://k8s.devstats.cncf.io/d/18/new-and-episodic-pr-contributors?orgId=1
-- [Have It Your Way: Maximizing Drive-Thru Contributions](https://archive.org/details/ato2017-drivethru) by VM Brasseur 
+
+*   https://k8s.devstats.cncf.io/d/18/new-and-episodic-pr-contributors?orgId=1
+*   [Have It Your Way: Maximizing Drive-Thru Contributions](https://archive.org/details/ato2017-drivethru) by VM Brasseur
+*   [Cauldron.io](https://cauldron.io/)
 
 ## Contributors
-- Matt Germonprez
-- Regina Nkemchor Adejo
-- Dawn Foster
-- Kevin Lumbard
-- Vinod Ahuja
+
+*   Matt Germonprez
+*   Regina Nkemchor Adejo
+*   Dawn Foster
+*   Kevin Lumbard
+*   Vinod Ahuja
+*   Peculiar C. Umeh
+
+## Additional Information
+
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/people/occasional-contributors.md)
+
+To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3466>
+
+<!-- # For groupings in the knowledge base
+Context tags: Contributor
+Keyword tags: people, fly by, drive-through, contribution, technology 
+-->

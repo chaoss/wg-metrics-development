@@ -12,6 +12,16 @@ Change Request Review Duration measures the average time between a change reques
 
 <summary>Click to read more about this metric.</summary>
 
+
+### Data Collection Strategies
+
+*   Survey project contributors.
+*   Use a survey to gather project demographics. (For example, using the Open Demographics questions)
+*   Survey new community members as identified through such ways as attending newcomer hangout, recent introductions, and time to first
+    PR mrge.
+*   Survey that is activated by certain types of contributions like non-code contribution, community engagement etc.
+
+
 ### Filters
 
 *   Change Request Review Duration can be filtered by:
@@ -22,16 +32,23 @@ Change Request Review Duration measures the average time between a change reques
 *   Date and time of the response
 *   [change request](https://github.com/chaoss/wg-evolution/blob/main/focus-areas/code-development-process-quality/change-requests.md) type and size may affect the response time.
 
+
 ### Visualization
 
 ![Augur Image](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/time/images/change-request-review-duration_img1.png)
 
 </details></span><br>
 
+
 ## References
 
+*   [Augur](https://augurlabs.io/)
+*   [GrimoireLab](https://chaoss.github.io/grimoirelab/)
 *   [Code Review Decision Fatigue](https://tylercipriani.com/blog/2022/03/12/code-review-procrastination-and-clarity/)
-*   [Augur Documentation](https://oss-augur.readthedocs.io/en/main/rest-api/api.html#operation/Mean%20Response%20Times%20for%20Closed%20Pull%20Requests)
+*   [Augur Image API](http://augur.chaoss.io/api/unstable/pull_request_reports/mean_response_times_for_PR?repo_id=25440)
+*   [Documentation](https://oss-augur.readthedocs.io/en/main/rest-api/api.html#operation/Mean%20Response%20Times%20for%20Closed%20Pull%20Requests)
+*   [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md)
+
 
 ## Contributors
 
