@@ -57,8 +57,7 @@ Filter contributions by:
 
 ## References
 
-*   Gonzalez-Barahona, J. M., Robles, G., Andradas-Izquierdo, R., & Ghosh, R. A. (2008).
-*   Geographic origin of libre software developers. *Information Economics and Policy*, *20*(4), 356-363.
+*   Gonzalez-Barahona, J. M., Robles, G., Andradas-Izquierdo, R., & Ghosh, R. A. (2008). Geographic origin of libre software developers. *Information Economics and Policy*, *20*(4), 356-363.
 
 ## Contributors
 
