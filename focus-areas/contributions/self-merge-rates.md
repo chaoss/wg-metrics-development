@@ -50,4 +50,4 @@ To reference this metric in software or publications please use this stable URL:
 <!-- # For groupings in the knowledge base
 Context tags: Contribution
 Keyword tags: self-merge, no reviews, merge own pr, merge own change request
-→
+-->
