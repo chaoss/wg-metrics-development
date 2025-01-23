@@ -57,6 +57,32 @@ By location of engagement. For example:
 *   Programming languages of the project
 *   Role or function in project
 
+### Visualizations
+
+1.  List of contributor names (often with information about their level of engagement)
+
+![Contributor names and info](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/contributors_top-contributor-info.png)
+
+*Figure 1: List of contributors and engagement*
+
+2.  Summary number of contributors
+
+![Summary number of contributors](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/contributors_summary-contributor-number.png)
+
+*Figure 2: Summary number of contributors*
+
+3.  Change in the number of active contributors over time
+
+![Contributor growth](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/contributors_growth.png)
+
+*Figure 3: Change in the number of active contributors over time*
+
+4.  New contributors (sort list of contributors by date of first contribution)
+
+![New contributors](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/images/contributors_first-commit-date.png)
+
+*Figure 4: List of new contributors*
+
 </details></span><br>
 
 ## References
@@ -75,7 +101,7 @@ None specified.
 
 ## Additional Information
 
-To edit this metric, please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/contributors.md)<br>
+To edit this metric, please submit a Change Request [here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/contributors.md)<br>
 To reference this metric in software or publications, please use this stable URL: <https://chaoss.community/?p=3630>
 
 <!-- # For groupings in the knowledge base
