@@ -67,8 +67,7 @@ Filter contributions by:
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/contributor-location.md)
-
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/contributor-location.md)<br>
 To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3468>
 
 <!-- # For groupings in the knowledge base
