@@ -55,8 +55,7 @@ A technical fork is a distributed version control copy of a project. Unlike [clo
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/contributions/technical-fork.md)
-
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/contributions/technical-fork.md)<br>
 To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3431>
 
 <!-- # For groupings in the knowledge base
