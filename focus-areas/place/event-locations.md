@@ -29,6 +29,11 @@ Event Locations helps understand where events for a project are located to bette
 
 </details></span><br>
 
+## References
+
+*   https://events.linuxfoundation.org/
+*   https://saopen.ieee.org/events/
+
 ## Contributors
 
 *   Elizabeth Barron
@@ -41,8 +46,7 @@ Event Locations helps understand where events for a project are located to bette
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/place/event-locations.md)
-
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-common/blob/main/focus-areas/place/event-locations.md).<br>
 To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3483>
 
 <!-- # For groupings in the knowledge base
