@@ -102,7 +102,7 @@ None specified.
 ## Additional Information
 
 To edit this metric, please submit a Change Request [here](https://github.com/chaoss/wg-metrics-development/blob/main/focus-areas/people/contributors.md)<br>
-To reference this metric in software or publications, please use this stable URL: <https://chaoss.community/?p=3630>
+To reference this metric in software or publications, please use this stable URL: <https://chaoss.community/?p=3467>
 
 <!-- # For groupings in the knowledge base
 Context tags: Contributor Recognition, Project Health, Community Engagement, Project Involvement Metrics, Contributor Roles
